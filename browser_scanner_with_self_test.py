@@ -270,8 +270,8 @@ class BrowserComprehensiveScanner:
             
             # Small delay between tests
             if i < total_tests:  # Don't delay after the last test
-                print(f"   ⏳ Waiting 1.5 seconds before next test...")
-                time.sleep(1.5)
+                print(f"   ⏳ Waiting 0.2 seconds before next test...")
+                time.sleep(0.2)
         
         # Calculate accuracy
         accuracy = (correct_predictions / total_tests) * 100
@@ -575,7 +575,8 @@ class BrowserComprehensiveScanner:
                 'health', 'therapy', 'treatment', 'service', 'price', 
                 'location', 'contact', 'phone', 'doctor', 'wellness',
                 'altura health', 'dripbar', 'weight loss', 'injection',
-                'semaglutide', 'tirzepatide', 'ozempic', 'mounjaro'
+                'semaglutide', 'tirzepatide', 'ozempic', 'mounjaro',
+                'iv therapy', 'vitamin', 'consultation', 'appointment'
             ]
             
             # Error page indicators
@@ -593,22 +594,45 @@ class BrowserComprehensiveScanner:
                 '401' in page_text_lower or 
                 'nothing left to do here' in page_text_lower or
                 'go to homepage' in page_text_lower or
-                error_count > 0
+                error_count > 0 or
+                len(page_text) < 100
             )
             
             is_business_page = (
                 business_count >= 2 and 
                 not is_error_page and
-                len(page_text) > 100
+                len(page_text) > 200
             )
             
-            # Classification and output
+            # Get indicators found for detailed reporting
+            indicators_found = [indicator for indicator in business_indicators if indicator in page_text_lower]
+            error_indicators_found = [indicator for indicator in error_indicators if indicator in page_text_lower]
+            
+            # Classification and detailed output
             if is_error_page:
-                print(f"   🚫 401 ERROR PAGE")
+                print(f"   🚫 INACTIVE_401 - Error Page")
+                print(f"   📏 Content Length: {len(page_text)} chars")
+                print(f"   🔗 Final URL: {final_url}")
+                if error_indicators_found:
+                    print(f"   🔍 Error Indicators Found: {', '.join(error_indicators_found)}")
                 classification = "401_ERROR"
                 return None  # Don't save error pages
             elif is_business_page:
-                print(f"   🌟 ACTIVE BUSINESS PAGE - {business_count} indicators!")
+                # Extract business name
+                business_name = self.extract_business_name_enhanced(page_text, page_title)
+                
+                print(f"   🌟 ACTIVE BUSINESS PAGE - {business_name}")
+                print(f"   📊 Business Indicators: {business_count}")
+                print(f"   📄 Page Title: {page_title}")
+                print(f"   📏 Content Length: {len(page_text)} chars")
+                print(f"   ⏱️  Load Time: {load_time:.2f} seconds")
+                print(f"   🔍 Business Indicators Found: {', '.join(indicators_found)}")
+                
+                # Extract and show services/pricing if available
+                services = self.extract_services_from_content(page_text)
+                if services:
+                    print(f"   💰 Services Found: {', '.join(services[:3])}")
+                
                 classification = "ACTIVE_BUSINESS"
                 
                 # This is a find! Return detailed info
@@ -617,16 +641,24 @@ class BrowserComprehensiveScanner:
                     'url': url,
                     'final_url': final_url,
                     'classification': classification,
+                    'business_name': business_name,
                     'business_indicators': business_count,
                     'error_indicators': error_count,
+                    'indicators_found': indicators_found,
+                    'error_indicators_found': error_indicators_found,
                     'page_title': page_title,
                     'content_length': len(page_text),
                     'load_time': load_time,
-                    'content_preview': page_text[:300],
+                    'content_preview': page_text[:500] + "..." if len(page_text) > 500 else page_text,
                     'tested_at': datetime.now().isoformat()
                 }
             else:
-                print(f"   ⚠️  UNCLEAR CONTENT - {len(page_text)} chars")
+                print(f"   ⚠️  UNCLEAR CONTENT")
+                print(f"   📏 Content Length: {len(page_text)} chars")
+                print(f"   📊 Business Indicators: {business_count}")
+                print(f"   🚫 Error Indicators: {error_count}")
+                if indicators_found:
+                    print(f"   🔍 Some Business Indicators: {', '.join(indicators_found[:3])}")
                 classification = "UNCLEAR"
                 return None  # Don't save unclear results
                 
@@ -661,9 +693,10 @@ class BrowserComprehensiveScanner:
             print("💾 No active business pages found yet")
             return
         
-        fieldnames = ['slug', 'url', 'final_url', 'classification', 'business_indicators', 
-                     'error_indicators', 'page_title', 'content_length', 'load_time',
-                     'content_preview', 'tested_at']
+        fieldnames = ['slug', 'url', 'final_url', 'classification', 'business_name',
+                     'business_indicators', 'error_indicators', 'indicators_found', 
+                     'error_indicators_found', 'page_title', 'content_length', 
+                     'load_time', 'content_preview', 'tested_at']
         
         with open(self.results_file, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
