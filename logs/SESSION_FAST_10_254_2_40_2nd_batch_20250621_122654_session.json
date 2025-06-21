@@ -1,0 +1,77 @@
+{
+  "session_info": {
+    "session_id": "SESSION_FAST_10_254_2_40_2nd_batch_20250621_122654",
+    "hostname": "10_254_2_40",
+    "instance_id": "9uwl6e",
+    "start_time": "2025-06-21T12:26:54.180720",
+    "end_time": "2025-06-21T12:27:31.383020",
+    "session_type": "FAST_COMPREHENSIVE_SCAN",
+    "range_start": "FILE_BASED",
+    "range_end": "FILE_BASED",
+    "scanner_version": "3.0_complete_fast"
+  },
+  "testing_results": [
+    {
+      "slug": "vr9aa",
+      "timestamp": "2025-06-21T12:27:03.153650",
+      "test_type": "FAST_COMPREHENSIVE_SCAN",
+      "status": "TIMEOUT",
+      "business_name": "",
+      "load_time": 8.913119316101074,
+      "content_length": 0,
+      "business_indicators": 0,
+      "error_indicators": 0,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/vr9aa",
+      "error": "BROWSER_ERROR: Page load timeout for vr9aa"
+    },
+    {
+      "slug": "tgfqf",
+      "timestamp": "2025-06-21T12:27:13.556511",
+      "test_type": "FAST_COMPREHENSIVE_SCAN",
+      "status": "INACTIVE_401",
+      "business_name": "",
+      "load_time": 10.24151873588562,
+      "content_length": 49,
+      "business_indicators": 0,
+      "error_indicators": 4,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "error": ""
+    },
+    {
+      "slug": "qh641",
+      "timestamp": "2025-06-21T12:27:21.200574",
+      "test_type": "FAST_COMPREHENSIVE_SCAN",
+      "status": "INACTIVE_401",
+      "business_name": "",
+      "load_time": 7.490211009979248,
+      "content_length": 49,
+      "business_indicators": 0,
+      "error_indicators": 4,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "error": ""
+    },
+    {
+      "slug": "j343m",
+      "timestamp": "2025-06-21T12:27:29.379836",
+      "test_type": "FAST_COMPREHENSIVE_SCAN",
+      "status": "INACTIVE_401",
+      "business_name": "",
+      "load_time": 8.019017934799194,
+      "content_length": 49,
+      "business_indicators": 0,
+      "error_indicators": 4,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "error": ""
+    }
+  ],
+  "session_summary": {
+    "total_tested": 4,
+    "active_found": 0,
+    "inactive_found": 3,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "other_errors": 0,
+    "session_duration_seconds": 37.2023,
+    "average_test_time": 9.300575
+  }
+}

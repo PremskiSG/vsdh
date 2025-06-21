@@ -1,0 +1,387 @@
+{
+  "session_info": {
+    "session_id": "SESSION_HYBRID_10_254_2_40_test20_20250621_120734",
+    "hostname": "10_254_2_40",
+    "instance_id": "test20",
+    "start_time": "2025-06-21T12:07:34.983535",
+    "end_time": "2025-06-21T12:07:40.978677",
+    "session_type": "HYBRID_SCAN",
+    "range_start": "aaaaa",
+    "range_end": "zzzzz",
+    "scanner_version": "3.0_hybrid_fast"
+  },
+  "performance_stats": {
+    "total_tested": 20,
+    "http_filtered": 20,
+    "browser_verified": 0,
+    "active_found": 0,
+    "inactive_found": 0,
+    "errors": 0,
+    "avg_http_time": 0,
+    "avg_browser_time": 0,
+    "speed_improvement": 20.0,
+    "session_duration_seconds": 5.995142
+  },
+  "testing_results": [
+    {
+      "slug": "ad31y",
+      "timestamp": "2025-06-21T12:07:35.850095",
+      "result": {
+        "slug": "ad31y",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.8662998676300049,
+        "browser_time": 0,
+        "total_time": 0.8662998676300049,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ad31y",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "mj42f",
+      "timestamp": "2025-06-21T12:07:36.115735",
+      "result": {
+        "slug": "mj42f",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.21019315719604492,
+        "browser_time": 0,
+        "total_time": 0.21019315719604492,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/mj42f",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "os27m",
+      "timestamp": "2025-06-21T12:07:36.385856",
+      "result": {
+        "slug": "os27m",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.2147660255432129,
+        "browser_time": 0,
+        "total_time": 0.2147660255432129,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/os27m",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "lp56a",
+      "timestamp": "2025-06-21T12:07:36.653837",
+      "result": {
+        "slug": "lp56a",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.21271705627441406,
+        "browser_time": 0,
+        "total_time": 0.21271705627441406,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/lp56a",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "zb74k",
+      "timestamp": "2025-06-21T12:07:36.918123",
+      "result": {
+        "slug": "zb74k",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.20977783203125,
+        "browser_time": 0,
+        "total_time": 0.20977783203125,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zb74k",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "ym99l",
+      "timestamp": "2025-06-21T12:07:37.184466",
+      "result": {
+        "slug": "ym99l",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.21460700035095215,
+        "browser_time": 0,
+        "total_time": 0.21460700035095215,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ym99l",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "yh52b",
+      "timestamp": "2025-06-21T12:07:37.445667",
+      "result": {
+        "slug": "yh52b",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.20906305313110352,
+        "browser_time": 0,
+        "total_time": 0.20906305313110352,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yh52b",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "zd20w",
+      "timestamp": "2025-06-21T12:07:37.707301",
+      "result": {
+        "slug": "zd20w",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.21075892448425293,
+        "browser_time": 0,
+        "total_time": 0.21075892448425293,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zd20w",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "td32z",
+      "timestamp": "2025-06-21T12:07:37.970181",
+      "result": {
+        "slug": "td32z",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.21105694770812988,
+        "browser_time": 0,
+        "total_time": 0.21105694770812988,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/td32z",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "bo19e",
+      "timestamp": "2025-06-21T12:07:38.237095",
+      "result": {
+        "slug": "bo19e",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.21216511726379395,
+        "browser_time": 0,
+        "total_time": 0.21216511726379395,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bo19e",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "aaaaa",
+      "timestamp": "2025-06-21T12:07:38.504258",
+      "result": {
+        "slug": "aaaaa",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.2116239070892334,
+        "browser_time": 0,
+        "total_time": 0.2116239070892334,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/aaaaa",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "aaaab",
+      "timestamp": "2025-06-21T12:07:38.767011",
+      "result": {
+        "slug": "aaaab",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.20952415466308594,
+        "browser_time": 0,
+        "total_time": 0.20952415466308594,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/aaaab",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "aaaac",
+      "timestamp": "2025-06-21T12:07:39.034670",
+      "result": {
+        "slug": "aaaac",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.21568083763122559,
+        "browser_time": 0,
+        "total_time": 0.21568083763122559,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/aaaac",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "aaaad",
+      "timestamp": "2025-06-21T12:07:39.296162",
+      "result": {
+        "slug": "aaaad",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.20924019813537598,
+        "browser_time": 0,
+        "total_time": 0.20924019813537598,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/aaaad",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "aaaae",
+      "timestamp": "2025-06-21T12:07:39.557779",
+      "result": {
+        "slug": "aaaae",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.20861577987670898,
+        "browser_time": 0,
+        "total_time": 0.20861577987670898,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/aaaae",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "aaaaf",
+      "timestamp": "2025-06-21T12:07:39.823263",
+      "result": {
+        "slug": "aaaaf",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.2121739387512207,
+        "browser_time": 0,
+        "total_time": 0.2121739387512207,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/aaaaf",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "aaaag",
+      "timestamp": "2025-06-21T12:07:40.086605",
+      "result": {
+        "slug": "aaaag",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.20974230766296387,
+        "browser_time": 0,
+        "total_time": 0.20974230766296387,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/aaaag",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "aaaah",
+      "timestamp": "2025-06-21T12:07:40.352518",
+      "result": {
+        "slug": "aaaah",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.21040773391723633,
+        "browser_time": 0,
+        "total_time": 0.21040773391723633,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/aaaah",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "aaaai",
+      "timestamp": "2025-06-21T12:07:40.626568",
+      "result": {
+        "slug": "aaaai",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.21907782554626465,
+        "browser_time": 0,
+        "total_time": 0.21907782554626465,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/aaaai",
+        "http_filter_reason": "error_indicators:1"
+      }
+    },
+    {
+      "slug": "aaaaj",
+      "timestamp": "2025-06-21T12:07:40.927833",
+      "result": {
+        "slug": "aaaaj",
+        "method": "HTTP_ONLY",
+        "status": "INACTIVE_FILTERED",
+        "business_name": "",
+        "http_time": 0.24603819847106934,
+        "browser_time": 0,
+        "total_time": 0.24603819847106934,
+        "content_length": 7537,
+        "business_indicators": 0,
+        "error_indicators": 1,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/aaaaj",
+        "http_filter_reason": "error_indicators:1"
+      }
+    }
+  ]
+}

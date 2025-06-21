@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-06-21T12:27:31.382757",
+  "tested_count": 5,
+  "skipped_count": 0,
+  "found_slugs_count": 0,
+  "session_info": {
+    "session_id": "SESSION_FAST_10_254_2_40_2nd_batch_20250621_122654",
+    "hostname": "10_254_2_40",
+    "instance_id": "9uwl6e",
+    "start_time": "2025-06-21T12:26:54.180720",
+    "end_time": "2025-06-21T12:27:31.377935",
+    "session_type": "FAST_COMPREHENSIVE_SCAN",
+    "range_start": "FILE_BASED",
+    "range_end": "FILE_BASED",
+    "scanner_version": "3.0_complete_fast"
+  },
+  "found_businesses": []
+}

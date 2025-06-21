@@ -1,0 +1,24 @@
+{
+  "session_info": {
+    "session_id": "SESSION_FILE_10_254_2_40_4th_batch_20250621_123817",
+    "hostname": "10_254_2_40",
+    "instance_id": "c41aqs",
+    "start_time": "2025-06-21T12:38:17.505548",
+    "end_time": "2025-06-21T12:38:17.510121",
+    "session_type": "COMPREHENSIVE_SCAN",
+    "range_start": "FILE_BASED",
+    "range_end": "FILE_BASED",
+    "scanner_version": "2.1_session_logging"
+  },
+  "testing_results": [],
+  "session_summary": {
+    "total_tested": 0,
+    "active_found": 0,
+    "inactive_found": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "other_errors": 0,
+    "session_duration_seconds": 0.004573,
+    "average_test_time": 0
+  }
+}
