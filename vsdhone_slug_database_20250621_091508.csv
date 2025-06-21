@@ -1,0 +1,122 @@
+slug,status,business_name,tested_method,last_tested,url,redirects_to,content_length,business_indicators,services,description
+ac19z,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ac19z,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ad31y,ACTIVE,The DRIPBaR Direct - Sebring (FL),Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ad31y,,,,,
+ad49t,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ad49t,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ah41a,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ah41a,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ai04u,ACTIVE,,Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ai04u,,,,,
+an32l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/an32l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ao09l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ao09l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ao30j,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ao30j,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ap12l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ap12l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ap24l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ap24l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ap39b,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ap39b,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ap93l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ap93l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+au00k,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/au00k,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+az97l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/az97l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ba22b,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ba22b,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ba29u,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ba29u,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+bb49m,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bb49m,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+bg92b,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bg92b,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+bh70s,ACTIVE,,Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bh70s,,,,,
+bj21f,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bj21f,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+bm49t,ACTIVE,,Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bm49t,,,,,
+bo19e,ACTIVE,,Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bo19e,,,,,
+bo40s,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bo40s,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+bq77s,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bq77s,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+bt21u,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bt21u,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+bx73l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bx73l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+cm42y,INACTIVE_401,401,Browser_Automation,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/cm42y,/widget/401,49,0,,401 ERROR Nothing left to do here. Go To HomePage
+cm72x,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/cm72x,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+cp94s,INACTIVE_401,401,Browser_Automation,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/cp94s,/widget/401,49,0,,401 ERROR Nothing left to do here. Go To HomePage
+ds24m,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ds24m,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ej48u,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ej48u,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ek22b,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ek22b,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+faaaa,INACTIVE_401,,Other_Laptop_Range,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/faaaa,/widget/401,,0,,Range tested on other laptop - all inactive
+fabon,INACTIVE_401,,Other_Laptop_Range,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/fabon,/widget/401,,0,,Range tested on other laptop - all inactive
+fb37i,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/fb37i,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+fi23p,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/fi23p,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+fu42w,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/fu42w,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+fu73w,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/fu73w,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+hd53o,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/hd53o,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+hn34w,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/hn34w,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ie72w,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ie72w,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ji39e,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ji39e,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+jm09a,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/jm09a,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ki38l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ki38l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+kp91y,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/kp91y,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+lc44m,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/lc44m,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ld19e,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ld19e,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+li75b,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/li75b,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+lm70z,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/lm70z,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+lp56a,ACTIVE,,Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/lp56a,,,,,
+lp57s,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/lp57s,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+lx39o,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/lx39o,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+md10i,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/md10i,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+md23r,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/md23r,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+mj23y,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/mj23y,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+mj42f,ACTIVE,,Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/mj42f,,,,,
+mm31o,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/mm31o,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+mu39k,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/mu39k,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+no52l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/no52l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ob96u,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ob96u,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+oc21f,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/oc21f,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+od04m,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/od04m,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+od46y,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/od46y,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+od74i,INACTIVE_401,401,Browser_Automation,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/od74i,/widget/401,49,0,,401 ERROR Nothing left to do here. Go To HomePage
+oe22j,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/oe22j,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+os27m,ACTIVE,,Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/os27m,,,,,
+paaaa,INACTIVE_401,,Other_Laptop_Range,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/paaaa,/widget/401,,0,,Range tested on other laptop - all inactive
+pabhs,INACTIVE_401,,Other_Laptop_Range,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/pabhs,/widget/401,,0,,Range tested on other laptop - all inactive
+pb70u,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/pb70u,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+pd10j,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/pd10j,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ph06f,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ph06f,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+qb22i,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/qb22i,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+qd90t,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/qd90t,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+qm40f,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/qm40f,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+qm61l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/qm61l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+qs46l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/qs46l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+qu29u,ACTIVE,,Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/qu29u,,,,,
+rn11f,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/rn11f,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+rs90w,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/rs90w,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+sb22a,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/sb22a,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+se21u,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/se21u,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+sh25y,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/sh25y,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+sp29k,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/sp29k,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ta10c,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ta10c,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+tb54h,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/tb54h,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+tc33l,ACTIVE,Altura Health (TX),Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/tc33l,,,,,
+td32z,ACTIVE,,Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/td32z,,,,,
+th24m,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/th24m,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+tj54k,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/tj54k,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ts20k,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ts20k,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+tu30x,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/tu30x,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+uv34g,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/uv34g,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+wb02l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/wb02l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+wh04f,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/wh04f,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+xd36a,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/xd36a,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+xn76q,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/xn76q,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+yaaaa,INACTIVE_401,,Other_Laptop_Range,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yaaaa,/widget/401,,0,,Range tested on other laptop - all inactive
+yabny,INACTIVE_401,,Other_Laptop_Range,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yabny,/widget/401,,0,,Range tested on other laptop - all inactive
+yc92e,INACTIVE_401,401,Browser_Automation,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yc92e,/widget/401,49,0,,401 ERROR Nothing left to do here. Go To HomePage
+yd20m,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yd20m,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+yh04s,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yh04s,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+yh47e,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yh47e,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+yh52b,ACTIVE,,Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yh52b,,,,,
+yh71m,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yh71m,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ym99l,ACTIVE,,Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ym99l,,,,,
+yp99l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yp99l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+yr29t,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yr29t,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+yr37m,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yr37m,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ys53r,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ys53r,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+ys92q,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ys92q,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+yw24w,INACTIVE_401,401,Browser_Automation,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yw24w,/widget/401,49,0,,401 ERROR Nothing left to do here. Go To HomePage
+zb74k,ACTIVE,,Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zb74k,,,,,
+zd20w,ACTIVE,,Known_Working,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zd20w,,,,,
+zd22z,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zd22z,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+zh29s,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zh29s,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+zm10l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zm10l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+zo24s,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zo24s,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+zp06q,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zp06q,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+zq34m,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zq34m,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+zs39u,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zs39u,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account
+zx42l,INACTIVE_401,,API_HTTP,2025-06-20,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zx42l,/widget/401,7537,0,,Returns identical React SPA HTML - likely inactive account

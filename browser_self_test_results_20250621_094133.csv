@@ -1,0 +1,167 @@
+slug,expected_status,status,is_correct,business_name,url,final_url,page_title,content_length,business_indicators,error_indicators,classification,indicators_found,error_indicators_found,content_preview,load_time,tested_at
+aaanr,INACTIVE_401,INACTIVE_401,True,,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/aaanr,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401,,49,0,4,401_ERROR,[],"['401', 'error', 'nothing left to do here', 'go to homepage']","401
+ERROR
+Nothing left to do here.
+Go To HomePage",14.784091711044312,2025-06-21T09:41:50.087538
+qu29u,ACTIVE,ACTIVE,True,The DRIPBaR Direct - Grand Rapids (MI),https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/qu29u,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/qu29u,The DRIPBaR Direct - Grand Rapids (MI),1905,7,0,ACTIVE_BUSINESS,"['therapy', 'service', 'dripbar', 'weight loss', 'injection', 'semaglutide', 'tirzepatide']",[],"Login
+Sign up
+The DRIPBaR Direct - Grand Rapids (MI)
+View Details
+Explore our services
+Service Categories
+Learn More
+Semaglutide (Injection)
+Starting at $225.00
+Learn More
+Semaglutide (Sublingual)
+Starting at $400.00
+Learn More
+Tirzepatide
+Starting at $275.00
+Learn More
+Sermorelin
+Starting at $300.00
+Learn More
+Sermorelin/Glycine Troche
+Starting at $300.00
+Learn More
+Sermorelin (Sublingual)
+Starting at $300.00
+Learn More
+NAD+ Injection
+Starting at $200.00
+Learn More
+NAD+ Nasal Spray
+Starting at ...",12.810488939285278,2025-06-21T09:42:05.508368
+yaaam,INACTIVE_401,INACTIVE_401,True,,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yaaam,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401,,49,0,4,401_ERROR,[],"['401', 'error', 'nothing left to do here', 'go to homepage']","401
+ERROR
+Nothing left to do here.
+Go To HomePage",11.541488885879517,2025-06-21T09:42:19.560574
+m0088,INACTIVE_401,INACTIVE_401,True,,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/m0088,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401,,49,0,4,401_ERROR,[],"['401', 'error', 'nothing left to do here', 'go to homepage']","401
+ERROR
+Nothing left to do here.
+Go To HomePage",11.715220928192139,2025-06-21T09:42:33.824899
+td32z,ACTIVE,ACTIVE,True,The DRIPBaR Direct - Portsmouth,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/td32z,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/td32z,The DRIPBaR Direct - Portsmouth,1833,7,0,ACTIVE_BUSINESS,"['therapy', 'service', 'dripbar', 'weight loss', 'injection', 'semaglutide', 'tirzepatide']",[],"Login
+Sign up
+The DRIPBaR Direct - Portsmouth
+View Details
+Explore our services
+Service Categories
+Learn More
+Semaglutide (Injection)
+Starting at $225.00
+Learn More
+Semaglutide (Sublingual)
+Starting at $400.00
+Learn More
+Tirzepatide
+Starting at $275.00
+Learn More
+Sermorelin
+Starting at $340.00
+Learn More
+Sermorelin (Sublingual)
+Starting at $300.00
+Learn More
+Sermorelin/Glycine Troche
+Starting at $300.00
+Learn More
+Oral Weight Loss Capsules
+Starting at $250.00
+Learn More
+Testosterone Replacement ...",11.384107112884521,2025-06-21T09:42:47.794533
+m003t,INACTIVE_401,INACTIVE_401,True,,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/m003t,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401,,49,0,4,401_ERROR,[],"['401', 'error', 'nothing left to do here', 'go to homepage']","401
+ERROR
+Nothing left to do here.
+Go To HomePage",11.65618109703064,2025-06-21T09:43:02.031334
+ym99l,ACTIVE,ACTIVE,True,The DRIPBaR Direct - Rochester Hills (MI),https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ym99l,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ym99l,The DRIPBaR Direct - Rochester Hills (MI),1843,7,0,ACTIVE_BUSINESS,"['therapy', 'service', 'dripbar', 'weight loss', 'injection', 'semaglutide', 'tirzepatide']",[],"Login
+Sign up
+The DRIPBaR Direct - Rochester Hills (MI)
+View Details
+Explore our services
+Service Categories
+Learn More
+Tadalafil (Tablets)
+Starting at $120.00
+Learn More
+Sermorelin (Sublingual)
+Starting at $300.00
+Learn More
+Hair loss Finasteride Tablet
+Starting at $100.00
+Learn More
+Sermorelin/Glycine Troche
+Starting at $300.00
+Learn More
+Oral Weight Loss Capsules
+Starting at $250.00
+Learn More
+Semaglutide (Injection)
+Starting at $225.00
+Learn More
+Semaglutide (Sublingual)
+Starting at $400.00
+...",11.426358699798584,2025-06-21T09:43:16.064594
+os27m,ACTIVE,ACTIVE,True,The DRIPBaR Direct - Town and Country (MO),https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/os27m,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/os27m,The DRIPBaR Direct - Town and Country (MO),1844,7,0,ACTIVE_BUSINESS,"['therapy', 'service', 'dripbar', 'weight loss', 'injection', 'semaglutide', 'tirzepatide']",[],"Login
+Sign up
+The DRIPBaR Direct - Town and Country (MO)
+View Details
+Explore our services
+Service Categories
+Learn More
+Semaglutide (Injection)
+Starting at $225.00
+Learn More
+Semaglutide (Sublingual)
+Starting at $400.00
+Learn More
+Tirzepatide
+Starting at $275.00
+Learn More
+Sermorelin
+Starting at $300.00
+Learn More
+Sermorelin (Sublingual)
+Starting at $300.00
+Learn More
+Sermorelin/Glycine Troche
+Starting at $300.00
+Learn More
+Oral Weight Loss Capsules
+Starting at $250.00
+Learn More
+NAD+ Injection...",11.7954421043396,2025-06-21T09:43:30.433329
+naaka,INACTIVE_401,INACTIVE_401,True,,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/naaka,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401,,49,0,4,401_ERROR,[],"['401', 'error', 'nothing left to do here', 'go to homepage']","401
+ERROR
+Nothing left to do here.
+Go To HomePage",11.41371202468872,2025-06-21T09:43:44.429733
+ai04u,ACTIVE,ACTIVE,True,The DRIPBaR Direct - Midlothian (VA),https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ai04u,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ai04u,The DRIPBaR Direct - Midlothian (VA),1838,7,0,ACTIVE_BUSINESS,"['therapy', 'service', 'dripbar', 'weight loss', 'injection', 'semaglutide', 'tirzepatide']",[],"Login
+Sign up
+The DRIPBaR Direct - Midlothian (VA)
+View Details
+Explore our services
+Service Categories
+Learn More
+Semaglutide (Injection)
+Starting at $225.00
+Learn More
+Semaglutide (Sublingual)
+Starting at $400.00
+Learn More
+Tirzepatide
+Starting at $275.00
+Learn More
+Sermorelin
+Starting at $340.00
+Learn More
+Sermorelin/Glycine Troche
+Starting at $300.00
+Learn More
+Sermorelin (Sublingual)
+Starting at $300.00
+Learn More
+NAD+ Injection
+Starting at $200.00
+Learn More
+NAD+ Nasal Spray
+Starting at $2...",11.444277048110962,2025-06-21T09:43:58.473365

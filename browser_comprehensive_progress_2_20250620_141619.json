@@ -1,9 +1,9 @@
 {
   "instance_id": "2",
-  "tested_count": 250,
+  "tested_count": 4151,
   "found_count": 0,
   "start_time": "2025-06-20T14:16:19.800850",
-  "current_time": "2025-06-20T15:27:52.955387",
+  "current_time": "2025-06-21T09:07:51.379697",
   "range_start": "m0000",
   "range_end": "xzzzz"
 }

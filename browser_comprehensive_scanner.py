@@ -19,6 +19,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from threading import Lock
+from selenium.common.exceptions import TimeoutException, WebDriverException
+import glob
 
 class BrowserComprehensiveScanner:
     def __init__(self, instance_id=None, start_range=None, end_range=None):
@@ -37,6 +39,10 @@ class BrowserComprehensiveScanner:
         self.start_range = start_range or 'aaaaa'
         self.end_range = end_range or 'zzzzz'
         
+        # Load tested slugs from database to avoid retesting
+        self.tested_slugs = self.load_tested_slugs_database()
+        print(f"📚 Loaded {len(self.tested_slugs)} previously tested slugs from database")
+        
         # Known working slugs to skip
         self.known_slugs = {
             'ad31y', 'mj42f', 'os27m', 'lp56a', 'zb74k', 'ym99l', 
@@ -47,6 +53,7 @@ class BrowserComprehensiveScanner:
         # Results tracking
         self.found_slugs = []
         self.tested_count = 0
+        self.skipped_count = 0
         self.start_time = None
         self.checkpoint_interval = 50  # Save checkpoint every 50 slugs
         
@@ -71,6 +78,36 @@ class BrowserComprehensiveScanner:
         print(f"💾 Results file: {self.results_file}")
         print(f"📍 Checkpoint file: {self.checkpoint_file}")
         print("")
+    
+    def load_tested_slugs_database(self):
+        """Load previously tested slugs from the most recent database file"""
+        tested_slugs = set()
+        
+        # Find the most recent slug database JSON file
+        json_files = glob.glob("vsdhone_slug_database_*.json")
+        if not json_files:
+            print("📭 No existing slug database found - will test all slugs")
+            return tested_slugs
+        
+        # Get the most recent file
+        latest_file = max(json_files, key=os.path.getctime)
+        print(f"📖 Loading tested slugs from: {latest_file}")
+        
+        try:
+            with open(latest_file, 'r', encoding='utf-8') as f:
+                database = json.load(f)
+            
+            # Extract all tested slugs
+            for slug_data in database.get('all_slugs', []):
+                tested_slugs.add(slug_data['slug'])
+            
+            print(f"✅ Successfully loaded {len(tested_slugs)} tested slugs")
+            
+        except Exception as e:
+            print(f"⚠️  Error loading database: {e}")
+            print("📭 Will proceed without database - may retest some slugs")
+        
+        return tested_slugs
     
     def signal_handler(self, signum, frame):
         """Handle graceful shutdown"""
@@ -232,6 +269,7 @@ class BrowserComprehensiveScanner:
             'instance_id': self.instance_id,
             'tested_count': self.tested_count,
             'found_count': len(self.found_slugs),
+            'skipped_count': self.skipped_count,
             'start_time': self.start_time,
             'current_time': datetime.now().isoformat(),
             'range_start': self.start_range,
@@ -295,6 +333,10 @@ class BrowserComprehensiveScanner:
                 if slug in self.known_slugs:
                     print(f"🔍 [{current_count:,}] Testing: {slug}")
                     print(f"   ⏭️  Skipping known working slug")
+                elif slug in self.tested_slugs:
+                    print(f"🔍 [{current_count:,}] Testing: {slug}")
+                    print(f"   ⏭️  Skipping previously tested slug")
+                    self.skipped_count += 1
                 else:
                     # Test individual slug with browser
                     result = self.test_slug_with_browser(slug, current_count)
@@ -345,7 +387,9 @@ class BrowserComprehensiveScanner:
         print(f"\n🎯 COMPREHENSIVE BROWSER SCAN COMPLETE (Instance: {self.instance_id})")
         print(f"=" * 70)
         print(f"📊 Range scanned: {self.start_range} to {self.end_range}")
-        print(f"📊 Total combinations tested: {self.tested_count:,}")
+        print(f"�� Total combinations processed: {self.tested_count:,}")
+        print(f"⏭️  Previously tested (skipped): {self.skipped_count:,}")
+        print(f"🔍 New combinations tested: {self.tested_count - self.skipped_count:,}")
         print(f"🌟 Active business pages found: {len(self.found_slugs)}")
         print(f"⏱️  Scan duration: {duration}")
         print(f"💾 Results saved to: {self.results_file}")
@@ -355,7 +399,9 @@ class BrowserComprehensiveScanner:
             for result in self.found_slugs:
                 print(f"  • {result['slug']}: {result['business_indicators']} indicators - {result['content_length']} chars")
         else:
-            print(f"\n❌ No active business pages found in range {self.start_range} to {self.end_range}")
+            print(f"\n❌ No new active business pages found in range {self.start_range} to {self.end_range}")
+            if self.skipped_count > 0:
+                print(f"💡 Note: {self.skipped_count:,} slugs were skipped as already tested")
 
 def get_range_for_instance(instance_num, total_instances=3):
     """Calculate range for parallel execution"""
