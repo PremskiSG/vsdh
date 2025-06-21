@@ -90,9 +90,15 @@ class BrowserComprehensiveScanner:
         
         # Store all files in logs folder
         self.results_file = f"logs/{session_prefix}_results.csv"
-        self.checkpoint_file = f"logs/{session_prefix}_checkpoint.txt"
         self.progress_file = f"logs/{session_prefix}_progress.json"
         self.session_log_file = f"logs/{session_prefix}_session.json"
+        
+        # Create persistent checkpoint file (no timestamp for resume capability)
+        if self.slug_file:
+            file_base = os.path.splitext(os.path.basename(self.slug_file))[0]
+            self.checkpoint_file = f"logs/CHECKPOINT_FILE_{hostname}_{file_base}.txt"
+        else:
+            self.checkpoint_file = f"logs/CHECKPOINT_RANGE_{hostname}_{self.instance_id}.txt"
         
         # Initialize session log data
         self.session_data = {
@@ -585,6 +591,15 @@ class BrowserComprehensiveScanner:
         with open(self.checkpoint_file, 'w') as f:
             f.write(current_slug)
     
+    def cleanup_checkpoint(self):
+        """Remove checkpoint file when scan completes successfully"""
+        try:
+            if os.path.exists(self.checkpoint_file):
+                os.remove(self.checkpoint_file)
+                print(f"🗑️  Checkpoint file cleaned up: {self.checkpoint_file}")
+        except Exception as e:
+            print(f"⚠️  Warning: Could not clean up checkpoint file: {e}")
+    
     def scan_comprehensive_range(self, resume=True):
         """Main scanning function with browser automation"""
         self.start_time = datetime.now().isoformat()
@@ -603,6 +618,8 @@ class BrowserComprehensiveScanner:
         if start_from:
             print(f"📍 Resuming from checkpoint: {start_from}")
         print("")
+        
+        scan_completed_successfully = False
         
         try:
             # Choose generator based on scanning mode
@@ -670,6 +687,9 @@ class BrowserComprehensiveScanner:
                     if current_count % (self.checkpoint_interval * 5) == 0:
                         self.save_progress()
                         self.save_results()
+            
+            # If we reach here, the scan completed successfully
+            scan_completed_successfully = True
         
         except KeyboardInterrupt:
             print("\n🛑 Scan interrupted by user")
@@ -679,6 +699,11 @@ class BrowserComprehensiveScanner:
             self.save_progress()
             self.save_results()
             self.save_session_log()
+            
+            # Clean up checkpoint file if scan completed successfully
+            if scan_completed_successfully:
+                self.cleanup_checkpoint()
+            
             self.print_final_summary()
     
     def print_final_summary(self):

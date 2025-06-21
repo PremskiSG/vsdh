@@ -75,9 +75,12 @@ class BrowserSelfTestScanner:
         
         # Store all files in logs folder
         self.results_file = f"logs/{session_prefix}_results.csv"
-        self.checkpoint_file = f"logs/{session_prefix}_checkpoint.txt"
         self.progress_file = f"logs/{session_prefix}_progress.json"
         self.session_log_file = f"logs/{session_prefix}_session.json"
+        
+        # Create persistent checkpoint file (no timestamp for resume capability)
+        # Note: Self-test doesn't actually use checkpoints since it only tests 6 slugs
+        self.checkpoint_file = f"logs/CHECKPOINT_SELFTEST_{hostname}_{self.instance_id}.txt"
         
         # Initialize session log data
         self.session_data = {
