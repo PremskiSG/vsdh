@@ -1,0 +1,27 @@
+Smart Slug Generation Summary
+========================================
+
+Created: 2025-06-21T11:26:13.005628
+Output file: slugs_to_be_tested/2nd_500k_for_tiger.txt
+Requested slugs: 500,000
+Generated slugs: 500,000
+Previously tested slugs avoided: 15
+Previously generated slugs avoided: 1,000,000
+Known active slugs: 15
+
+Known Active Slugs:
+  ad31y
+  ai04u
+  bh70s
+  bm49t
+  bo19e
+  lp56a
+  mj42f
+  os27m
+  qu29u
+  tc33l
+  td32z
+  yh52b
+  ym99l
+  zb74k
+  zd20w
