@@ -1,0 +1,169 @@
+slug,expected_status,status,is_correct,business_name,url,final_url,page_title,content_length,business_indicators,error_indicators,classification,indicators_found,error_indicators_found,content_preview,load_time,tested_at
+tc33l,ACTIVE,ACTIVE,True,Altura Health (TX),https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/tc33l,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/tc33l,Altura Health (TX),2817,9,0,ACTIVE_BUSINESS,"['health', 'therapy', 'service', 'altura health', 'weight loss', 'injection', 'semaglutide', 'tirzepatide', 'vitamin']",[],"Login
+Sign up
+Altura Health (TX)
+View Details
+Explore our services
+Service Categories
+Learn More
+Semaglutide (Injection)
+Starting at $194.00
+Learn More
+Tirzepatide
+Starting at $214.00
+Learn More
+Liraglutide Vial
+Starting at $354.00
+Learn More
+Sermorelin (Injection)
+Starting at $274.00
+Learn More
+L- Carnitine Injectable
+Starting at $174.00
+Learn More
+Semaglutide (Sublingual)
+Starting at $434.00
+Learn More
+Sermorelin (Sublingual)
+Starting at $324.00
+Learn More
+Sermorelin/Glycine Troche
+Starting at...",13.03930401802063,2025-06-21T09:59:14.072030
+yh52b,ACTIVE,ACTIVE,True,The DRIPBaR Direct - Hammond,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yh52b,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yh52b,The DRIPBaR Direct - Hammond,1830,7,0,ACTIVE_BUSINESS,"['therapy', 'service', 'dripbar', 'weight loss', 'injection', 'semaglutide', 'tirzepatide']",[],"Login
+Sign up
+The DRIPBaR Direct - Hammond
+View Details
+Explore our services
+Service Categories
+Learn More
+Semaglutide (Injection)
+Starting at $225.00
+Learn More
+Semaglutide (Sublingual)
+Starting at $400.00
+Learn More
+Tirzepatide
+Starting at $275.00
+Learn More
+Sermorelin
+Starting at $300.00
+Learn More
+Sermorelin/Glycine Troche
+Starting at $300.00
+Learn More
+Sermorelin (Sublingual)
+Starting at $300.00
+Learn More
+NAD+ Injection
+Starting at $200.00
+Learn More
+NAD+ Nasal Spray
+Starting at $250.00
+Le...",12.085449934005737,2025-06-21T09:59:27.465601
+ad31y,ACTIVE,ACTIVE,True,The DRIPBaR Direct - Sebring (FL),https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ad31y,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ad31y,The DRIPBaR Direct - Sebring (FL),1835,7,0,ACTIVE_BUSINESS,"['therapy', 'service', 'dripbar', 'weight loss', 'injection', 'semaglutide', 'tirzepatide']",[],"Login
+Sign up
+The DRIPBaR Direct - Sebring (FL)
+View Details
+Explore our services
+Service Categories
+Learn More
+Semaglutide (Injection)
+Starting at $225.00
+Learn More
+Semaglutide (Sublingual)
+Starting at $400.00
+Learn More
+Tirzepatide
+Starting at $275.00
+Learn More
+Sermorelin
+Starting at $340.00
+Learn More
+Sermorelin (Sublingual)
+Starting at $300.00
+Learn More
+Sermorelin/Glycine Troche
+Starting at $300.00
+Learn More
+Oral Weight Loss Capsules
+Starting at $250.00
+Learn More
+Testosterone Replacemen...",11.626897811889648,2025-06-21T09:59:40.347632
+paaaa,INACTIVE_401,INACTIVE_401,True,,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/paaaa,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401,,49,0,4,401_ERROR,[],"['401', 'error', 'nothing left to do here', 'go to homepage']","401
+ERROR
+Nothing left to do here.
+Go To HomePage",12.06247091293335,2025-06-21T09:59:53.661859
+tj54k,INACTIVE_401,INACTIVE_401,True,,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/tj54k,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401,,49,0,4,401_ERROR,[],"['401', 'error', 'nothing left to do here', 'go to homepage']","401
+ERROR
+Nothing left to do here.
+Go To HomePage",11.627933025360107,2025-06-21T10:00:06.557191
+ej48u,INACTIVE_401,INACTIVE_401,True,,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ej48u,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401,,49,0,4,401_ERROR,[],"['401', 'error', 'nothing left to do here', 'go to homepage']","401
+ERROR
+Nothing left to do here.
+Go To HomePage",13.414793014526367,2025-06-21T10:00:21.209530
+td32z,ACTIVE,ACTIVE,True,The DRIPBaR Direct - Portsmouth,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/td32z,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/td32z,The DRIPBaR Direct - Portsmouth,1833,7,0,ACTIVE_BUSINESS,"['therapy', 'service', 'dripbar', 'weight loss', 'injection', 'semaglutide', 'tirzepatide']",[],"Login
+Sign up
+The DRIPBaR Direct - Portsmouth
+View Details
+Explore our services
+Service Categories
+Learn More
+Semaglutide (Injection)
+Starting at $225.00
+Learn More
+Semaglutide (Sublingual)
+Starting at $400.00
+Learn More
+Tirzepatide
+Starting at $275.00
+Learn More
+Sermorelin
+Starting at $340.00
+Learn More
+Sermorelin (Sublingual)
+Starting at $300.00
+Learn More
+Sermorelin/Glycine Troche
+Starting at $300.00
+Learn More
+Oral Weight Loss Capsules
+Starting at $250.00
+Learn More
+Testosterone Replacement ...",11.8245530128479,2025-06-21T10:00:34.296940
+od46y,INACTIVE_401,INACTIVE_401,True,,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/od46y,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401,,49,0,4,401_ERROR,[],"['401', 'error', 'nothing left to do here', 'go to homepage']","401
+ERROR
+Nothing left to do here.
+Go To HomePage",13.217751026153564,2025-06-21T10:00:48.748922
+bo19e,ACTIVE,ACTIVE,True,The DRIPBaR Direct - Troy (MI),https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bo19e,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bo19e,The DRIPBaR Direct - Troy (MI),1832,7,0,ACTIVE_BUSINESS,"['therapy', 'service', 'dripbar', 'weight loss', 'injection', 'semaglutide', 'tirzepatide']",[],"Login
+Sign up
+The DRIPBaR Direct - Troy (MI)
+View Details
+Explore our services
+Service Categories
+Learn More
+Semaglutide (Injection)
+Starting at $225.00
+Learn More
+Semaglutide (Sublingual)
+Starting at $400.00
+Learn More
+Sermorelin (Sublingual)
+Starting at $300.00
+Learn More
+Tirzepatide
+Starting at $275.00
+Learn More
+Sermorelin
+Starting at $300.00
+Learn More
+Sermorelin/Glycine Troche
+Starting at $300.00
+Learn More
+Oral Weight Loss Capsules
+Starting at $250.00
+Learn More
+Testosterone Replacement T...",11.620968341827393,2025-06-21T10:01:01.624774
+lx39o,INACTIVE_401,INACTIVE_401,True,,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/lx39o,https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401,,49,0,4,401_ERROR,[],"['401', 'error', 'nothing left to do here', 'go to homepage']","401
+ERROR
+Nothing left to do here.
+Go To HomePage",11.912727117538452,2025-06-21T10:01:14.792766

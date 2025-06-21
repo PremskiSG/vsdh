@@ -23,7 +23,7 @@ from selenium.common.exceptions import TimeoutException, WebDriverException
 import glob
 
 class BrowserComprehensiveScanner:
-    def __init__(self, instance_id=None, start_range=None, end_range=None):
+    def __init__(self, instance_id=None, start_range=None, end_range=None, slug_file=None):
         # Generate unique instance ID if not provided
         if instance_id is None:
             instance_id = ''.join(random.choices(string.ascii_lowercase + string.digits, k=6))
@@ -35,9 +35,18 @@ class BrowserComprehensiveScanner:
         self.charset = string.digits + string.ascii_lowercase  # 36 characters
         self.total_combinations = 36 ** 5  # 60,466,176
         
-        # Range handling for parallel execution
-        self.start_range = start_range or 'aaaaa'
-        self.end_range = end_range or 'zzzzz'
+        # Handle slug file or range-based scanning
+        self.slug_file = slug_file
+        self.slugs_to_test = []
+        
+        if slug_file and os.path.exists(slug_file):
+            self.load_slugs_from_file()
+            self.start_range = "FILE_BASED"
+            self.end_range = "FILE_BASED"
+        else:
+            # Range handling for parallel execution
+            self.start_range = start_range or 'aaaaa'
+            self.end_range = end_range or 'zzzzz'
         
         # Load tested slugs from database to avoid retesting
         self.tested_slugs = self.load_tested_slugs_database()
@@ -61,11 +70,40 @@ class BrowserComprehensiveScanner:
         self.page_load_timeout = 15  # Seconds to wait for page load
         self.requests_per_second = 0.3  # Very conservative for browser automation
         
-        # Unique file names for parallel execution
+        # Create unique session files for each run
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-        self.results_file = f"browser_comprehensive_results_{self.instance_id}_{timestamp}.csv"
-        self.checkpoint_file = f"browser_comprehensive_checkpoint_{self.instance_id}_{timestamp}.txt"
-        self.progress_file = f"browser_comprehensive_progress_{self.instance_id}_{timestamp}.json"
+        import socket
+        hostname = socket.gethostname().replace('.', '_')  # Get laptop identifier
+        
+        session_prefix = f"SESSION_SCAN_{hostname}_{self.instance_id}_{timestamp}"
+        self.results_file = f"{session_prefix}_results.csv"
+        self.checkpoint_file = f"{session_prefix}_checkpoint.txt"
+        self.progress_file = f"{session_prefix}_progress.json"
+        self.session_log_file = f"{session_prefix}_session.json"
+        
+        # Initialize session log data
+        self.session_data = {
+            'session_info': {
+                'session_id': session_prefix,
+                'hostname': hostname,
+                'instance_id': self.instance_id,
+                'start_time': None,
+                'end_time': None,
+                'session_type': 'COMPREHENSIVE_SCAN',
+                'range_start': self.start_range,
+                'range_end': self.end_range,
+                'scanner_version': '2.1_session_logging'
+            },
+            'testing_results': [],
+            'session_summary': {
+                'total_tested': 0,
+                'active_found': 0,
+                'inactive_found': 0,
+                'errors_encountered': 0,
+                'session_duration_seconds': 0,
+                'average_test_time': 0
+            }
+        }
         
         # Set up signal handler for graceful shutdown
         signal.signal(signal.SIGINT, self.signal_handler)
@@ -77,21 +115,27 @@ class BrowserComprehensiveScanner:
         print(f"📍 Checkpoint every: {self.checkpoint_interval} slugs")
         print(f"💾 Results file: {self.results_file}")
         print(f"📍 Checkpoint file: {self.checkpoint_file}")
+        print(f"📋 Session log file: {self.session_log_file}")
         print("")
     
     def load_tested_slugs_database(self):
-        """Load previously tested slugs from the most recent database file"""
+        """Load previously tested slugs from the MASTER_DATABASE"""
         tested_slugs = set()
         
-        # Find the most recent slug database JSON file
-        json_files = glob.glob("vsdhone_slug_database_*.json")
-        if not json_files:
-            print("📭 No existing slug database found - will test all slugs")
-            return tested_slugs
-        
-        # Get the most recent file
-        latest_file = max(json_files, key=os.path.getctime)
-        print(f"📖 Loading tested slugs from: {latest_file}")
+        # Check for MASTER_DATABASE first
+        if os.path.exists('MASTER_DATABASE.json'):
+            latest_file = 'MASTER_DATABASE.json'
+            print(f"📖 Loading tested slugs from: {latest_file}")
+        else:
+            # Fallback to old database files
+            json_files = glob.glob("vsdhone_slug_database_*.json")
+            if not json_files:
+                print("📭 No existing slug database found - will test all slugs")
+                return tested_slugs
+            
+            # Get the most recent file
+            latest_file = max(json_files, key=os.path.getctime)
+            print(f"📖 Loading tested slugs from: {latest_file}")
         
         try:
             with open(latest_file, 'r', encoding='utf-8') as f:
@@ -109,11 +153,90 @@ class BrowserComprehensiveScanner:
         
         return tested_slugs
     
+    def load_slugs_from_file(self):
+        """Load slugs from a text file (one slug per line)"""
+        try:
+            with open(self.slug_file, 'r') as f:
+                self.slugs_to_test = [line.strip() for line in f if len(line.strip()) == 5]
+            print(f"📂 Loaded {len(self.slugs_to_test)} slugs from {self.slug_file}")
+        except Exception as e:
+            print(f"⚠️  Error loading slug file: {e}")
+            self.slugs_to_test = []
+    
+    def generate_file_based_slugs(self, start_from=None):
+        """Generate slugs from loaded file"""
+        print(f"🔢 Processing {len(self.slugs_to_test)} slugs from file: {self.slug_file}")
+        
+        started = False
+        if start_from:
+            print(f"📍 Resuming from: {start_from}")
+        
+        for slug in self.slugs_to_test:
+            # Handle resuming
+            if start_from:
+                if slug == start_from:
+                    started = True
+                if not started:
+                    continue
+            
+            yield slug
+    
+    def log_test_result(self, slug, result, test_type="COMPREHENSIVE_SCAN"):
+        """Log individual test result to session data"""
+        test_entry = {
+            'slug': slug,
+            'timestamp': datetime.now().isoformat(),
+            'test_type': test_type,
+            'status': result.get('status', 'ERROR') if result else 'ERROR',
+            'business_name': result.get('business_name', '') if result else '',
+            'load_time': result.get('load_time', 0) if result else 0,
+            'content_length': result.get('content_length', 0) if result else 0,
+            'business_indicators': result.get('business_indicators', 0) if result else 0,
+            'error_indicators': result.get('error_indicators', 0) if result else 0,
+            'final_url': result.get('final_url', '') if result else '',
+            'error': result.get('error', '') if result and 'error' in result else ''
+        }
+        
+        self.session_data['testing_results'].append(test_entry)
+        
+        # Update session summary
+        self.session_data['session_summary']['total_tested'] += 1
+        if result and result.get('status') == 'ACTIVE':
+            self.session_data['session_summary']['active_found'] += 1
+        elif result and result.get('status') == 'INACTIVE_401':
+            self.session_data['session_summary']['inactive_found'] += 1
+        else:
+            self.session_data['session_summary']['errors_encountered'] += 1
+    
+    def save_session_log(self):
+        """Save complete session log to JSON file"""
+        # Update session end time and duration
+        if self.session_data['session_info']['start_time']:
+            start_time = datetime.fromisoformat(self.session_data['session_info']['start_time'])
+            end_time = datetime.now()
+            self.session_data['session_info']['end_time'] = end_time.isoformat()
+            duration = (end_time - start_time).total_seconds()
+            self.session_data['session_summary']['session_duration_seconds'] = duration
+            
+            # Calculate average test time
+            total_tests = self.session_data['session_summary']['total_tested']
+            if total_tests > 0:
+                self.session_data['session_summary']['average_test_time'] = duration / total_tests
+        
+        # Save to file
+        try:
+            with open(self.session_log_file, 'w', encoding='utf-8') as f:
+                json.dump(self.session_data, f, indent=2, ensure_ascii=False)
+            print(f"📋 Session log saved to: {self.session_log_file}")
+        except Exception as e:
+            print(f"⚠️  Error saving session log: {e}")
+
     def signal_handler(self, signum, frame):
         """Handle graceful shutdown"""
         print(f"\n🛑 Received signal {signum}. Saving progress...")
         self.save_progress()
         self.save_results()
+        self.save_session_log()
         print("✅ Progress saved. Exiting...")
         sys.exit(0)
     
@@ -199,7 +322,8 @@ class BrowserComprehensiveScanner:
                 'health', 'therapy', 'treatment', 'service', 'price', 
                 'location', 'contact', 'phone', 'doctor', 'wellness',
                 'altura health', 'dripbar', 'weight loss', 'injection',
-                'semaglutide', 'tirzepatide', 'ozempic', 'mounjaro'
+                'semaglutide', 'tirzepatide', 'ozempic', 'mounjaro',
+                'iv therapy', 'vitamin', 'consultation', 'appointment'
             ]
             
             # Error page indicators
@@ -212,27 +336,67 @@ class BrowserComprehensiveScanner:
             business_count = sum(1 for indicator in business_indicators if indicator in page_text_lower)
             error_count = sum(1 for indicator in error_indicators if indicator in page_text_lower)
             
+            # Get indicators found for detailed reporting
+            indicators_found = [indicator for indicator in business_indicators if indicator in page_text_lower]
+            error_indicators_found = [indicator for indicator in error_indicators if indicator in page_text_lower]
+            
             # Determine page type
             is_error_page = (
                 '401' in page_text_lower or 
                 'nothing left to do here' in page_text_lower or
                 'go to homepage' in page_text_lower or
-                error_count > 0
+                error_count > 0 or
+                len(page_text) < 100
             )
             
             is_business_page = (
                 business_count >= 2 and 
                 not is_error_page and
-                len(page_text) > 100
+                len(page_text) > 200
             )
             
-            # Classification and output
+            # Classification and detailed output
             if is_error_page:
-                print(f"   🚫 401 ERROR PAGE")
-                classification = "401_ERROR"
-                return None  # Don't save error pages
+                print(f"   🚫 INACTIVE_401 - Error Page")
+                print(f"   📏 Content Length: {len(page_text)} chars")
+                print(f"   🔗 Final URL: {final_url}")
+                if error_indicators_found:
+                    print(f"   🔍 Error Indicators Found: {', '.join(error_indicators_found)}")
+                classification = "INACTIVE_401"
+                
+                return {
+                    'slug': slug,
+                    'url': url,
+                    'final_url': final_url,
+                    'status': 'INACTIVE_401',
+                    'classification': classification,
+                    'business_name': '',
+                    'business_indicators': business_count,
+                    'error_indicators': error_count,
+                    'indicators_found': indicators_found,
+                    'error_indicators_found': error_indicators_found,
+                    'page_title': page_title,
+                    'content_length': len(page_text),
+                    'load_time': load_time,
+                    'content_preview': page_text[:500] + "..." if len(page_text) > 500 else page_text,
+                    'tested_at': datetime.now().isoformat()
+                }
             elif is_business_page:
-                print(f"   🌟 ACTIVE BUSINESS PAGE - {business_count} indicators!")
+                # Extract business name
+                business_name = self.extract_business_name_enhanced(page_text, page_title)
+                
+                print(f"   🌟 ACTIVE BUSINESS PAGE - {business_name}")
+                print(f"   📊 Business Indicators: {business_count}")
+                print(f"   📄 Page Title: {page_title}")
+                print(f"   📏 Content Length: {len(page_text)} chars")
+                print(f"   ⏱️  Load Time: {load_time:.2f} seconds")
+                print(f"   🔍 Business Indicators Found: {', '.join(indicators_found)}")
+                
+                # Extract and show services/pricing if available
+                services = self.extract_services_from_content(page_text)
+                if services:
+                    print(f"   💰 Services Found: {', '.join(services[:3])}")
+                
                 classification = "ACTIVE_BUSINESS"
                 
                 # This is a find! Return detailed info
@@ -240,28 +404,110 @@ class BrowserComprehensiveScanner:
                     'slug': slug,
                     'url': url,
                     'final_url': final_url,
+                    'status': 'ACTIVE',
                     'classification': classification,
+                    'business_name': business_name,
                     'business_indicators': business_count,
                     'error_indicators': error_count,
+                    'indicators_found': indicators_found,
+                    'error_indicators_found': error_indicators_found,
                     'page_title': page_title,
                     'content_length': len(page_text),
                     'load_time': load_time,
-                    'content_preview': page_text[:300],
+                    'content_preview': page_text[:500] + "..." if len(page_text) > 500 else page_text,
                     'tested_at': datetime.now().isoformat()
                 }
             else:
-                print(f"   ⚠️  UNCLEAR CONTENT - {len(page_text)} chars")
+                print(f"   ⚠️  UNCLEAR CONTENT")
+                print(f"   📏 Content Length: {len(page_text)} chars")
+                print(f"   📊 Business Indicators: {business_count}")
+                print(f"   🚫 Error Indicators: {error_count}")
+                if indicators_found:
+                    print(f"   🔍 Some Business Indicators: {', '.join(indicators_found[:3])}")
                 classification = "UNCLEAR"
-                return None  # Don't save unclear results
+                
+                return {
+                    'slug': slug,
+                    'url': url,
+                    'final_url': final_url,
+                    'status': 'UNCLEAR',
+                    'classification': classification,
+                    'business_name': '',
+                    'business_indicators': business_count,
+                    'error_indicators': error_count,
+                    'indicators_found': indicators_found,
+                    'error_indicators_found': error_indicators_found,
+                    'page_title': page_title,
+                    'content_length': len(page_text),
+                    'load_time': load_time,
+                    'content_preview': page_text[:500] + "..." if len(page_text) > 500 else page_text,
+                    'tested_at': datetime.now().isoformat()
+                }
                 
         except Exception as e:
             print(f"   ❌ Browser Error: {str(e)[:100]}")
-            return None  # Don't save errors
+            return {
+                'slug': slug,
+                'url': f"{self.base_url}{slug}",
+                'final_url': '',
+                'status': 'ERROR',
+                'classification': 'ERROR',
+                'business_name': '',
+                'business_indicators': 0,
+                'error_indicators': 0,
+                'indicators_found': [],
+                'error_indicators_found': [],
+                'page_title': '',
+                'content_length': 0,
+                'load_time': 0,
+                'content_preview': '',
+                'error': str(e),
+                'tested_at': datetime.now().isoformat()
+            }
         finally:
             try:
                 driver.quit()
             except:
                 pass
+
+    def extract_business_name_enhanced(self, page_text, page_title):
+        """Enhanced business name extraction"""
+        # Try page title first
+        if page_title and len(page_title) > 3 and 'widget' not in page_title.lower():
+            return page_title.strip()
+        
+        # Try to find business name in content
+        lines = page_text.split('\n')
+        for line in lines[:15]:  # Check first 15 lines
+            line = line.strip()
+            if len(line) > 5 and len(line) < 100:
+                # Look for lines that might be business names
+                if any(word in line.lower() for word in ['clinic', 'health', 'medical', 'wellness', 'center', 'bar', 'drip', 'altura']):
+                    return line
+                # Look for lines with business-like patterns
+                if '(' in line and ')' in line and any(state in line for state in ['TX', 'FL', 'CA', 'NY']):
+                    return line
+        
+        return "Business name not found"
+
+    def extract_services_from_content(self, content):
+        """Extract services and prices from page content"""
+        if not content:
+            return []
+        
+        services = []
+        lines = content.split('\n')
+        for line in lines:
+            line = line.strip()
+            if '$' in line:
+                # Look for service lines with prices
+                if any(service in line.lower() for service in ['injection', 'iv', 'vitamin', 'semaglutide', 'tirzepatide', 'consultation']):
+                    # Clean up the line
+                    clean_line = ' '.join(line.split())
+                    if len(clean_line) < 100:  # Avoid very long lines
+                        services.append(clean_line)
+        
+        return services[:5]  # Return max 5 services
     
     def save_progress(self):
         """Save current progress"""
@@ -285,9 +531,10 @@ class BrowserComprehensiveScanner:
             print("💾 No active business pages found yet")
             return
         
-        fieldnames = ['slug', 'url', 'final_url', 'classification', 'business_indicators', 
-                     'error_indicators', 'page_title', 'content_length', 'load_time',
-                     'content_preview', 'tested_at']
+        fieldnames = ['slug', 'url', 'final_url', 'status', 'classification', 'business_name',
+                     'business_indicators', 'error_indicators', 'indicators_found', 
+                     'error_indicators_found', 'page_title', 'content_length', 
+                     'load_time', 'content_preview', 'tested_at']
         
         with open(self.results_file, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -312,6 +559,9 @@ class BrowserComprehensiveScanner:
         """Main scanning function with browser automation"""
         self.start_time = datetime.now().isoformat()
         
+        # Set session start time
+        self.session_data['session_info']['start_time'] = self.start_time
+        
         # Check if resuming
         start_from = None
         if resume:
@@ -325,7 +575,13 @@ class BrowserComprehensiveScanner:
         print("")
         
         try:
-            for i, slug in enumerate(self.generate_range_combinations(start_from)):
+            # Choose generator based on scanning mode
+            if self.slug_file:
+                slug_generator = self.generate_file_based_slugs(start_from)
+            else:
+                slug_generator = self.generate_range_combinations(start_from)
+            
+            for i, slug in enumerate(slug_generator):
                 current_count = i + 1
                 self.tested_count = current_count
                 
@@ -340,7 +596,12 @@ class BrowserComprehensiveScanner:
                 else:
                     # Test individual slug with browser
                     result = self.test_slug_with_browser(slug, current_count)
-                    if result:
+                    
+                    # Log the result (always log, regardless of type)
+                    self.log_test_result(slug, result, "COMPREHENSIVE_SCAN")
+                    
+                    # Only add ACTIVE results to found_slugs for CSV output
+                    if result and result.get('status') == 'ACTIVE':
                         self.found_slugs.append(result)
                         print(f"   ✅ SAVED! Total active businesses found: {len(self.found_slugs)}")
                 
@@ -374,6 +635,7 @@ class BrowserComprehensiveScanner:
         finally:
             self.save_progress()
             self.save_results()
+            self.save_session_log()
             self.print_final_summary()
     
     def print_final_summary(self):
@@ -427,34 +689,48 @@ def get_range_for_instance(instance_num, total_instances=3):
     return start_range, end_range
 
 def main():
+    import argparse
+    
+    parser = argparse.ArgumentParser(description='VSDHOne Browser-Based Comprehensive Scanner')
+    parser.add_argument('--file', '-f', help='File containing slugs to test (one per line)')
+    parser.add_argument('--instance-id', '-i', help='Instance ID for parallel execution')
+    parser.add_argument('--start-range', '-s', help='Start range for range-based scanning')
+    parser.add_argument('--end-range', '-e', help='End range for range-based scanning')
+    parser.add_argument('--predefined', '-p', choices=['1', '2', '3'], help='Use predefined range (1/2/3)')
+    
+    args = parser.parse_args()
+    
     print("🌐 VSDHOne Browser-Based Comprehensive Scanner")
     print("=" * 60)
     
-    # Get parameters
-    instance_id = input("Enter instance ID (default: auto): ").strip()
-    if not instance_id:
-        instance_id = None
+    instance_id = args.instance_id
+    slug_file = args.file
     
-    use_predefined_range = input("Use predefined range for parallel execution? (1/2/3 or custom): ").strip()
-    
-    if use_predefined_range in ['1', '2', '3']:
-        instance_num = int(use_predefined_range)
-        start_range, end_range = get_range_for_instance(instance_num)
-        print(f"📊 Instance {instance_num} will scan: {start_range} to {end_range}")
+    if slug_file:
+        if not os.path.exists(slug_file):
+            print(f"❌ Error: File {slug_file} not found")
+            return
+        
+        print(f"📂 File-based scanning mode: {slug_file}")
+        scanner = BrowserComprehensiveScanner(instance_id, slug_file=slug_file)
+        
     else:
-        start_range = input("Enter start range (default: aaaaa): ").strip() or 'aaaaa'
-        end_range = input("Enter end range (default: zzzzz): ").strip() or 'zzzzz'
+        # Range-based scanning
+        if args.predefined:
+            instance_num = int(args.predefined)
+            start_range, end_range = get_range_for_instance(instance_num)
+            print(f"📊 Instance {instance_num} will scan: {start_range} to {end_range}")
+        else:
+            start_range = args.start_range or 'aaaaa'
+            end_range = args.end_range or 'zzzzz'
+        
+        print(f"📊 Range-based scanning mode: {start_range} to {end_range}")
+        scanner = BrowserComprehensiveScanner(instance_id, start_range, end_range)
     
     print(f"\n⚠️  WARNING: Browser-based scanning is VERY slow!")
-    print(f"⚠️  Range {start_range} to {end_range} could take days to complete")
     print(f"✅ Checkpoints saved every 50 slugs for easy resuming")
+    print(f"🚀 Starting scan automatically...")
     
-    confirm = input("\n🤔 Are you sure you want to proceed? (yes/no): ").lower().strip()
-    if confirm != 'yes':
-        print("❌ Scan cancelled")
-        return
-    
-    scanner = BrowserComprehensiveScanner(instance_id, start_range, end_range)
     scanner.scan_comprehensive_range()
 
 if __name__ == "__main__":

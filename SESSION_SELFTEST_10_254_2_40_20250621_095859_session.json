@@ -1,0 +1,153 @@
+{
+  "session_info": {
+    "session_id": "SESSION_SELFTEST_10_254_2_40_20250621_095859",
+    "hostname": "10_254_2_40",
+    "instance_id": "fq95q8",
+    "start_time": "2025-06-21T09:58:59.411753",
+    "end_time": "2025-06-21T10:01:14.860057",
+    "session_type": "SELF_TEST",
+    "range_start": "aaaaa",
+    "range_end": "zzzzz",
+    "scanner_version": "2.1_session_logging"
+  },
+  "testing_results": [
+    {
+      "slug": "tc33l",
+      "timestamp": "2025-06-21T09:59:14.168637",
+      "test_type": "SELF_TEST",
+      "status": "ACTIVE",
+      "business_name": "Altura Health (TX)",
+      "load_time": 13.03930401802063,
+      "content_length": 2817,
+      "business_indicators": 9,
+      "error_indicators": 0,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/tc33l",
+      "error": ""
+    },
+    {
+      "slug": "yh52b",
+      "timestamp": "2025-06-21T09:59:27.520220",
+      "test_type": "SELF_TEST",
+      "status": "ACTIVE",
+      "business_name": "The DRIPBaR Direct - Hammond",
+      "load_time": 12.085449934005737,
+      "content_length": 1830,
+      "business_indicators": 7,
+      "error_indicators": 0,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yh52b",
+      "error": ""
+    },
+    {
+      "slug": "ad31y",
+      "timestamp": "2025-06-21T09:59:40.404179",
+      "test_type": "SELF_TEST",
+      "status": "ACTIVE",
+      "business_name": "The DRIPBaR Direct - Sebring (FL)",
+      "load_time": 11.626897811889648,
+      "content_length": 1835,
+      "business_indicators": 7,
+      "error_indicators": 0,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ad31y",
+      "error": ""
+    },
+    {
+      "slug": "paaaa",
+      "timestamp": "2025-06-21T09:59:53.717513",
+      "test_type": "SELF_TEST",
+      "status": "INACTIVE_401",
+      "business_name": "",
+      "load_time": 12.06247091293335,
+      "content_length": 49,
+      "business_indicators": 0,
+      "error_indicators": 4,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "error": ""
+    },
+    {
+      "slug": "tj54k",
+      "timestamp": "2025-06-21T10:00:06.614190",
+      "test_type": "SELF_TEST",
+      "status": "INACTIVE_401",
+      "business_name": "",
+      "load_time": 11.627933025360107,
+      "content_length": 49,
+      "business_indicators": 0,
+      "error_indicators": 4,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "error": ""
+    },
+    {
+      "slug": "ej48u",
+      "timestamp": "2025-06-21T10:00:21.264295",
+      "test_type": "SELF_TEST",
+      "status": "INACTIVE_401",
+      "business_name": "",
+      "load_time": 13.414793014526367,
+      "content_length": 49,
+      "business_indicators": 0,
+      "error_indicators": 4,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "error": ""
+    },
+    {
+      "slug": "td32z",
+      "timestamp": "2025-06-21T10:00:34.353575",
+      "test_type": "SELF_TEST",
+      "status": "ACTIVE",
+      "business_name": "The DRIPBaR Direct - Portsmouth",
+      "load_time": 11.8245530128479,
+      "content_length": 1833,
+      "business_indicators": 7,
+      "error_indicators": 0,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/td32z",
+      "error": ""
+    },
+    {
+      "slug": "od46y",
+      "timestamp": "2025-06-21T10:00:48.805254",
+      "test_type": "SELF_TEST",
+      "status": "INACTIVE_401",
+      "business_name": "",
+      "load_time": 13.217751026153564,
+      "content_length": 49,
+      "business_indicators": 0,
+      "error_indicators": 4,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "error": ""
+    },
+    {
+      "slug": "bo19e",
+      "timestamp": "2025-06-21T10:01:01.680727",
+      "test_type": "SELF_TEST",
+      "status": "ACTIVE",
+      "business_name": "The DRIPBaR Direct - Troy (MI)",
+      "load_time": 11.620968341827393,
+      "content_length": 1832,
+      "business_indicators": 7,
+      "error_indicators": 0,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bo19e",
+      "error": ""
+    },
+    {
+      "slug": "lx39o",
+      "timestamp": "2025-06-21T10:01:14.858543",
+      "test_type": "SELF_TEST",
+      "status": "INACTIVE_401",
+      "business_name": "",
+      "load_time": 11.912727117538452,
+      "content_length": 49,
+      "business_indicators": 0,
+      "error_indicators": 4,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "error": ""
+    }
+  ],
+  "session_summary": {
+    "total_tested": 10,
+    "active_found": 5,
+    "inactive_found": 5,
+    "errors_encountered": 0,
+    "session_duration_seconds": 135.448304,
+    "average_test_time": 13.5448304
+  }
+}

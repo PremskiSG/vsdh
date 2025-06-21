@@ -68,16 +68,47 @@ class BrowserComprehensiveScanner:
         self.page_load_timeout = 15  # Seconds to wait for page load
         self.requests_per_second = 0.3  # Very conservative for browser automation
         
-        # Unique file names for parallel execution
+        # Create unique session files for each run
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+        import socket
+        hostname = socket.gethostname().replace('.', '_')  # Get laptop identifier
+        
         if self_test:
-            self.results_file = f"browser_self_test_results_{timestamp}.csv"
-            self.checkpoint_file = f"browser_self_test_checkpoint_{timestamp}.txt"
-            self.progress_file = f"browser_self_test_progress_{timestamp}.json"
+            session_prefix = f"SESSION_SELFTEST_{hostname}_{timestamp}"
+            self.results_file = f"{session_prefix}_results.csv"
+            self.checkpoint_file = f"{session_prefix}_checkpoint.txt"
+            self.progress_file = f"{session_prefix}_progress.json"
+            self.session_log_file = f"{session_prefix}_session.json"
         else:
-            self.results_file = f"browser_comprehensive_results_{self.instance_id}_{timestamp}.csv"
-            self.checkpoint_file = f"browser_comprehensive_checkpoint_{self.instance_id}_{timestamp}.txt"
-            self.progress_file = f"browser_comprehensive_progress_{self.instance_id}_{timestamp}.json"
+            session_prefix = f"SESSION_SCAN_{hostname}_{self.instance_id}_{timestamp}"
+            self.results_file = f"{session_prefix}_results.csv"
+            self.checkpoint_file = f"{session_prefix}_checkpoint.txt"
+            self.progress_file = f"{session_prefix}_progress.json"
+            self.session_log_file = f"{session_prefix}_session.json"
+        
+        # Initialize session log data
+        self.session_data = {
+            'session_info': {
+                'session_id': session_prefix,
+                'hostname': hostname,
+                'instance_id': self.instance_id,
+                'start_time': None,
+                'end_time': None,
+                'session_type': 'SELF_TEST' if self_test else 'COMPREHENSIVE_SCAN',
+                'range_start': self.start_range,
+                'range_end': self.end_range,
+                'scanner_version': '2.1_session_logging'
+            },
+            'testing_results': [],
+            'session_summary': {
+                'total_tested': 0,
+                'active_found': 0,
+                'inactive_found': 0,
+                'errors_encountered': 0,
+                'session_duration_seconds': 0,
+                'average_test_time': 0
+            }
+        }
         
         # Set up signal handler for graceful shutdown
         signal.signal(signal.SIGINT, self.signal_handler)
@@ -94,21 +125,27 @@ class BrowserComprehensiveScanner:
         print(f"📍 Checkpoint every: {self.checkpoint_interval} slugs")
         print(f"💾 Results file: {self.results_file}")
         print(f"📍 Checkpoint file: {self.checkpoint_file}")
+        print(f"📋 Session log file: {self.session_log_file}")
         print("")
     
     def load_tested_slugs_database(self):
-        """Load previously tested slugs from the most recent database file"""
+        """Load previously tested slugs from the MASTER_DATABASE"""
         tested_slugs = set()
         
-        # Find the most recent slug database JSON file
-        json_files = glob.glob("vsdhone_slug_database_*.json")
-        if not json_files:
-            print("📭 No existing slug database found - will test all slugs")
-            return tested_slugs
-        
-        # Get the most recent file
-        latest_file = max(json_files, key=os.path.getctime)
-        print(f"📖 Loading tested slugs from: {latest_file}")
+        # Check for MASTER_DATABASE first
+        if os.path.exists('MASTER_DATABASE.json'):
+            latest_file = 'MASTER_DATABASE.json'
+            print(f"📖 Loading tested slugs from: {latest_file}")
+        else:
+            # Fallback to old database files
+            json_files = glob.glob("vsdhone_slug_database_*.json")
+            if not json_files:
+                print("📭 No existing slug database found - will test all slugs")
+                return tested_slugs
+            
+            # Get the most recent file
+            latest_file = max(json_files, key=os.path.getctime)
+            print(f"📖 Loading tested slugs from: {latest_file}")
         
         try:
             with open(latest_file, 'r', encoding='utf-8') as f:
@@ -126,11 +163,62 @@ class BrowserComprehensiveScanner:
         
         return tested_slugs
     
+    def log_test_result(self, slug, result, test_type="SCAN"):
+        """Log individual test result to session data"""
+        test_entry = {
+            'slug': slug,
+            'timestamp': datetime.now().isoformat(),
+            'test_type': test_type,
+            'status': result.get('status', 'ERROR') if result else 'ERROR',
+            'business_name': result.get('business_name', '') if result else '',
+            'load_time': result.get('load_time', 0) if result else 0,
+            'content_length': result.get('content_length', 0) if result else 0,
+            'business_indicators': result.get('business_indicators', 0) if result else 0,
+            'error_indicators': result.get('error_indicators', 0) if result else 0,
+            'final_url': result.get('final_url', '') if result else '',
+            'error': result.get('error', '') if result and 'error' in result else ''
+        }
+        
+        self.session_data['testing_results'].append(test_entry)
+        
+        # Update session summary
+        self.session_data['session_summary']['total_tested'] += 1
+        if result and result.get('status') == 'ACTIVE':
+            self.session_data['session_summary']['active_found'] += 1
+        elif result and result.get('status') == 'INACTIVE_401':
+            self.session_data['session_summary']['inactive_found'] += 1
+        else:
+            self.session_data['session_summary']['errors_encountered'] += 1
+    
+    def save_session_log(self):
+        """Save complete session log to JSON file"""
+        # Update session end time and duration
+        if self.session_data['session_info']['start_time']:
+            start_time = datetime.fromisoformat(self.session_data['session_info']['start_time'])
+            end_time = datetime.now()
+            self.session_data['session_info']['end_time'] = end_time.isoformat()
+            duration = (end_time - start_time).total_seconds()
+            self.session_data['session_summary']['session_duration_seconds'] = duration
+            
+            # Calculate average test time
+            total_tests = self.session_data['session_summary']['total_tested']
+            if total_tests > 0:
+                self.session_data['session_summary']['average_test_time'] = duration / total_tests
+        
+        # Save to file
+        try:
+            with open(self.session_log_file, 'w', encoding='utf-8') as f:
+                json.dump(self.session_data, f, indent=2, ensure_ascii=False)
+            print(f"📋 Session log saved to: {self.session_log_file}")
+        except Exception as e:
+            print(f"⚠️  Error saving session log: {e}")
+    
     def signal_handler(self, signum, frame):
         """Handle graceful shutdown"""
         print(f"\n🛑 Received signal {signum}. Saving progress...")
         self.save_progress()
         self.save_results()
+        self.save_session_log()
         print("✅ Progress saved. Exiting...")
         sys.exit(0)
     
@@ -201,6 +289,9 @@ class BrowserComprehensiveScanner:
         print("🧪 Starting Self-Test Mode...")
         print("=" * 60)
         
+        # Set session start time
+        self.session_data['session_info']['start_time'] = datetime.now().isoformat()
+        
         test_slugs = self.get_self_test_slugs()
         
         correct_predictions = 0
@@ -258,6 +349,9 @@ class BrowserComprehensiveScanner:
                 result['expected_status'] = expected_status
                 result['is_correct'] = is_correct
                 results.append(result)
+                
+                # Log to session
+                self.log_test_result(slug, result, "SELF_TEST")
             else:
                 print(f"   ⚠️  ERROR: Could not test slug - {result.get('error', 'Unknown error') if result else 'No result'}")
                 results.append({
@@ -296,6 +390,9 @@ class BrowserComprehensiveScanner:
         
         # Save detailed results
         self.save_self_test_results(results, accuracy)
+        
+        # Save session log
+        self.save_session_log()
         
         if accuracy >= 95:
             print(f"\n🎉 EXCELLENT: Scanner is working correctly!")
@@ -721,6 +818,9 @@ class BrowserComprehensiveScanner:
         """Main scanning function with browser automation"""
         self.start_time = datetime.now().isoformat()
         
+        # Set session start time
+        self.session_data['session_info']['start_time'] = self.start_time
+        
         # Check if resuming
         start_from = None
         if resume:
@@ -752,6 +852,9 @@ class BrowserComprehensiveScanner:
                     if result:
                         self.found_slugs.append(result)
                         print(f"   ✅ SAVED! Total active businesses found: {len(self.found_slugs)}")
+                    
+                    # Log the result (whether found or not)
+                    self.log_test_result(slug, result, "COMPREHENSIVE_SCAN")
                 
                 # Rate limiting for browser automation
                 time.sleep(1.0 / self.requests_per_second)
@@ -783,6 +886,7 @@ class BrowserComprehensiveScanner:
         finally:
             self.save_progress()
             self.save_results()
+            self.save_session_log()
             self.print_final_summary()
     
     def print_final_summary(self):
