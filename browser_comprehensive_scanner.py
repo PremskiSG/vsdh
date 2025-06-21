@@ -14,6 +14,7 @@ import itertools
 import os
 import sys
 import signal
+import socket
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -68,18 +69,30 @@ class BrowserComprehensiveScanner:
         
         # Configuration for browser automation
         self.page_load_timeout = 15  # Seconds to wait for page load
-        self.requests_per_second = 0.3  # Very conservative for browser automation
+        self.requests_per_second = 5.0  # 0.2s between tests = 5 tests per second
+        
+        # Create logs folder if it doesn't exist
+        if not os.path.exists('logs'):
+            os.makedirs('logs')
+            print("📁 Created logs folder")
         
         # Create unique session files for each run
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-        import socket
         hostname = socket.gethostname().replace('.', '_')  # Get laptop identifier
         
-        session_prefix = f"SESSION_SCAN_{hostname}_{self.instance_id}_{timestamp}"
-        self.results_file = f"{session_prefix}_results.csv"
-        self.checkpoint_file = f"{session_prefix}_checkpoint.txt"
-        self.progress_file = f"{session_prefix}_progress.json"
-        self.session_log_file = f"{session_prefix}_session.json"
+        # Generate file prefix based on input file or range
+        if self.slug_file:
+            # Use input filename (without extension) as part of the prefix
+            file_base = os.path.splitext(os.path.basename(self.slug_file))[0]
+            session_prefix = f"SESSION_FILE_{hostname}_{file_base}_{timestamp}"
+        else:
+            session_prefix = f"SESSION_RANGE_{hostname}_{self.instance_id}_{timestamp}"
+        
+        # Store all files in logs folder
+        self.results_file = f"logs/{session_prefix}_results.csv"
+        self.checkpoint_file = f"logs/{session_prefix}_checkpoint.txt"
+        self.progress_file = f"logs/{session_prefix}_progress.json"
+        self.session_log_file = f"logs/{session_prefix}_session.json"
         
         # Initialize session log data
         self.session_data = {
@@ -99,7 +112,9 @@ class BrowserComprehensiveScanner:
                 'total_tested': 0,
                 'active_found': 0,
                 'inactive_found': 0,
-                'errors_encountered': 0,
+                'connection_errors': 0,
+                'browser_errors': 0,
+                'other_errors': 0,
                 'session_duration_seconds': 0,
                 'average_test_time': 0
             }
@@ -445,13 +460,28 @@ class BrowserComprehensiveScanner:
                 }
                 
         except Exception as e:
-            print(f"   ❌ Browser Error: {str(e)[:100]}")
+            error_str = str(e).lower()
+            
+            # Categorize different types of errors
+            if any(keyword in error_str for keyword in ['timeout', 'connection', 'network', 'dns', 'resolve']):
+                print(f"   🌐 CONNECTION ERROR - Logging for retry: {str(e)[:100]}")
+                status = 'CONNECTION_ERROR'
+                classification = 'CONNECTION_ERROR'
+            elif any(keyword in error_str for keyword in ['chrome', 'driver', 'session']):
+                print(f"   🔧 BROWSER ERROR - Logging for retry: {str(e)[:100]}")
+                status = 'BROWSER_ERROR'
+                classification = 'BROWSER_ERROR'
+            else:
+                print(f"   ❌ UNKNOWN ERROR - Logging for retry: {str(e)[:100]}")
+                status = 'ERROR'
+                classification = 'ERROR'
+            
             return {
                 'slug': slug,
                 'url': f"{self.base_url}{slug}",
                 'final_url': '',
-                'status': 'ERROR',
-                'classification': 'ERROR',
+                'status': status,
+                'classification': classification,
                 'business_name': '',
                 'business_indicators': 0,
                 'error_indicators': 0,
@@ -600,10 +630,23 @@ class BrowserComprehensiveScanner:
                     # Log the result (always log, regardless of type)
                     self.log_test_result(slug, result, "COMPREHENSIVE_SCAN")
                     
-                    # Only add ACTIVE results to found_slugs for CSV output
-                    if result and result.get('status') == 'ACTIVE':
-                        self.found_slugs.append(result)
-                        print(f"   ✅ SAVED! Total active businesses found: {len(self.found_slugs)}")
+                    # Update session summary based on result
+                    if result:
+                        if result.get('status') == 'ACTIVE':
+                            self.found_slugs.append(result)
+                            self.session_data['session_summary']['active_found'] += 1
+                            print(f"   ✅ SAVED! Total active businesses found: {len(self.found_slugs)}")
+                        elif result.get('status') == 'CONNECTION_ERROR':
+                            self.session_data['session_summary']['connection_errors'] += 1
+                        elif result.get('status') == 'BROWSER_ERROR':
+                            self.session_data['session_summary']['browser_errors'] += 1
+                        elif result.get('status') == 'INACTIVE_401':
+                            self.session_data['session_summary']['inactive_found'] += 1
+                        elif result.get('status') == 'ERROR':
+                            self.session_data['session_summary']['other_errors'] += 1
+                    
+                    # Update total tested count
+                    self.session_data['session_summary']['total_tested'] += 1
                 
                 # Rate limiting for browser automation
                 time.sleep(1.0 / self.requests_per_second)
@@ -653,8 +696,18 @@ class BrowserComprehensiveScanner:
         print(f"⏭️  Previously tested (skipped): {self.skipped_count:,}")
         print(f"🔍 New combinations tested: {self.tested_count - self.skipped_count:,}")
         print(f"🌟 Active business pages found: {len(self.found_slugs)}")
+        
+        # Show error summary
+        connection_errors = self.session_data['session_summary']['connection_errors']
+        browser_errors = self.session_data['session_summary']['browser_errors']
+        other_errors = self.session_data['session_summary']['other_errors']
+        
+        if connection_errors > 0 or browser_errors > 0 or other_errors > 0:
+            print(f"🔧 Errors logged for retry: {connection_errors} connection, {browser_errors} browser, {other_errors} other")
+        
         print(f"⏱️  Scan duration: {duration}")
         print(f"💾 Results saved to: {self.results_file}")
+        print(f"📋 Session log saved to: {self.session_log_file}")
         
         if self.found_slugs:
             print(f"\n🔍 DISCOVERED ACTIVE BUSINESS PAGES:")
