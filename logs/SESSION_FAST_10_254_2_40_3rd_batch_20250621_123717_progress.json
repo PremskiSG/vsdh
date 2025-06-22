@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-06-22T09:07:37.235958",
+  "tested_count": 8750,
+  "skipped_count": 2,
+  "found_slugs_count": 5,
+  "session_info": {
+    "session_id": "SESSION_FAST_10_254_2_40_3rd_batch_20250621_123717",
+    "hostname": "10_254_2_40",
+    "instance_id": "91vc5b",
+    "start_time": "2025-06-21T12:37:17.128078",
+    "end_time": null,
+    "session_type": "FAST_COMPREHENSIVE_SCAN",
+    "range_start": "FILE_BASED",
+    "range_end": "FILE_BASED",
+    "scanner_version": "3.0_complete_fast"
+  },
+  "found_businesses": [
+    {
+      "slug": "ho36v",
+      "business_name": "The DRIPBaR",
+      "status": "ACTIVE"
+    },
+    {
+      "slug": "bw09u",
+      "business_name": "The DRIPBaR",
+      "status": "ACTIVE"
+    },
+    {
+      "slug": "tj56a",
+      "business_name": "The DRIPBaR",
+      "status": "ACTIVE"
+    },
+    {
+      "slug": "bd49i",
+      "business_name": "The DRIPBaR",
+      "status": "ACTIVE"
+    },
+    {
+      "slug": "qw01p",
+      "business_name": "The DRIPBaR",
+      "status": "ACTIVE"
+    }
+  ]
+}
