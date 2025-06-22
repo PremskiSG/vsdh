@@ -1,0 +1,21 @@
+{
+  "generation_timestamp": "20250622_113906",
+  "type": "700-799",
+  "slug_count": 100,
+  "number_range": "700-799",
+  "filename": "enterprise_700_799_batch_1_20250622_113906.txt",
+  "nz_prefixed_count": 100,
+  "non_nz_count": 0,
+  "known_working_samples": [
+    "NzEw (710)",
+    "NzEy (712)"
+  ],
+  "note": "This range was missing from focused batches due to Nz* exclusion",
+  "sample_slugs": [
+    "NzAw",
+    "NzAx",
+    "NzAy",
+    "NzAz",
+    "NzA0"
+  ]
+}

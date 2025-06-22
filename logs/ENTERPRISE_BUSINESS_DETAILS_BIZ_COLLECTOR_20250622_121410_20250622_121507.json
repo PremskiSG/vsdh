@@ -1,0 +1,800 @@
+{
+  "session_id": "BIZ_COLLECTOR_20250622_121410",
+  "timestamp": "2025-06-22T12:14:10.521095",
+  "stats": {
+    "total_collected": 20,
+    "successful_collections": 20,
+    "failed_collections": 0,
+    "not_ready_businesses": 18,
+    "ready_businesses": 2
+  },
+  "businesses": [
+    {
+      "slug": "MTA",
+      "slug_number": 10,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTA",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "page_title": "undefined",
+      "load_time": 4.68,
+      "content_length": 31648,
+      "collected_at": "2025-06-22T12:14:16.707875",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "Redirects to generic widget",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 7,
+        "style_count": 10
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Missing or invalid page title",
+        "Redirects to generic widget instead of specific business",
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.8,
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "content_quality": "Medium"
+    },
+    {
+      "slug": "MzY1",
+      "slug_number": 365,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzY1",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzY1",
+      "page_title": "",
+      "load_time": 2.16,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:14:19.082628",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 6,
+        "style_count": 11
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Missing or invalid page title",
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.3,
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low"
+    },
+    {
+      "slug": "MzY2",
+      "slug_number": 366,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzY2",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/s2q7x",
+      "page_title": "",
+      "load_time": 2.28,
+      "content_length": 31779,
+      "collected_at": "2025-06-22T12:14:21.574326",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "Redirects to widget-business: s2q7x",
+      "widget_business_slug": "s2q7x",
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 12,
+        "style_count": 10
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Missing or invalid page title",
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.3,
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low"
+    },
+    {
+      "slug": "MzY4",
+      "slug_number": 368,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzY4",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzY4",
+      "page_title": "Test SP",
+      "load_time": 1.85,
+      "content_length": 33656,
+      "collected_at": "2025-06-22T12:14:23.633311",
+      "business_name": "Test SP",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 6,
+        "style_count": 11
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.6,
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium"
+    },
+    {
+      "slug": "MzYw",
+      "slug_number": 360,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzYw",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzYw",
+      "page_title": "Test SP",
+      "load_time": 2.09,
+      "content_length": 33656,
+      "collected_at": "2025-06-22T12:14:25.934812",
+      "business_name": "Test SP",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 6,
+        "style_count": 11
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.6,
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium"
+    },
+    {
+      "slug": "MzYy",
+      "slug_number": 362,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzYy",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "page_title": "",
+      "load_time": 6.07,
+      "content_length": 27089,
+      "collected_at": "2025-06-22T12:14:32.222818",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "Redirects to generic widget",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 7,
+        "style_count": 10
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Missing or invalid page title",
+        "Insufficient content length",
+        "Redirects to generic widget instead of specific business",
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.1,
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low"
+    },
+    {
+      "slug": "MzYz",
+      "slug_number": 363,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzYz",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/52546",
+      "page_title": "VSDH One - Kshitij test",
+      "load_time": 2.73,
+      "content_length": 31455,
+      "collected_at": "2025-06-22T12:14:35.167788",
+      "business_name": "VSDH One - Kshitij test",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "Redirects to widget-business: 52546",
+      "widget_business_slug": "52546",
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": true,
+        "has_pricing": false,
+        "script_count": 12,
+        "style_count": 10
+      },
+      "is_ready": true,
+      "readiness_issues": [
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.8,
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "content_quality": "Medium"
+    },
+    {
+      "slug": "Mzcw",
+      "slug_number": 370,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzcw",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/745yc",
+      "page_title": "",
+      "load_time": 2.08,
+      "content_length": 32421,
+      "collected_at": "2025-06-22T12:14:37.460762",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "Redirects to widget-business: 745yc",
+      "widget_business_slug": "745yc",
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 11,
+        "style_count": 10
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Missing or invalid page title",
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.5,
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "content_quality": "Low"
+    },
+    {
+      "slug": "Mzcx",
+      "slug_number": 371,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzcx",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "page_title": "Akshay Health Center",
+      "load_time": 3.1,
+      "content_length": 30822,
+      "collected_at": "2025-06-22T12:14:40.778894",
+      "business_name": "Akshay Health Center",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [
+        "health"
+      ],
+      "specializations": [],
+      "redirect_info": "Redirects to generic widget",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 13,
+        "style_count": 10
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Redirects to generic widget instead of specific business",
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.6,
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "content_quality": "Medium"
+    },
+    {
+      "slug": "NDAw",
+      "slug_number": 400,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDAw",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDAw",
+      "page_title": "Akshay Health Center",
+      "load_time": 1.85,
+      "content_length": 33673,
+      "collected_at": "2025-06-22T12:14:42.838593",
+      "business_name": "Akshay Health Center",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [
+        "health"
+      ],
+      "specializations": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 6,
+        "style_count": 11
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.6,
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "content_quality": "Medium"
+    },
+    {
+      "slug": "NDI0",
+      "slug_number": 424,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI0",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI0",
+      "page_title": "",
+      "load_time": 1.72,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:14:44.769084",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 6,
+        "style_count": 11
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Missing or invalid page title",
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.3,
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low"
+    },
+    {
+      "slug": "NDI1",
+      "slug_number": 425,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI1",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI1",
+      "page_title": "",
+      "load_time": 2.66,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:14:47.645711",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 6,
+        "style_count": 11
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Missing or invalid page title",
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.3,
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low"
+    },
+    {
+      "slug": "NDI2",
+      "slug_number": 426,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI2",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI2",
+      "page_title": "",
+      "load_time": 2.33,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:14:50.184657",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 6,
+        "style_count": 11
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Missing or invalid page title",
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.3,
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low"
+    },
+    {
+      "slug": "NDIz",
+      "slug_number": 423,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDIz",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDIz",
+      "page_title": "",
+      "load_time": 1.66,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:14:52.054243",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 6,
+        "style_count": 11
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Missing or invalid page title",
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.3,
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low"
+    },
+    {
+      "slug": "NDc4",
+      "slug_number": 478,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDc4",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDc4",
+      "page_title": "",
+      "load_time": 2.05,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:14:54.322126",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 6,
+        "style_count": 11
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Missing or invalid page title",
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.3,
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low"
+    },
+    {
+      "slug": "NDc5",
+      "slug_number": 479,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDc5",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDc5",
+      "page_title": "",
+      "load_time": 1.64,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:14:56.175945",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 6,
+        "style_count": 11
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Missing or invalid page title",
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.3,
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low"
+    },
+    {
+      "slug": "NDg0",
+      "slug_number": 484,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg0",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg0",
+      "page_title": "",
+      "load_time": 2.46,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:14:58.846201",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 6,
+        "style_count": 11
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Missing or invalid page title",
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.3,
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low"
+    },
+    {
+      "slug": "NDg1",
+      "slug_number": 485,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg1",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/au67z",
+      "page_title": "",
+      "load_time": 3.69,
+      "content_length": 35658,
+      "collected_at": "2025-06-22T12:15:02.753169",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647",
+          "1750565699",
+          "9175669995"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "redirect_info": "Redirects to widget-business: au67z",
+      "widget_business_slug": "au67z",
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": true,
+        "has_services": true,
+        "has_pricing": false,
+        "script_count": 14,
+        "style_count": 10
+      },
+      "is_ready": true,
+      "readiness_issues": [
+        "Missing or invalid page title",
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.5,
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "content_quality": "Low"
+    },
+    {
+      "slug": "NDg2",
+      "slug_number": 486,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg2",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg2",
+      "page_title": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "load_time": 1.83,
+      "content_length": 33793,
+      "collected_at": "2025-06-22T12:15:04.804825",
+      "business_name": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [
+        "DRIPBaR Franchise"
+      ],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 6,
+        "style_count": 11
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.6,
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium"
+    },
+    {
+      "slug": "NDg3",
+      "slug_number": 487,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg3",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg3",
+      "page_title": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "load_time": 1.42,
+      "content_length": 33793,
+      "collected_at": "2025-06-22T12:15:06.441378",
+      "business_name": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ]
+      },
+      "services": [],
+      "specializations": [
+        "DRIPBaR Franchise"
+      ],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "script_count": 6,
+        "style_count": 11
+      },
+      "is_ready": false,
+      "readiness_issues": [
+        "Contains error indicators"
+      ],
+      "confidence_score": 0.6,
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium"
+    }
+  ]
+}

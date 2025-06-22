@@ -1,0 +1,1866 @@
+{
+  "session_id": "BIZ_SIMPLE_20250622_122120",
+  "timestamp": "2025-06-22T12:21:20.796017",
+  "stats": {
+    "total_collected": 29,
+    "successful_collections": 29,
+    "failed_collections": 0
+  },
+  "businesses": [
+    {
+      "slug": "MTA",
+      "slug_number": 10,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTA",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "page_title": "undefined",
+      "load_time": 5.14,
+      "content_length": 31647,
+      "collected_at": "2025-06-22T12:21:27.671989",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "66667",
+        "11741",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "25252",
+        "58681",
+        "29761"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://vsdigitalprod.blob.core.windows.net/vsdigital",
+          "https://wsrv.nl/?url=undefined&amp",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "http://www.w3.org/2000/svg",
+          "https://cdn.logr-ingest.com/logger"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "Redirects to generic widget",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": true,
+        "has_location": false,
+        "script_count": 7,
+        "style_count": 10,
+        "image_count": 2,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 2
+    },
+    {
+      "slug": "MzY1",
+      "slug_number": 365,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzY1",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzY1",
+      "page_title": "",
+      "load_time": 1.68,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:21:29.580030",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://wsrv.nl/?url=&amp"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MzY2",
+      "slug_number": 366,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzY2",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/s2q7x",
+      "page_title": "",
+      "load_time": 2.22,
+      "content_length": 31779,
+      "collected_at": "2025-06-22T12:21:32.016545",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "66667",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "25252",
+        "58681",
+        "29761",
+        "76389"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://vsdigitalprod.blob.core.windows.net/vsdigital",
+          "https://www.googletagmanager.com/gtag/js?id=G",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "http://www.w3.org/2000/svg",
+          "https://cdn.logr-ingest.com/logger"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "Redirects to widget-business: s2q7x",
+      "widget_business_slug": "s2q7x",
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 12,
+        "style_count": 10,
+        "image_count": 4,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 4
+    },
+    {
+      "slug": "MzY4",
+      "slug_number": 368,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzY4",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzY4",
+      "page_title": "Test SP",
+      "load_time": 1.72,
+      "content_length": 33656,
+      "collected_at": "2025-06-22T12:21:33.960902",
+      "business_name": "Test SP",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://wsrv.nl/?url=null&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MzYw",
+      "slug_number": 360,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzYw",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzYw",
+      "page_title": "Test SP",
+      "load_time": 1.68,
+      "content_length": 33656,
+      "collected_at": "2025-06-22T12:21:35.873762",
+      "business_name": "Test SP",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://wsrv.nl/?url=null&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MzYy",
+      "slug_number": 362,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzYy",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "page_title": "",
+      "load_time": 2.97,
+      "content_length": 27089,
+      "collected_at": "2025-06-22T12:21:39.089852",
+      "business_name": "401",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://wsrv.nl/?url=&amp"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "Redirects to generic widget",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 7,
+        "style_count": 10,
+        "image_count": 0,
+        "link_count": 1
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MzYz",
+      "slug_number": 363,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzYz",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/52546",
+      "page_title": "VSDH One - Kshitij test",
+      "load_time": 1.88,
+      "content_length": 31464,
+      "collected_at": "2025-06-22T12:21:41.265068",
+      "business_name": "VSDH One - Kshitij test",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "66667",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "25252",
+        "58681",
+        "29761",
+        "76389"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://vsdigitalprod.blob.core.windows.net/vsdigital",
+          "https://www.googletagmanager.com/gtag/js?id=G",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "http://www.w3.org/2000/svg",
+          "https://cdn.logr-ingest.com/logger"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "Redirects to widget-business: 52546",
+      "widget_business_slug": "52546",
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": true,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 12,
+        "style_count": 10,
+        "image_count": 2,
+        "link_count": 1
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 2
+    },
+    {
+      "slug": "Mzcw",
+      "slug_number": 370,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzcw",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/745yc",
+      "page_title": "",
+      "load_time": 2.23,
+      "content_length": 32421,
+      "collected_at": "2025-06-22T12:21:43.728583",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "66667",
+        "11741",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "25252",
+        "58681",
+        "29761"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://vsdigitalprod.blob.core.windows.net/vsdigital",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "http://www.w3.org/2000/svg",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "Redirects to widget-business: 745yc",
+      "widget_business_slug": "745yc",
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": true,
+        "has_location": false,
+        "script_count": 11,
+        "style_count": 10,
+        "image_count": 2,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 2
+    },
+    {
+      "slug": "Mzcx",
+      "slug_number": 371,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzcx",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/rr94y",
+      "page_title": "",
+      "load_time": 2.92,
+      "content_length": 31849,
+      "collected_at": "2025-06-22T12:21:46.877240",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "66667",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "25252",
+        "58681",
+        "29761",
+        "76389"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://vsdigitalprod.blob.core.windows.net/vsdigital",
+          "https://www.googletagmanager.com/gtag/js?id=G",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "http://www.w3.org/2000/svg",
+          "https://cdn.logr-ingest.com/logger"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "Redirects to widget-business: rr94y",
+      "widget_business_slug": "rr94y",
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 13,
+        "style_count": 10,
+        "image_count": 4,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 4
+    },
+    {
+      "slug": "NDAw",
+      "slug_number": 400,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDAw",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDAw",
+      "page_title": "Akshay Health Center",
+      "load_time": 1.46,
+      "content_length": 33669,
+      "collected_at": "2025-06-22T12:21:48.556119",
+      "business_name": "Akshay Health Center",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://wsrv.nl/?url=null&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"
+        ]
+      },
+      "services": [
+        "health"
+      ],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDI0",
+      "slug_number": 424,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI0",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI0",
+      "page_title": "",
+      "load_time": 1.85,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:21:50.627425",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://wsrv.nl/?url=&amp"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDI1",
+      "slug_number": 425,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI1",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI1",
+      "page_title": "",
+      "load_time": 3.64,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:21:54.483653",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://wsrv.nl/?url=&amp"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDI2",
+      "slug_number": 426,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI2",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI2",
+      "page_title": "",
+      "load_time": 1.49,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:21:56.196980",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://wsrv.nl/?url=&amp"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDIz",
+      "slug_number": 423,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDIz",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDIz",
+      "page_title": "",
+      "load_time": 2.29,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:21:58.726491",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://wsrv.nl/?url=&amp"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDc4",
+      "slug_number": 478,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDc4",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDc4",
+      "page_title": "",
+      "load_time": 1.72,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:22:00.679786",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://wsrv.nl/?url=&amp"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDc5",
+      "slug_number": 479,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDc5",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDc5",
+      "page_title": "",
+      "load_time": 2.04,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:22:02.944830",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://wsrv.nl/?url=&amp"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDg0",
+      "slug_number": 484,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg0",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg0",
+      "page_title": "",
+      "load_time": 1.42,
+      "content_length": 33649,
+      "collected_at": "2025-06-22T12:22:04.584866",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://wsrv.nl/?url=&amp"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDg1",
+      "slug_number": 485,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg1",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/au67z",
+      "page_title": "",
+      "load_time": 2.67,
+      "content_length": 35658,
+      "collected_at": "2025-06-22T12:22:07.482505",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "66125",
+        "93063",
+        "91756",
+        "10320",
+        "66667",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "25252"
+      ],
+      "contact_info": {
+        "phones": [
+          "1674780206",
+          "9175669995",
+          "1750566125",
+          "1750566126",
+          "1123777371"
+        ],
+        "websites": [
+          "https://vsdigitalprod.blob.core.windows.net/vsdigital",
+          "https://www.googletagmanager.com/gtag/js?id=G",
+          "https://td.doubleclick.net/td/rul/16747802060?random=1750566126618&amp",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16747802060/?random=1750566126624&amp"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "Redirects to widget-business: au67z",
+      "widget_business_slug": "au67z",
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": true,
+        "has_services": true,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 14,
+        "style_count": 10,
+        "image_count": 4,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 4
+    },
+    {
+      "slug": "NDg2",
+      "slug_number": 486,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg2",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg2",
+      "page_title": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "load_time": 1.87,
+      "content_length": 33793,
+      "collected_at": "2025-06-22T12:22:09.579227",
+      "business_name": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://wsrv.nl/?url=https",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"
+        ]
+      },
+      "services": [],
+      "specializations": [
+        "DRIPBaR Franchise"
+      ],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDg3",
+      "slug_number": 487,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg3",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg3",
+      "page_title": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "load_time": 1.5,
+      "content_length": 33793,
+      "collected_at": "2025-06-22T12:22:11.299338",
+      "business_name": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://wsrv.nl/?url=https",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"
+        ]
+      },
+      "services": [],
+      "specializations": [
+        "DRIPBaR Franchise"
+      ],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDg4",
+      "slug_number": 488,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg4",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg4",
+      "page_title": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "load_time": 2.27,
+      "content_length": 33793,
+      "collected_at": "2025-06-22T12:22:13.796790",
+      "business_name": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://wsrv.nl/?url=https",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"
+        ]
+      },
+      "services": [],
+      "specializations": [
+        "DRIPBaR Franchise"
+      ],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDg5",
+      "slug_number": 489,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg5",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg5",
+      "page_title": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "load_time": 1.68,
+      "content_length": 33793,
+      "collected_at": "2025-06-22T12:22:15.697037",
+      "business_name": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://wsrv.nl/?url=https",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"
+        ]
+      },
+      "services": [],
+      "specializations": [
+        "DRIPBaR Franchise"
+      ],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDgw",
+      "slug_number": 480,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDgw",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDgw",
+      "page_title": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "load_time": 1.83,
+      "content_length": 33793,
+      "collected_at": "2025-06-22T12:22:17.745469",
+      "business_name": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://wsrv.nl/?url=https",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"
+        ]
+      },
+      "services": [],
+      "specializations": [
+        "DRIPBaR Franchise"
+      ],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDgx",
+      "slug_number": 481,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDgx",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDgx",
+      "page_title": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "load_time": 2.07,
+      "content_length": 33793,
+      "collected_at": "2025-06-22T12:22:20.034176",
+      "business_name": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://wsrv.nl/?url=https",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"
+        ]
+      },
+      "services": [],
+      "specializations": [
+        "DRIPBaR Franchise"
+      ],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDgy",
+      "slug_number": 482,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDgy",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDgy",
+      "page_title": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "load_time": 2.91,
+      "content_length": 33793,
+      "collected_at": "2025-06-22T12:22:23.159839",
+      "business_name": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://wsrv.nl/?url=https",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"
+        ]
+      },
+      "services": [],
+      "specializations": [
+        "DRIPBaR Franchise"
+      ],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDgz",
+      "slug_number": 483,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDgz",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDgz",
+      "page_title": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "load_time": 2.48,
+      "content_length": 33793,
+      "collected_at": "2025-06-22T12:22:25.869549",
+      "business_name": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://wsrv.nl/?url=https",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"
+        ]
+      },
+      "services": [],
+      "specializations": [
+        "DRIPBaR Franchise"
+      ],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDkw",
+      "slug_number": 490,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDkw",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDkw",
+      "page_title": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "load_time": 2.06,
+      "content_length": 33793,
+      "collected_at": "2025-06-22T12:22:28.150397",
+      "business_name": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://wsrv.nl/?url=https",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"
+        ]
+      },
+      "services": [],
+      "specializations": [
+        "DRIPBaR Franchise"
+      ],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDkx",
+      "slug_number": 491,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDkx",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDkx",
+      "page_title": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "load_time": 1.85,
+      "content_length": 33793,
+      "collected_at": "2025-06-22T12:22:30.220205",
+      "business_name": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://wsrv.nl/?url=https",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"
+        ]
+      },
+      "services": [],
+      "specializations": [
+        "DRIPBaR Franchise"
+      ],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDky",
+      "slug_number": 492,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDky",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDky",
+      "page_title": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "load_time": 1.84,
+      "content_length": 33793,
+      "collected_at": "2025-06-22T12:22:32.278445",
+      "business_name": "The DRIPBaR Direct - Virginia Beach (VA)",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "93063",
+        "76505",
+        "71689",
+        "63672",
+        "70974",
+        "29761",
+        "10337",
+        "88605",
+        "99131",
+        "21474"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://wsrv.nl/?url=https",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"
+        ]
+      },
+      "services": [],
+      "specializations": [
+        "DRIPBaR Franchise"
+      ],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 0
+    }
+  ]
+}

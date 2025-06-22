@@ -1,0 +1,16 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_112901",
+  "timestamp": "2025-06-22T11:31:18.173958",
+  "current_index": 40,
+  "total_slugs": 200,
+  "current_slug": "ODM5",
+  "stats": {
+    "total_tested": 40,
+    "active_found": 1,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "completed_slugs": 40
+}

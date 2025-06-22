@@ -1,0 +1,16 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_114433",
+  "timestamp": "2025-06-22T11:45:14.646914",
+  "current_index": 10,
+  "total_slugs": 100,
+  "current_slug": "NzA5",
+  "stats": {
+    "total_tested": 10,
+    "active_found": 8,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "completed_slugs": 10
+}

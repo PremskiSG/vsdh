@@ -1,0 +1,16 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_112822",
+  "timestamp": "2025-06-22T11:37:56.490833",
+  "current_index": 170,
+  "total_slugs": 300,
+  "current_slug": "NTY5",
+  "stats": {
+    "total_tested": 170,
+    "active_found": 47,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "completed_slugs": 170
+}

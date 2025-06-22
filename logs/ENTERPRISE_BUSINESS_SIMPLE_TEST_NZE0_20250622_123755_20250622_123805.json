@@ -1,0 +1,74 @@
+{
+  "session_id": "TEST_NZE0_20250622_123755",
+  "timestamp": "2025-06-22T12:37:55.208416",
+  "stats": {
+    "total_collected": 1,
+    "successful_collections": 1,
+    "failed_collections": 0
+  },
+  "businesses": [
+    {
+      "slug": "NzE0",
+      "slug_number": 714,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NzE0",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NzE0?cb=1750567076723",
+      "page_title": "Dr Frank's",
+      "load_time": 7.82,
+      "content_length": 35729,
+      "collected_at": "2025-06-22T12:38:05.777312",
+      "business_name": "Dr Frank's",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "17590",
+        "24986",
+        "51293",
+        "93524",
+        "50634",
+        "94666",
+        "71979",
+        "57932",
+        "51794",
+        "93514"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "http://www.w3.org/2000/svg",
+          "https://jsd-widget.atlassian.com",
+          "https://cdn.logr-ingest.com/logger",
+          "https://vsdigitalprod.blob.core.windows.net/vsdigital",
+          "https://wsrv.nl/?url=https"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "Redirects to: https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NzE0?cb=1750567076723",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 10,
+        "image_count": 2,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 2
+    }
+  ]
+}

@@ -1,0 +1,1177 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_131631",
+  "start_time": "2025-06-22T13:16:31.303729",
+  "scanner_type": "Enterprise_Level",
+  "base_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/",
+  "instance_id": "ENT_DEFAULT",
+  "hostname": "10.254.2.40",
+  "results": [
+    {
+      "slug": "Mzcx",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzcx",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "undefined",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "undefined",
+      "content_length": 31648,
+      "load_time": 5.167121171951294,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title>undefined</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"htt",
+      "tested_at": "2025-06-22T13:16:32.720882",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzcy",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzcy",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.0275866985321045,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:16:37.989300",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzcz",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzcz",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.447160005569458,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:16:41.124662",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzc0",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzc0",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.0047409534454346,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:16:43.678245",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzc1",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzc1",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.438591957092285,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:16:45.788756",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzc2",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzc2",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.06931209564209,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:16:48.333341",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzc3",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzc3",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.7181410789489746,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:16:50.506710",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzc4",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzc4",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.9460859298706055,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:16:53.331332",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzc5",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzc5",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.48911714553833,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:16:56.380876",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzgw",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzgw",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.8577840328216553,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:16:58.972656",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzgx",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzgx",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.0556528568267822,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:01.933698",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzgy",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzgy",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.5043351650238037,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:05.091687",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzgz",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzgz",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.8794102668762207,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:07.701743",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzg0",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzg0",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.102591037750244,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:11.684609",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzg1",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzg1",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.048219919204712,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:14.892564",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzg2",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzg2",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.267400026321411,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:18.045261",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzg3",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzg3",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.078652858734131,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:21.419208",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzg4",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzg4",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.8660569190979004,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:24.603753",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzg5",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzg5",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.6177690029144287,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:27.576358",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzkw",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzkw",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.4837136268615723,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:30.299980",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzkx",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzkx",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.8230907917022705,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:33.891190",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzky",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzky",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 4.247933864593506,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:36.817790",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzkz",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzkz",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.9318339824676514,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:41.171726",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzk0",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzk0",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.2724080085754395,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:44.209530",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzk1",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzk1",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.6751132011413574,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:47.587838",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzk2",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzk2",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.435293197631836,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:51.364039",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzk3",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzk3",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.253654956817627,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:53.903005",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzk4",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzk4",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.827357769012451,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:17:57.260314",
+      "error_details": ""
+    },
+    {
+      "slug": "Mzk5",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzk5",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.182591199874878,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:00.193471",
+      "error_details": ""
+    },
+    {
+      "slug": "NDAw",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDAw",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.6442039012908936,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:02.477571",
+      "error_details": ""
+    },
+    {
+      "slug": "NDkz",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDkz",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDkz",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Optimal Lean Life",
+      "business_indicators": 6,
+      "error_indicators": 1,
+      "indicators_found": [
+        "consultation",
+        "select",
+        "weight loss",
+        "health",
+        "patient",
+        "care"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Optimal Lean Life",
+      "content_length": 36006,
+      "load_time": 2.7595388889312744,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title>optimal lean life</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" h",
+      "tested_at": "2025-06-22T13:18:05.228157",
+      "error_details": ""
+    },
+    {
+      "slug": "NDk0",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDk0",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.8217339515686035,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:08.093542",
+      "error_details": ""
+    },
+    {
+      "slug": "NDk1",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDk1",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.6153481006622314,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:11.021564",
+      "error_details": ""
+    },
+    {
+      "slug": "NDk2",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDk2",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.5006027221679688,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:13.740233",
+      "error_details": ""
+    },
+    {
+      "slug": "NDk3",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDk3",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.348858118057251,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:17.343762",
+      "error_details": ""
+    },
+    {
+      "slug": "NDk4",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDk4",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 5.393748044967651,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:20.796158",
+      "error_details": ""
+    },
+    {
+      "slug": "NDk5",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDk5",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.6567890644073486,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:26.294639",
+      "error_details": ""
+    },
+    {
+      "slug": "NTAw",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTAw",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.8222298622131348,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:29.054869",
+      "error_details": ""
+    },
+    {
+      "slug": "NTAx",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTAx",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.0109219551086426,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:31.983920",
+      "error_details": ""
+    },
+    {
+      "slug": "NTAy",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTAy",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.4105899333953857,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:35.101239",
+      "error_details": ""
+    },
+    {
+      "slug": "NTAz",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTAz",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.4643280506134033,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:37.617689",
+      "error_details": ""
+    },
+    {
+      "slug": "NTA0",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTA0",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.620716094970703,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:41.185425",
+      "error_details": ""
+    },
+    {
+      "slug": "NTA1",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTA1",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.813767910003662,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:43.911911",
+      "error_details": ""
+    },
+    {
+      "slug": "NTA2",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTA2",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.680386781692505,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:46.830280",
+      "error_details": ""
+    },
+    {
+      "slug": "NTA3",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTA3",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 4.136425018310547,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:49.614733",
+      "error_details": ""
+    },
+    {
+      "slug": "NTA4",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTA4",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.653651237487793,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:53.852036",
+      "error_details": ""
+    },
+    {
+      "slug": "NTA5",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTA5",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 3.070215940475464,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:56.609347",
+      "error_details": ""
+    },
+    {
+      "slug": "NTEw",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTEw",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.841003179550171,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:18:59.782717",
+      "error_details": ""
+    },
+    {
+      "slug": "NTEx",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTEx",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.4805710315704346,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:19:02.726599",
+      "error_details": ""
+    },
+    {
+      "slug": "NTEy",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTEy",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31630,
+      "load_time": 2.8080360889434814,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://font",
+      "tested_at": "2025-06-22T13:19:05.310627",
+      "error_details": ""
+    }
+  ],
+  "stats": {
+    "total_tested": 50,
+    "active_found": 2,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "checkpoint_info": {
+    "last_checkpoint": 0,
+    "checkpoint_frequency": 10,
+    "resume_from_slug": null
+  }
+}

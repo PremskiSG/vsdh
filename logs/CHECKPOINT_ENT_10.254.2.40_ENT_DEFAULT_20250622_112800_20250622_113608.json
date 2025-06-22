@@ -1,0 +1,16 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_112800",
+  "timestamp": "2025-06-22T11:36:08.867237",
+  "current_index": 150,
+  "total_slugs": 300,
+  "current_slug": "MjQ5",
+  "stats": {
+    "total_tested": 150,
+    "active_found": 0,
+    "errors": 1,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 1
+  },
+  "completed_slugs": 150
+}

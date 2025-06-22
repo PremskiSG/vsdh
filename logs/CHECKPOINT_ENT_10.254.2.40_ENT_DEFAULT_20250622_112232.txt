@@ -1,0 +1,16 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_112232",
+  "timestamp": "2025-06-22T11:26:47.395584",
+  "current_index": 80,
+  "total_slugs": 80,
+  "current_slug": "OTk",
+  "stats": {
+    "total_tested": 80,
+    "active_found": 1,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "completed_slugs": 80
+}

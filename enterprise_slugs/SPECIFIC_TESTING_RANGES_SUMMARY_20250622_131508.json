@@ -1,0 +1,54 @@
+{
+  "generation_timestamp": "20250622_131508",
+  "type": "specific-testing-ranges",
+  "slug_count": 193,
+  "filename": "enterprise_specific_testing_ranges_20250622_131508.txt",
+  "ranges": [
+    {
+      "range": "371-400",
+      "start": 371,
+      "end": 400,
+      "count": 30,
+      "sample_slugs": [
+        "Mzcx",
+        "Mzcy",
+        "Mzcz"
+      ]
+    },
+    {
+      "range": "493-545",
+      "start": 493,
+      "end": 545,
+      "count": 53,
+      "sample_slugs": [
+        "NDkz",
+        "NDk0",
+        "NDk1"
+      ]
+    },
+    {
+      "range": "583-636",
+      "start": 583,
+      "end": 636,
+      "count": 54,
+      "sample_slugs": [
+        "NTgz",
+        "NTg0",
+        "NTg1"
+      ]
+    },
+    {
+      "range": "643-698",
+      "start": 643,
+      "end": 698,
+      "count": 56,
+      "sample_slugs": [
+        "NjQz",
+        "NjQ0",
+        "NjQ1"
+      ]
+    }
+  ],
+  "total_expected": 193,
+  "note": "Generated for specific testing ranges: 371-400, 493-545, 583-636, 643-698"
+}

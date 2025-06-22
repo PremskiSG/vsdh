@@ -1,0 +1,16 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_112822",
+  "timestamp": "2025-06-22T11:33:52.146187",
+  "current_index": 100,
+  "total_slugs": 300,
+  "current_slug": "NDk5",
+  "stats": {
+    "total_tested": 100,
+    "active_found": 21,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "completed_slugs": 100
+}

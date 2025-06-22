@@ -1,0 +1,17 @@
+{
+  "generation_timestamp": "20250622_112136",
+  "type": "2-digit",
+  "slug_count": 80,
+  "number_range": "10-99",
+  "filename": "enterprise_2digit_batch_1_20250622_112136.txt",
+  "excluded_prefixes": [
+    "Nz"
+  ],
+  "sample_slugs": [
+    "MTA",
+    "MTE",
+    "MTI",
+    "MTM",
+    "MTQ"
+  ]
+}

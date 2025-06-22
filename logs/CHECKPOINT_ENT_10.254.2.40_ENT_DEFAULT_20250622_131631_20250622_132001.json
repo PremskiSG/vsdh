@@ -1,0 +1,15 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_131631",
+  "timestamp": "2025-06-22T13:20:01.346328",
+  "completed_slugs": 70,
+  "total_slugs": 193,
+  "current_slug": "NTMy",
+  "stats": {
+    "total_tested": 70,
+    "active_found": 2,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_112800",
+  "timestamp": "2025-06-22T11:43:40.635561",
+  "current_index": 270,
+  "total_slugs": 300,
+  "current_slug": "MzY5",
+  "stats": {
+    "total_tested": 270,
+    "active_found": 6,
+    "errors": 2,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 2
+  },
+  "completed_slugs": 270
+}

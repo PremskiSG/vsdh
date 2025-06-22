@@ -1,0 +1,16 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_112232",
+  "timestamp": "2025-06-22T11:23:37.739111",
+  "current_index": 20,
+  "total_slugs": 80,
+  "current_slug": "Mjk",
+  "stats": {
+    "total_tested": 20,
+    "active_found": 1,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "completed_slugs": 20
+}

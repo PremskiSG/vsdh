@@ -1,0 +1,16 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_112901",
+  "timestamp": "2025-06-22T11:35:00.652935",
+  "current_index": 110,
+  "total_slugs": 200,
+  "current_slug": "OTA5",
+  "stats": {
+    "total_tested": 110,
+    "active_found": 1,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "completed_slugs": 110
+}

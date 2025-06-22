@@ -1,0 +1,15 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_131631",
+  "timestamp": "2025-06-22T13:21:09.648478",
+  "completed_slugs": 90,
+  "total_slugs": 193,
+  "current_slug": "NTg5",
+  "stats": {
+    "total_tested": 90,
+    "active_found": 8,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  }
+}

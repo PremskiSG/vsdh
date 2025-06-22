@@ -1,0 +1,13 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_114421",
+  "timestamp": "20250622_114942",
+  "stats": {
+    "total_tested": 100,
+    "active_found": 21,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "last_update": "2025-06-22T11:49:42.500921"
+}

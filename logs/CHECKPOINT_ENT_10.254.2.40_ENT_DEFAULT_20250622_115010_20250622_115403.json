@@ -1,0 +1,16 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_115010",
+  "timestamp": "2025-06-22T11:54:03.212746",
+  "current_index": 70,
+  "total_slugs": 200,
+  "current_slug": "ODY5",
+  "stats": {
+    "total_tested": 70,
+    "active_found": 1,
+    "errors": 1,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 1
+  },
+  "completed_slugs": 70
+}

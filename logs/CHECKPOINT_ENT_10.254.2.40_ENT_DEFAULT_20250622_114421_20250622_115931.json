@@ -1,0 +1,16 @@
+{
+  "session_id": "10.254.2.40_ENT_DEFAULT_20250622_114421",
+  "timestamp": "2025-06-22T11:59:31.239173",
+  "current_index": 280,
+  "total_slugs": 300,
+  "current_slug": "Njc5",
+  "stats": {
+    "total_tested": 280,
+    "active_found": 76,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "completed_slugs": 280
+}
