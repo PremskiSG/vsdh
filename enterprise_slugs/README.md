@@ -1,130 +1,127 @@
-# Enterprise Slug Generator for VSDHOne
+# VSDHOne Enterprise Slug Generation System
 
-## 🏢 Overview
-This directory contains the **Enterprise Slug Generator** for VSDHOne's `/b/` URL format, designed to generate base64-encoded slugs for enterprise booking URLs.
+## Overview
+This system generates enterprise slugs for VSDHOne URL format: `https://vsdigital-bookingwidget-prod.azurewebsites.net/b/`
 
-## 🔍 Pattern Analysis
-Based on working samples analysis:
+## Working Samples Analysis
 - **NzEw** → `710` (RenIVate)
-- **NDI2** → `426` (Oh My Olivia) 
+- **NDI2** → `426` (Oh My Olivia)  
 - **NzEy** → `712` (Valor Wellness)
+- **Pattern**: Enterprise slugs are base64-encoded numbers
+- **Key Insight**: All working samples are 3-digit numbers!
 
-**Pattern**: Enterprise slugs are **base64-encoded numbers**
+## Generated Batches
 
-## 🚀 Generation Strategy
+### Small Initial Batches (1,000 total slugs) - LEGACY
+Generated on 20250622_103234:
+- `enterprise_batch_1_20250622_103234.txt` - 200 slugs
+- `enterprise_batch_2_20250622_103234.txt` - 200 slugs
+- `enterprise_batch_3_20250622_103234.txt` - 200 slugs
+- `enterprise_batch_4_20250622_103234.txt` - 200 slugs
+- `enterprise_batch_5_20250622_103234.txt` - 200 slugs
 
-### Smart Multi-Strategy Approach:
+### Focused Production Batches (8,800 total slugs) - CURRENT
+Generated on 20250622_111132 with COMPLETE coverage:
 
-1. **Around Working Samples** (High Priority)
-   - Generates numbers around known working values (±100 range)
-   - Targets: 710±100, 426±100, 712±100
+#### 3-Digit Number Batches (800 total slugs)
+- `enterprise_3digit_batch_1_20250622_111132.txt` - 300 slugs (numbers 100-399)
+- `enterprise_3digit_batch_2_20250622_111132.txt` - 300 slugs (numbers 400-699)  
+- `enterprise_3digit_batch_3_20250622_111132.txt` - 200 slugs (numbers 800-999)
 
-2. **Common Patterns**
-   - Sequential ranges: 1-99, 100-199, 200-299, etc.
-   - Round numbers: 100, 200, 300, 1000, 2000, etc.
-   - Random 3-digit and 4-digit numbers
+#### 4-Digit Number Batches (8,000 total slugs)
+- `enterprise_4digit_batch_1_20250622_111132.txt` - 3,000 slugs (numbers 1000-3999)
+- `enterprise_4digit_batch_2_20250622_111132.txt` - 3,000 slugs (numbers 4000-6999)
+- `enterprise_4digit_batch_3_20250622_111132.txt` - 2,000 slugs (numbers 7000-9999)
 
-3. **Sequential Fill**
-   - Fills remaining quota with systematic ranges
-   - Ensures comprehensive coverage
+**Complete Coverage**: 100% of 3-digit numbers (100-999) and 100% of 4-digit numbers (1000-9999)
 
-### 🚫 Exclusions
-- **Nz*** prefixed slugs (tested on another laptop)
-- Duplicate prevention across all strategies
+## Generation Strategy - Focused Approach
+The focused batches provide systematic, complete coverage:
 
-## 📁 Generated Files
+1. **3-Digit Complete Coverage**: All numbers 100-999 (matching working sample pattern)
+2. **4-Digit Complete Coverage**: All numbers 1000-9999 (logical extension)
+3. **No Duplicates**: Fresh generation with complete coverage
+4. **Realistic Ranges**: Based on working samples (all 3-digit numbers)
 
-### Latest Generation (20250622_103234):
-- **Total Slugs**: 1,000 unique enterprise slugs
-- **Batches**: 5 files × 200 slugs each
-- **Excluded**: 332 Nz* prefixed slugs
-- **Success Rate**: Successfully generated 1,000 valid slugs
+## Exclusions
+- **Nz*** prefixed slugs (tested on other laptop)
+- **No other exclusions** - complete coverage within ranges
 
-#### Files:
-```
-enterprise_batch_1_20250622_103234.txt  (200 slugs)
-enterprise_batch_2_20250622_103234.txt  (200 slugs)  
-enterprise_batch_3_20250622_103234.txt  (200 slugs)
-enterprise_batch_4_20250622_103234.txt  (200 slugs)
-enterprise_batch_5_20250622_103234.txt  (200 slugs)
-ENTERPRISE_GENERATION_SUMMARY_20250622_103234.json
-```
+## Usage with Enterprise Scanner
 
-## 🧪 Testing Results
-
-### Quick Test Sample:
-- **NjEw** (610) → ✅ **ACTIVE** (Found new business!)
-- **NjEx** (611) → ❌ ERROR_PAGE
-- **NjEy** (612) → ❌ ERROR_PAGE
-- **MQ** (1) → ❌ ERROR_PAGE
-- **Mg** (2) → ❌ ERROR_PAGE
-
-**Discovery**: Found at least 1 new active business in generated slugs!
-
-## 🛠️ Usage
-
-### Generate New Slugs:
+### Quick Test (3-Digit Batch)
 ```bash
-cd enterprise_slugs
-python3 enterprise_slug_generator.py
+python3 ../enterprise_level_scanner.py enterprise_3digit_batch_1_20250622_111132.txt
 ```
 
-### Test a Batch:
+### Production Scanning (4-Digit Batch)
 ```bash
-cd enterprise_slugs
-python3 test_enterprise_batch.py enterprise_batch_1_20250622_103234.txt --max-slugs 10
+python3 ../enterprise_level_scanner.py enterprise_4digit_batch_1_20250622_111132.txt
 ```
 
-### Full Batch Scan:
+### Complete Sequential Scanning
 ```bash
-cd enterprise_slugs
-python3 test_enterprise_batch.py enterprise_batch_1_20250622_103234.txt
+# Scan all 3-digit numbers first (most likely to find matches)
+python3 ../enterprise_level_scanner.py enterprise_3digit_batch_1_20250622_111132.txt
+python3 ../enterprise_level_scanner.py enterprise_3digit_batch_2_20250622_111132.txt
+python3 ../enterprise_level_scanner.py enterprise_3digit_batch_3_20250622_111132.txt
+
+# Then scan 4-digit numbers
+python3 ../enterprise_level_scanner.py enterprise_4digit_batch_1_20250622_111132.txt
+python3 ../enterprise_level_scanner.py enterprise_4digit_batch_2_20250622_111132.txt
+python3 ../enterprise_level_scanner.py enterprise_4digit_batch_3_20250622_111132.txt
 ```
 
-## 📊 Generation Statistics
-
-### Strategy Breakdown:
-- **Around Working Samples**: 303 slugs
-- **Common Patterns**: 641 slugs  
-- **Sequential (1000-2000)**: 994 slugs
-- **Total Unique**: 1,000 slugs
-
-### Performance:
-- **Generation Time**: ~1 second
-- **Exclusion Rate**: 332 Nz* slugs filtered out
-- **Success Rate**: 100% target achievement
-
-## 🔧 Technical Details
-
-### Base64 Encoding:
-```python
-number = 710
-slug = base64.b64encode(str(number).encode()).decode().rstrip('=')
-# Result: "NzEw"
+## File Structure
+```
+enterprise_slugs/
+├── README.md                                          # This documentation
+├── enterprise_slug_generator.py                       # Original small batch generator
+├── generate_large_enterprise_batches.py              # Large batch generator (DEPRECATED)
+├── generate_focused_enterprise_batches.py            # Focused batch generator (CURRENT)
+├── test_enterprise_batch.py                          # Batch testing utility
+├── enterprise_batch_*_20250622_103234.txt           # Small batches (LEGACY)
+├── enterprise_3digit_batch_*_20250622_111132.txt    # 3-digit focused batches (CURRENT)
+├── enterprise_4digit_batch_*_20250622_111132.txt    # 4-digit focused batches (CURRENT)
+└── FOCUSED_ENTERPRISE_GENERATION_SUMMARY_20250622_111132.json # Current summary
 ```
 
-### Decoding Verification:
-```python
-slug = "NjEw"
-padded = slug + '=' * (4 - len(slug) % 4) if len(slug) % 4 else slug
-number = int(base64.b64decode(padded).decode())
-# Result: 610
+## Sample Slug Examples
+```
+3-digit examples:
+MTAw → 100, MTAx → 101, NDI2 → 426, NzEw → 710
+
+4-digit examples:  
+MTAwMA → 1000, MTAwMQ → 1001, NDAwMA → 4000
 ```
 
-## 🎯 Next Steps
+## Performance Expectations
+- **Enterprise URLs**: ~0.85s response time (much faster than widget URLs)
+- **Scanner Rate**: ~10 requests/second with rate limiting
+- **Average per URL**: ~3.5 seconds (including processing + rate limiting)
+- **3-digit batches**: ~300 slugs = ~17 minutes scanning each
+- **4-digit batches**: ~2,500-3,000 slugs = ~2.5-3 hours scanning each
 
-1. **Batch Testing**: Test all 5 batches systematically
-2. **Active Business Discovery**: Scan for new enterprise businesses
-3. **Pattern Refinement**: Adjust generation based on results
-4. **Scale Up**: Generate larger batches if needed
+## Known Active Discoveries
+- **NjEw** (610) - Discovered as ACTIVE during testing
+- **Working samples**: NzEw (710), NDI2 (426), NzEy (712)
 
-## 📈 Expected Results
+## Scanner Integration
+All batch files are compatible with:
+- `enterprise_level_scanner.py` - Production scanning with full logging
+- `enterprise_self_test_scanner.py` - Validation testing
+- Both scanners include checkpoint/resume functionality every 10 scans
 
-Based on the pattern analysis and initial testing, we expect:
-- **Hit Rate**: 0.1-1% of generated slugs may be active
-- **New Businesses**: Potential to discover 1-10 new enterprise businesses
-- **Coverage**: Comprehensive coverage of likely number ranges
+## Strategy Recommendations
 
----
+### Priority Order (Highest to Lowest Probability):
+1. **3-digit batches first** - All working samples are 3-digit numbers
+2. **4-digit batches second** - Logical extension for broader coverage
+3. **Focus on 3-digit batch 2** (400-699) - Contains working sample range
 
-**🚀 Ready for enterprise discovery scanning!** 
+### Expected Hit Rate:
+- **3-digit numbers**: Higher probability (working samples are all 3-digit)
+- **4-digit numbers**: Lower probability but broader coverage
+- **Estimated active businesses**: 5-50 across all batches
+
+ 

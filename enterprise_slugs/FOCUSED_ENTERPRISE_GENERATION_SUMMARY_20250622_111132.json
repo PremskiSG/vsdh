@@ -1,0 +1,61 @@
+{
+  "generation_timestamp": "20250622_111132",
+  "fresh_generation": true,
+  "excluded_prefixes": [
+    "Nz"
+  ],
+  "batches": [
+    {
+      "type": "3-digit",
+      "batch_number": 1,
+      "filename": "enterprise_3digit_batch_1_20250622_111132.txt",
+      "slug_count": 300,
+      "number_range": "100-399"
+    },
+    {
+      "type": "3-digit",
+      "batch_number": 2,
+      "filename": "enterprise_3digit_batch_2_20250622_111132.txt",
+      "slug_count": 300,
+      "number_range": "400-699"
+    },
+    {
+      "type": "3-digit",
+      "batch_number": 3,
+      "filename": "enterprise_3digit_batch_3_20250622_111132.txt",
+      "slug_count": 200,
+      "number_range": "800-999"
+    },
+    {
+      "type": "4-digit",
+      "batch_number": 1,
+      "filename": "enterprise_4digit_batch_1_20250622_111132.txt",
+      "slug_count": 3000,
+      "number_range": "1000-3999"
+    },
+    {
+      "type": "4-digit",
+      "batch_number": 2,
+      "filename": "enterprise_4digit_batch_2_20250622_111132.txt",
+      "slug_count": 3000,
+      "number_range": "4000-6999"
+    },
+    {
+      "type": "4-digit",
+      "batch_number": 3,
+      "filename": "enterprise_4digit_batch_3_20250622_111132.txt",
+      "slug_count": 2000,
+      "number_range": "8000-9999"
+    }
+  ],
+  "total_batches": 6,
+  "total_slugs_generated": 8800,
+  "batch_files": [
+    "enterprise_3digit_batch_1_20250622_111132.txt",
+    "enterprise_3digit_batch_2_20250622_111132.txt",
+    "enterprise_3digit_batch_3_20250622_111132.txt",
+    "enterprise_4digit_batch_1_20250622_111132.txt",
+    "enterprise_4digit_batch_2_20250622_111132.txt",
+    "enterprise_4digit_batch_3_20250622_111132.txt"
+  ]
+}
