@@ -1,0 +1,69 @@
+{
+  "session_id": "10.254.2.40_ENT_SELFTEST_20250622_102126",
+  "timestamp": "20250622_102158",
+  "validation_summary": {
+    "total_tests": 5,
+    "passed": 5,
+    "failed": 0,
+    "accuracy": 100.0
+  },
+  "validation_details": [
+    {
+      "slug": "NzEw",
+      "expected": "ACTIVE",
+      "actual": "ACTIVE",
+      "passed": true,
+      "test_type": "working"
+    },
+    {
+      "slug": "NDI2",
+      "expected": "ACTIVE",
+      "actual": "ACTIVE",
+      "passed": true,
+      "test_type": "working"
+    },
+    {
+      "slug": "NzEy",
+      "expected": "ACTIVE",
+      "actual": "ACTIVE",
+      "passed": true,
+      "test_type": "working"
+    },
+    {
+      "slug": "aaaa",
+      "expected": "ERROR_PAGE",
+      "actual": "ERROR_PAGE",
+      "passed": true,
+      "test_type": "error"
+    },
+    {
+      "slug": "Nzab",
+      "expected": "ERROR_PAGE",
+      "actual": "ERROR_PAGE",
+      "passed": true,
+      "test_type": "error"
+    }
+  ],
+  "test_configuration": {
+    "NzEw": {
+      "expected": "ACTIVE",
+      "type": "working"
+    },
+    "NDI2": {
+      "expected": "ACTIVE",
+      "type": "working"
+    },
+    "NzEy": {
+      "expected": "ACTIVE",
+      "type": "working"
+    },
+    "aaaa": {
+      "expected": "ERROR_PAGE",
+      "type": "error"
+    },
+    "Nzab": {
+      "expected": "ERROR_PAGE",
+      "type": "error"
+    }
+  }
+}

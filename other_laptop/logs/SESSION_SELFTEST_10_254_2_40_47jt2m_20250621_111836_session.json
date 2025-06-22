@@ -1,0 +1,51 @@
+{
+  "session_info": {
+    "session_id": "SESSION_SELFTEST_10_254_2_40_47jt2m_20250621_111836",
+    "hostname": "10_254_2_40",
+    "instance_id": "47jt2m",
+    "start_time": "2025-06-21T11:18:36.966862",
+    "end_time": "2025-06-21T11:18:59.368261",
+    "session_type": "SELF_TEST",
+    "range_start": "SELF_TEST_6_SLUGS",
+    "range_end": "SELF_TEST_6_SLUGS",
+    "scanner_version": "2.1_session_logging"
+  },
+  "testing_results": [
+    {
+      "slug": "ad31y",
+      "timestamp": "2025-06-21T11:18:45.687975",
+      "test_type": "SELF_TEST",
+      "status": "ACTIVE",
+      "business_name": "The DRIPBaR Direct - Sebring (FL)",
+      "load_time": 8.639429092407227,
+      "content_length": 53801,
+      "business_indicators": 4,
+      "error_indicators": 3,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ad31y",
+      "error": ""
+    },
+    {
+      "slug": "mj42f",
+      "timestamp": "2025-06-21T11:18:53.913288",
+      "test_type": "SELF_TEST",
+      "status": "ACTIVE",
+      "business_name": "The DRIPBaR Direct - Brielle",
+      "load_time": 7.939012050628662,
+      "content_length": 53742,
+      "business_indicators": 4,
+      "error_indicators": 3,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/mj42f",
+      "error": ""
+    }
+  ],
+  "session_summary": {
+    "total_tested": 2,
+    "active_found": 2,
+    "inactive_found": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "other_errors": 0,
+    "session_duration_seconds": 22.401399,
+    "average_test_time": 11.2006995
+  }
+}

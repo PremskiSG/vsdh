@@ -1,0 +1,10 @@
+{
+  "instance_id": "d1ngut",
+  "tested_count": 16,
+  "found_count": 0,
+  "skipped_count": 0,
+  "start_time": "2025-06-21T14:07:55.385248",
+  "current_time": "2025-06-21T14:12:41.262960",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

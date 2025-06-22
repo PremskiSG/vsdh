@@ -1,0 +1,10 @@
+{
+  "instance_id": "j8hadb",
+  "tested_count": 23,
+  "found_count": 0,
+  "skipped_count": 0,
+  "start_time": "2025-06-21T11:28:50.685575",
+  "current_time": "2025-06-21T11:34:30.131741",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

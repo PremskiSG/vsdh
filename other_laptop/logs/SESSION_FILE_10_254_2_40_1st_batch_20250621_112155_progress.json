@@ -1,0 +1,10 @@
+{
+  "instance_id": "velquc",
+  "tested_count": 44,
+  "found_count": 0,
+  "skipped_count": 0,
+  "start_time": "2025-06-21T11:21:55.518607",
+  "current_time": "2025-06-21T11:32:47.460979",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

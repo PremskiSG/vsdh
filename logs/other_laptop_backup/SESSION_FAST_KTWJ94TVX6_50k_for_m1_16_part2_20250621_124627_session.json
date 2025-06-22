@@ -1,0 +1,103 @@
+{
+  "session_info": {
+    "session_id": "SESSION_FAST_KTWJ94TVX6_50k_for_m1_16_part2_20250621_124627",
+    "hostname": "KTWJ94TVX6",
+    "instance_id": "nbznkn",
+    "start_time": "2025-06-21T12:46:27.516674",
+    "end_time": "2025-06-21T12:47:24.028162",
+    "session_type": "FAST_COMPREHENSIVE_SCAN",
+    "range_start": "FILE_BASED",
+    "range_end": "FILE_BASED",
+    "scanner_version": "3.0_complete_fast"
+  },
+  "testing_results": [
+    {
+      "slug": "b52sw",
+      "timestamp": "2025-06-21T12:46:36.340451",
+      "test_type": "FAST_COMPREHENSIVE_SCAN",
+      "status": "TIMEOUT",
+      "business_name": "",
+      "load_time": 8.72018575668335,
+      "content_length": 0,
+      "business_indicators": 0,
+      "error_indicators": 0,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/b52sw",
+      "error": "BROWSER_ERROR: Page load timeout for b52sw"
+    },
+    {
+      "slug": "zxv1w",
+      "timestamp": "2025-06-21T12:46:45.217879",
+      "test_type": "FAST_COMPREHENSIVE_SCAN",
+      "status": "TIMEOUT",
+      "business_name": "",
+      "load_time": 8.702059030532837,
+      "content_length": 0,
+      "business_indicators": 0,
+      "error_indicators": 0,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zxv1w",
+      "error": "BROWSER_ERROR: Page load timeout for zxv1w"
+    },
+    {
+      "slug": "4gbtz",
+      "timestamp": "2025-06-21T12:46:54.002081",
+      "test_type": "FAST_COMPREHENSIVE_SCAN",
+      "status": "TIMEOUT",
+      "business_name": "",
+      "load_time": 8.609910011291504,
+      "content_length": 0,
+      "business_indicators": 0,
+      "error_indicators": 0,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/4gbtz",
+      "error": "BROWSER_ERROR: Page load timeout for 4gbtz"
+    },
+    {
+      "slug": "42e7s",
+      "timestamp": "2025-06-21T12:47:02.858602",
+      "test_type": "FAST_COMPREHENSIVE_SCAN",
+      "status": "TIMEOUT",
+      "business_name": "",
+      "load_time": 8.657378911972046,
+      "content_length": 0,
+      "business_indicators": 0,
+      "error_indicators": 0,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/42e7s",
+      "error": "BROWSER_ERROR: Page load timeout for 42e7s"
+    },
+    {
+      "slug": "hjxaz",
+      "timestamp": "2025-06-21T12:47:11.690297",
+      "test_type": "FAST_COMPREHENSIVE_SCAN",
+      "status": "TIMEOUT",
+      "business_name": "",
+      "load_time": 8.63018012046814,
+      "content_length": 0,
+      "business_indicators": 0,
+      "error_indicators": 0,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/hjxaz",
+      "error": "BROWSER_ERROR: Page load timeout for hjxaz"
+    },
+    {
+      "slug": "qms08",
+      "timestamp": "2025-06-21T12:47:20.464138",
+      "test_type": "FAST_COMPREHENSIVE_SCAN",
+      "status": "TIMEOUT",
+      "business_name": "",
+      "load_time": 8.60324478149414,
+      "content_length": 0,
+      "business_indicators": 0,
+      "error_indicators": 0,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/qms08",
+      "error": "BROWSER_ERROR: Page load timeout for qms08"
+    }
+  ],
+  "session_summary": {
+    "total_tested": 6,
+    "active_found": 0,
+    "inactive_found": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "other_errors": 0,
+    "session_duration_seconds": 56.511488,
+    "average_test_time": 9.418581333333334
+  }
+}

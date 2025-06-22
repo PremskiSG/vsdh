@@ -1,0 +1,10 @@
+{
+  "instance_id": "djmd1q",
+  "tested_count": 200,
+  "found_count": 0,
+  "skipped_count": 0,
+  "start_time": "2025-06-21T14:07:54.107822",
+  "current_time": "2025-06-21T14:55:59.114549",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

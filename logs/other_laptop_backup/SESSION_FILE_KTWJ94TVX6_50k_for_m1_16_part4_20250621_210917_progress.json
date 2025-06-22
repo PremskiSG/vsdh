@@ -1,0 +1,10 @@
+{
+  "instance_id": "resmkv",
+  "tested_count": 703,
+  "found_count": 0,
+  "skipped_count": 0,
+  "start_time": "2025-06-21T21:09:17.822554",
+  "current_time": "2025-06-21T23:42:27.573818",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

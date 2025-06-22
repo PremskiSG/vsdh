@@ -1,0 +1,10 @@
+{
+  "instance_id": "bqw1es",
+  "tested_count": 423,
+  "found_count": 0,
+  "skipped_count": 1,
+  "start_time": "2025-06-22T03:25:13.957252",
+  "current_time": "2025-06-22T06:09:03.841241",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

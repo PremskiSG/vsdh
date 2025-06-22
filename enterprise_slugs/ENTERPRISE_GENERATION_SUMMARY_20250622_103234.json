@@ -1,0 +1,50 @@
+{
+  "generation_timestamp": "20250622_103234",
+  "total_slugs": 1000,
+  "batch_count": 5,
+  "batch_size": 200,
+  "batch_files": [
+    "enterprise_batch_1_20250622_103234.txt",
+    "enterprise_batch_2_20250622_103234.txt",
+    "enterprise_batch_3_20250622_103234.txt",
+    "enterprise_batch_4_20250622_103234.txt",
+    "enterprise_batch_5_20250622_103234.txt"
+  ],
+  "working_samples_analyzed": {
+    "NzEw": "710",
+    "NDI2": "426",
+    "NzEy": "712"
+  },
+  "excluded_prefixes": [
+    "Nz"
+  ],
+  "generation_stats": {
+    "total_generated": 1000,
+    "excluded_count": 332,
+    "strategies_used": {
+      "around_working_samples": 303,
+      "common_patterns": 641,
+      "sequential_1_500_1": 0,
+      "sequential_1000_2000_1": 994
+    }
+  },
+  "sample_slugs": [
+    "NjEw",
+    "NjEx",
+    "NjEy",
+    "NjEz",
+    "NjE0",
+    "NjE1",
+    "NjE2",
+    "NjE3",
+    "NjE4",
+    "NjE5"
+  ],
+  "verification": {
+    "NjEw": 610,
+    "NjEx": 611,
+    "NjEy": 612,
+    "NjEz": 613,
+    "NjE0": 614
+  }
+}

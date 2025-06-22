@@ -1,0 +1,51 @@
+{
+  "session_info": {
+    "session_id": "SESSION_FAST_10_254_2_40_test_format_20250621_122926",
+    "hostname": "10_254_2_40",
+    "instance_id": "formattest",
+    "start_time": "2025-06-21T12:29:26.586284",
+    "end_time": "2025-06-21T12:29:41.598658",
+    "session_type": "FAST_COMPREHENSIVE_SCAN",
+    "range_start": "FILE_BASED",
+    "range_end": "FILE_BASED",
+    "scanner_version": "3.0_complete_fast"
+  },
+  "testing_results": [
+    {
+      "slug": "ad31y",
+      "timestamp": "2025-06-21T12:29:34.749243",
+      "test_type": "FAST_COMPREHENSIVE_SCAN",
+      "status": "ACTIVE",
+      "business_name": "The DRIPBaR",
+      "load_time": 8.101373195648193,
+      "content_length": 1835,
+      "business_indicators": 5,
+      "error_indicators": 0,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ad31y",
+      "error": ""
+    },
+    {
+      "slug": "xy99a",
+      "timestamp": "2025-06-21T12:29:41.493772",
+      "test_type": "FAST_COMPREHENSIVE_SCAN",
+      "status": "INACTIVE_401",
+      "business_name": "",
+      "load_time": 6.583105087280273,
+      "content_length": 49,
+      "business_indicators": 0,
+      "error_indicators": 4,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "error": ""
+    }
+  ],
+  "session_summary": {
+    "total_tested": 2,
+    "active_found": 1,
+    "inactive_found": 1,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "other_errors": 0,
+    "session_duration_seconds": 15.012374,
+    "average_test_time": 7.506187
+  }
+}

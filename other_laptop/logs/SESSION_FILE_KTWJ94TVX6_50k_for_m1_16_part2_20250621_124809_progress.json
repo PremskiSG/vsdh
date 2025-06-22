@@ -1,0 +1,10 @@
+{
+  "instance_id": "k2t5ph",
+  "tested_count": 116,
+  "found_count": 0,
+  "skipped_count": 1,
+  "start_time": "2025-06-21T12:48:09.729503",
+  "current_time": "2025-06-21T13:24:29.744845",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

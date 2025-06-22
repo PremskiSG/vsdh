@@ -1,0 +1,10 @@
+{
+  "instance_id": "mqcfvi",
+  "tested_count": 700,
+  "found_count": 0,
+  "skipped_count": 0,
+  "start_time": "2025-06-21T21:11:45.023326",
+  "current_time": "2025-06-21T23:42:24.195828",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

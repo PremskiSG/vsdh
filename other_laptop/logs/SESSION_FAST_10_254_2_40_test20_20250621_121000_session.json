@@ -1,0 +1,341 @@
+{
+  "session_info": {
+    "session_id": "SESSION_FAST_10_254_2_40_test20_20250621_121000",
+    "hostname": "10_254_2_40",
+    "instance_id": "test20",
+    "start_time": "2025-06-21T12:10:00.317991",
+    "end_time": "2025-06-21T12:12:23.312801",
+    "session_type": "FAST_BROWSER_SCAN",
+    "scanner_version": "3.0_fast_browser"
+  },
+  "performance_stats": {
+    "total_tested": 20,
+    "active_found": 10,
+    "inactive_found": 0,
+    "errors": 0,
+    "avg_test_time": 6.96540390253067,
+    "session_duration_seconds": 142.99481
+  },
+  "testing_results": [
+    {
+      "slug": "ad31y",
+      "timestamp": "2025-06-21T12:10:07.938854",
+      "result": {
+        "slug": "ad31y",
+        "status": "ACTIVE",
+        "business_name": "The DRIPBaR",
+        "test_time": 7.537604093551636,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ad31y",
+        "page_title": "The DRIPBaR Direct - Sebring (FL)",
+        "content_length": 1835,
+        "business_indicators": 5,
+        "error_indicators": 0,
+        "page_text_preview": "Login\nSign up\nThe DRIPBaR Direct - Sebring (FL)\nView Details\nExplore our services\nService Categories\nLearn More\nSemaglutide (Injection)\nStarting at $225.00\nLearn More\nSemaglutide (Sublingual)\nStarting"
+      }
+    },
+    {
+      "slug": "mj42f",
+      "timestamp": "2025-06-21T12:10:15.102226",
+      "result": {
+        "slug": "mj42f",
+        "status": "ACTIVE",
+        "business_name": "The DRIPBaR",
+        "test_time": 6.9875218868255615,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/mj42f",
+        "page_title": "The DRIPBaR Direct - Brielle",
+        "content_length": 1830,
+        "business_indicators": 5,
+        "error_indicators": 0,
+        "page_text_preview": "Login\nSign up\nThe DRIPBaR Direct - Brielle\nView Details\nExplore our services\nService Categories\nLearn More\nSemaglutide (Injection)\nStarting at $225.00\nLearn More\nSemaglutide (Sublingual)\nStarting at $"
+      }
+    },
+    {
+      "slug": "os27m",
+      "timestamp": "2025-06-21T12:10:22.243202",
+      "result": {
+        "slug": "os27m",
+        "status": "ACTIVE",
+        "business_name": "The DRIPBaR",
+        "test_time": 6.955862045288086,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/os27m",
+        "page_title": "The DRIPBaR Direct - Town and Country (MO)",
+        "content_length": 1844,
+        "business_indicators": 5,
+        "error_indicators": 0,
+        "page_text_preview": "Login\nSign up\nThe DRIPBaR Direct - Town and Country (MO)\nView Details\nExplore our services\nService Categories\nLearn More\nSemaglutide (Injection)\nStarting at $225.00\nLearn More\nSemaglutide (Sublingual)"
+      }
+    },
+    {
+      "slug": "lp56a",
+      "timestamp": "2025-06-21T12:10:29.373591",
+      "result": {
+        "slug": "lp56a",
+        "status": "ACTIVE",
+        "business_name": "The DRIPBaR",
+        "test_time": 6.94303822517395,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/lp56a",
+        "page_title": "The DRIPBaR Direct - Huntington Beach (CA)",
+        "content_length": 1844,
+        "business_indicators": 5,
+        "error_indicators": 0,
+        "page_text_preview": "Login\nSign up\nThe DRIPBaR Direct - Huntington Beach (CA)\nView Details\nExplore our services\nService Categories\nLearn More\nSemaglutide (Injection)\nStarting at $225.00\nLearn More\nSemaglutide (Sublingual)"
+      }
+    },
+    {
+      "slug": "zb74k",
+      "timestamp": "2025-06-21T12:10:36.105505",
+      "result": {
+        "slug": "zb74k",
+        "status": "ACTIVE",
+        "business_name": "The DRIPBaR",
+        "test_time": 6.5475921630859375,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zb74k",
+        "page_title": "The DRIPBaR Direct - Scranton (PA)",
+        "content_length": 1856,
+        "business_indicators": 5,
+        "error_indicators": 0,
+        "page_text_preview": "Login\nSign up\nThe DRIPBaR Direct - Scranton (PA)\nView Details\nExplore our services\nService Categories\nLearn More\nSermorelin (Injection)\nStarting at $250.00\nLearn More\nTestosterone Replacement Therapy "
+      }
+    },
+    {
+      "slug": "ym99l",
+      "timestamp": "2025-06-21T12:10:43.226411",
+      "result": {
+        "slug": "ym99l",
+        "status": "ACTIVE",
+        "business_name": "The DRIPBaR",
+        "test_time": 6.942672967910767,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/ym99l",
+        "page_title": "The DRIPBaR Direct - Rochester Hills (MI)",
+        "content_length": 1843,
+        "business_indicators": 5,
+        "error_indicators": 0,
+        "page_text_preview": "Login\nSign up\nThe DRIPBaR Direct - Rochester Hills (MI)\nView Details\nExplore our services\nService Categories\nLearn More\nTadalafil (Tablets)\nStarting at $120.00\nLearn More\nSermorelin (Sublingual)\nStart"
+      }
+    },
+    {
+      "slug": "yh52b",
+      "timestamp": "2025-06-21T12:10:50.242318",
+      "result": {
+        "slug": "yh52b",
+        "status": "ACTIVE",
+        "business_name": "The DRIPBaR",
+        "test_time": 6.84593391418457,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/yh52b",
+        "page_title": "The DRIPBaR Direct - Hammond",
+        "content_length": 1830,
+        "business_indicators": 5,
+        "error_indicators": 0,
+        "page_text_preview": "Login\nSign up\nThe DRIPBaR Direct - Hammond\nView Details\nExplore our services\nService Categories\nLearn More\nSemaglutide (Injection)\nStarting at $225.00\nLearn More\nSemaglutide (Sublingual)\nStarting at $"
+      }
+    },
+    {
+      "slug": "zd20w",
+      "timestamp": "2025-06-21T12:10:57.609585",
+      "result": {
+        "slug": "zd20w",
+        "status": "ACTIVE",
+        "business_name": "The DRIPBaR",
+        "test_time": 7.130285024642944,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/zd20w",
+        "page_title": "The DRIPBaR Direct - Doylestown (PA)",
+        "content_length": 1838,
+        "business_indicators": 5,
+        "error_indicators": 0,
+        "page_text_preview": "Login\nSign up\nThe DRIPBaR Direct - Doylestown (PA)\nView Details\nExplore our services\nService Categories\nLearn More\nSemaglutide (Injection)\nStarting at $225.00\nLearn More\nSemaglutide (Sublingual)\nStart"
+      }
+    },
+    {
+      "slug": "td32z",
+      "timestamp": "2025-06-21T12:11:04.360415",
+      "result": {
+        "slug": "td32z",
+        "status": "ACTIVE",
+        "business_name": "The DRIPBaR",
+        "test_time": 6.559686183929443,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/td32z",
+        "page_title": "The DRIPBaR Direct - Portsmouth",
+        "content_length": 1833,
+        "business_indicators": 5,
+        "error_indicators": 0,
+        "page_text_preview": "Login\nSign up\nThe DRIPBaR Direct - Portsmouth\nView Details\nExplore our services\nService Categories\nLearn More\nSemaglutide (Injection)\nStarting at $225.00\nLearn More\nSemaglutide (Sublingual)\nStarting a"
+      }
+    },
+    {
+      "slug": "bo19e",
+      "timestamp": "2025-06-21T12:11:11.290295",
+      "result": {
+        "slug": "bo19e",
+        "status": "ACTIVE",
+        "business_name": "The DRIPBaR",
+        "test_time": 6.739530801773071,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/bo19e",
+        "page_title": "The DRIPBaR Direct - Troy (MI)",
+        "content_length": 1832,
+        "business_indicators": 5,
+        "error_indicators": 0,
+        "page_text_preview": "Login\nSign up\nThe DRIPBaR Direct - Troy (MI)\nView Details\nExplore our services\nService Categories\nLearn More\nSemaglutide (Injection)\nStarting at $225.00\nLearn More\nSemaglutide (Sublingual)\nStarting at"
+      }
+    },
+    {
+      "slug": "aaaaa",
+      "timestamp": "2025-06-21T12:11:18.101506",
+      "result": {
+        "slug": "aaaaa",
+        "status": "INACTIVE_401",
+        "business_name": "",
+        "test_time": 6.634186029434204,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+        "page_title": "",
+        "content_length": 49,
+        "business_indicators": 0,
+        "error_indicators": 4,
+        "page_text_preview": "401\nERROR\nNothing left to do here.\nGo To HomePage"
+      }
+    },
+    {
+      "slug": "aaaab",
+      "timestamp": "2025-06-21T12:11:25.072130",
+      "result": {
+        "slug": "aaaab",
+        "status": "INACTIVE_401",
+        "business_name": "",
+        "test_time": 6.737792015075684,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+        "page_title": "",
+        "content_length": 49,
+        "business_indicators": 0,
+        "error_indicators": 4,
+        "page_text_preview": "401\nERROR\nNothing left to do here.\nGo To HomePage"
+      }
+    },
+    {
+      "slug": "aaaac",
+      "timestamp": "2025-06-21T12:11:32.010395",
+      "result": {
+        "slug": "aaaac",
+        "status": "INACTIVE_401",
+        "business_name": "",
+        "test_time": 6.754948854446411,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+        "page_title": "",
+        "content_length": 49,
+        "business_indicators": 0,
+        "error_indicators": 4,
+        "page_text_preview": "401\nERROR\nNothing left to do here.\nGo To HomePage"
+      }
+    },
+    {
+      "slug": "aaaad",
+      "timestamp": "2025-06-21T12:11:40.556144",
+      "result": {
+        "slug": "aaaad",
+        "status": "INACTIVE_401",
+        "business_name": "",
+        "test_time": 8.37198781967163,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+        "page_title": "",
+        "content_length": 49,
+        "business_indicators": 0,
+        "error_indicators": 4,
+        "page_text_preview": "401\nERROR\nNothing left to do here.\nGo To HomePage"
+      }
+    },
+    {
+      "slug": "aaaae",
+      "timestamp": "2025-06-21T12:11:47.494219",
+      "result": {
+        "slug": "aaaae",
+        "status": "INACTIVE_401",
+        "business_name": "",
+        "test_time": 6.775529861450195,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+        "page_title": "",
+        "content_length": 49,
+        "business_indicators": 0,
+        "error_indicators": 4,
+        "page_text_preview": "401\nERROR\nNothing left to do here.\nGo To HomePage"
+      }
+    },
+    {
+      "slug": "aaaaf",
+      "timestamp": "2025-06-21T12:11:54.051548",
+      "result": {
+        "slug": "aaaaf",
+        "status": "INACTIVE_401",
+        "business_name": "",
+        "test_time": 6.3782970905303955,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+        "page_title": "",
+        "content_length": 49,
+        "business_indicators": 0,
+        "error_indicators": 4,
+        "page_text_preview": "401\nERROR\nNothing left to do here.\nGo To HomePage"
+      }
+    },
+    {
+      "slug": "aaaag",
+      "timestamp": "2025-06-21T12:12:00.883409",
+      "result": {
+        "slug": "aaaag",
+        "status": "INACTIVE_401",
+        "business_name": "",
+        "test_time": 6.653519868850708,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+        "page_title": "",
+        "content_length": 49,
+        "business_indicators": 0,
+        "error_indicators": 4,
+        "page_text_preview": "401\nERROR\nNothing left to do here.\nGo To HomePage"
+      }
+    },
+    {
+      "slug": "aaaah",
+      "timestamp": "2025-06-21T12:12:09.468962",
+      "result": {
+        "slug": "aaaah",
+        "status": "INACTIVE_401",
+        "business_name": "",
+        "test_time": 8.410539150238037,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+        "page_title": "",
+        "content_length": 49,
+        "business_indicators": 0,
+        "error_indicators": 4,
+        "page_text_preview": "401\nERROR\nNothing left to do here.\nGo To HomePage"
+      }
+    },
+    {
+      "slug": "aaaai",
+      "timestamp": "2025-06-21T12:12:16.564387",
+      "result": {
+        "slug": "aaaai",
+        "status": "INACTIVE_401",
+        "business_name": "",
+        "test_time": 6.92285680770874,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+        "page_title": "",
+        "content_length": 49,
+        "business_indicators": 0,
+        "error_indicators": 4,
+        "page_text_preview": "401\nERROR\nNothing left to do here.\nGo To HomePage"
+      }
+    },
+    {
+      "slug": "aaaaj",
+      "timestamp": "2025-06-21T12:12:23.212631",
+      "result": {
+        "slug": "aaaaj",
+        "status": "INACTIVE_401",
+        "business_name": "",
+        "test_time": 6.478693246841431,
+        "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+        "page_title": "",
+        "content_length": 49,
+        "business_indicators": 0,
+        "error_indicators": 4,
+        "page_text_preview": "401\nERROR\nNothing left to do here.\nGo To HomePage"
+      }
+    }
+  ]
+}

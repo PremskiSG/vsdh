@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-06-21T12:33:53.026290",
+  "tested_count": 2,
+  "skipped_count": 0,
+  "found_slugs_count": 1,
+  "session_info": {
+    "session_id": "SESSION_FAST_10_254_2_40_test_url_display_20250621_123338",
+    "hostname": "10_254_2_40",
+    "instance_id": "urltest",
+    "start_time": "2025-06-21T12:33:38.138884",
+    "end_time": null,
+    "session_type": "FAST_COMPREHENSIVE_SCAN",
+    "range_start": "FILE_BASED",
+    "range_end": "FILE_BASED",
+    "scanner_version": "3.0_complete_fast"
+  },
+  "found_businesses": [
+    {
+      "slug": "ad31y",
+      "business_name": "The DRIPBaR",
+      "status": "ACTIVE"
+    }
+  ]
+}

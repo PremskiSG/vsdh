@@ -1,0 +1,77 @@
+{
+  "session_info": {
+    "session_id": "SESSION_FILE_KTWJ94TVX6_50k_for_m1_16_part4_20250621_234227",
+    "hostname": "KTWJ94TVX6",
+    "instance_id": "gu0f0w",
+    "start_time": "2025-06-21T23:42:27.770206",
+    "end_time": "2025-06-21T23:59:45.835476",
+    "session_type": "COMPREHENSIVE_SCAN",
+    "range_start": "FILE_BASED",
+    "range_end": "FILE_BASED",
+    "scanner_version": "2.1_session_logging"
+  },
+  "testing_results": [
+    {
+      "slug": "smqjy",
+      "timestamp": "2025-06-21T23:42:42.198883",
+      "test_type": "COMPREHENSIVE_SCAN",
+      "status": "INACTIVE_401",
+      "business_name": "",
+      "load_time": 13.628279209136963,
+      "content_length": 49,
+      "business_indicators": 0,
+      "error_indicators": 4,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "error": ""
+    },
+    {
+      "slug": "ua7cf",
+      "timestamp": "2025-06-21T23:42:59.165342",
+      "test_type": "COMPREHENSIVE_SCAN",
+      "status": "INACTIVE_401",
+      "business_name": "",
+      "load_time": 15.712018966674805,
+      "content_length": 49,
+      "business_indicators": 0,
+      "error_indicators": 4,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "error": ""
+    },
+    {
+      "slug": "7ijtl",
+      "timestamp": "2025-06-21T23:59:44.606136",
+      "test_type": "COMPREHENSIVE_SCAN",
+      "status": "INACTIVE_401",
+      "business_name": "",
+      "load_time": 1004.5262222290039,
+      "content_length": 49,
+      "business_indicators": 0,
+      "error_indicators": 4,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "error": ""
+    },
+    {
+      "slug": "xgvte",
+      "timestamp": "2025-06-21T23:59:45.833553",
+      "test_type": "COMPREHENSIVE_SCAN",
+      "status": "BROWSER_ERROR",
+      "business_name": "",
+      "load_time": 0,
+      "content_length": 0,
+      "business_indicators": 0,
+      "error_indicators": 0,
+      "final_url": "",
+      "error": "Message: unknown error: net::ERR_INTERNET_DISCONNECTED\n  (Session info: chrome=137.0.7151.120)\nStacktrace:\n0   chromedriver                        0x0000000100695d14 cxxbridge1$str$ptr + 2735276\n1   chromedriver                        0x000000010068df88 cxxbridge1$str$ptr + 2703136\n2   chromedriver                        0x00000001001de6f0 cxxbridge1$string$len + 90424\n3   chromedriver                        0x00000001001d6cc8 cxxbridge1$string$len + 59152\n4   chromedriver                        0x00000001001c9868 cxxbridge1$string$len + 4784\n5   chromedriver                        0x00000001001cb268 cxxbridge1$string$len + 11440\n6   chromedriver                        0x00000001001c9cbc cxxbridge1$string$len + 5892\n7   chromedriver                        0x00000001001c9610 cxxbridge1$string$len + 4184\n8   chromedriver                        0x00000001001c935c cxxbridge1$string$len + 3492\n9   chromedriver                        0x00000001001c7114 chromedriver + 192788\n10  chromedriver                        0x00000001001c7b70 chromedriver + 195440\n11  chromedriver                        0x00000001001e1754 cxxbridge1$string$len + 102812\n12  chromedriver                        0x0000000100267b60 cxxbridge1$string$len + 652712\n13  chromedriver                        0x00000001002670c8 cxxbridge1$string$len + 650000\n14  chromedriver                        0x0000000100219be8 cxxbridge1$string$len + 333360\n15  chromedriver                        0x0000000100659598 cxxbridge1$str$ptr + 2487600\n16  chromedriver                        0x000000010065c830 cxxbridge1$str$ptr + 2500552\n17  chromedriver                        0x0000000100639c14 cxxbridge1$str$ptr + 2358188\n18  chromedriver                        0x000000010065d0b8 cxxbridge1$str$ptr + 2502736\n19  chromedriver                        0x000000010062adec cxxbridge1$str$ptr + 2297220\n20  chromedriver                        0x000000010067d420 cxxbridge1$str$ptr + 2634680\n21  chromedriver                        0x000000010067d5ac cxxbridge1$str$ptr + 2635076\n22  chromedriver                        0x000000010068dbd4 cxxbridge1$str$ptr + 2702188\n23  libsystem_pthread.dylib             0x0000000190ed6c0c _pthread_start + 136\n24  libsystem_pthread.dylib             0x0000000190ed1b80 thread_start + 8\n"
+    }
+  ],
+  "session_summary": {
+    "total_tested": 7,
+    "active_found": 0,
+    "inactive_found": 6,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "other_errors": 0,
+    "session_duration_seconds": 1038.06527,
+    "average_test_time": 148.2950385714286
+  }
+}

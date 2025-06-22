@@ -1,0 +1,10 @@
+{
+  "instance_id": "dpngst",
+  "tested_count": 1425,
+  "found_count": 0,
+  "skipped_count": 1,
+  "start_time": "2025-06-21T15:11:32.965102",
+  "current_time": "2025-06-21T20:33:43.827316",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

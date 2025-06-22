@@ -1,0 +1,10 @@
+{
+  "instance_id": "vraj66",
+  "tested_count": 1606,
+  "found_count": 2,
+  "skipped_count": 1,
+  "start_time": "2025-06-21T23:59:52.182818",
+  "current_time": "2025-06-22T08:41:06.683416",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

@@ -1,0 +1,10 @@
+{
+  "instance_id": "ginko3",
+  "tested_count": 15,
+  "found_count": 0,
+  "skipped_count": 0,
+  "start_time": "2025-06-21T20:25:20.465150",
+  "current_time": "2025-06-21T20:29:10.094562",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

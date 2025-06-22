@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-06-22T09:09:40.310268",
-  "tested_count": 8750,
+  "timestamp": "2025-06-22T09:23:45.222948",
+  "tested_count": 8852,
   "skipped_count": 0,
   "found_slugs_count": 3,
   "session_info": {
@@ -8,7 +8,7 @@
     "hostname": "10_254_2_40",
     "instance_id": "qp0hqz",
     "start_time": "2025-06-21T12:35:47.817383",
-    "end_time": null,
+    "end_time": "2025-06-22T09:23:45.120390",
     "session_type": "FAST_COMPREHENSIVE_SCAN",
     "range_start": "FILE_BASED",
     "range_end": "FILE_BASED",

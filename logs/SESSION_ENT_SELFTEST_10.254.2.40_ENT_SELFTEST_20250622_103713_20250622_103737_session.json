@@ -1,0 +1,123 @@
+{
+  "session_id": "10.254.2.40_ENT_SELFTEST_20250622_103713",
+  "start_time": "2025-06-22T10:37:13.798043",
+  "scanner_type": "Enterprise_Self_Test",
+  "base_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/",
+  "hostname": "10.254.2.40",
+  "test_results": [
+    {
+      "slug": "NzEw",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NzEw",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NzEw",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "RenIVate",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "RenIVate",
+      "content_length": 35723,
+      "load_time": 5.676607131958008,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title>renivate</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"ht",
+      "tested_at": "2025-06-22T10:37:21.411750"
+    },
+    {
+      "slug": "NDI2",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI2",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI2",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Oh My Olivia",
+      "business_indicators": 3,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select",
+        "health",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Oh My Olivia",
+      "content_length": 35938,
+      "load_time": 3.870742082595825,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title>oh my olivia</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href",
+      "tested_at": "2025-06-22T10:37:26.288562"
+    },
+    {
+      "slug": "NzEy",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NzEy",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NzEy",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Valor Wellness",
+      "business_indicators": 2,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select",
+        "wellness"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Valor Wellness",
+      "content_length": 35741,
+      "load_time": 2.4832887649536133,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title>valor wellness</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" hr",
+      "tested_at": "2025-06-22T10:37:29.778410"
+    },
+    {
+      "slug": "aaaa",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/aaaa",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/aaaa",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 33565,
+      "load_time": 2.637052059173584,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-22T10:37:33.416706"
+    },
+    {
+      "slug": "Nzab",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Nzab",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Nzab",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 33565,
+      "load_time": 2.076244831085205,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #2b515c;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-22T10:37:36.498952"
+    }
+  ],
+  "validation_summary": {
+    "total_tests": 5,
+    "passed": 5,
+    "failed": 0,
+    "accuracy": 100.0
+  }
+}

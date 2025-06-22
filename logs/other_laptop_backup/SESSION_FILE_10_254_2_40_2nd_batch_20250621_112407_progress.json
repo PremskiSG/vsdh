@@ -1,0 +1,10 @@
+{
+  "instance_id": "17y7cs",
+  "tested_count": 42,
+  "found_count": 0,
+  "skipped_count": 0,
+  "start_time": "2025-06-21T11:24:07.256269",
+  "current_time": "2025-06-21T11:34:30.922249",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

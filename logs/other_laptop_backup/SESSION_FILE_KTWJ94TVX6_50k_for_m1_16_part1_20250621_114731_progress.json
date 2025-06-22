@@ -1,0 +1,10 @@
+{
+  "instance_id": "hvsdvg",
+  "tested_count": 351,
+  "found_count": 0,
+  "skipped_count": 0,
+  "start_time": "2025-06-21T11:47:31.826626",
+  "current_time": "2025-06-21T13:32:53.877222",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

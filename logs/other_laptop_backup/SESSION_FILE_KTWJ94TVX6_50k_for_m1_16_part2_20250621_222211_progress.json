@@ -1,0 +1,10 @@
+{
+  "instance_id": "lxr9sw",
+  "tested_count": 21,
+  "found_count": 0,
+  "skipped_count": 0,
+  "start_time": "2025-06-21T22:22:11.093041",
+  "current_time": "2025-06-21T22:27:24.703985",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

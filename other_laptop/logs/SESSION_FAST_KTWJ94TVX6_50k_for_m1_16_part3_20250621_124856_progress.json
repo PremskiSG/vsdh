@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-06-21T12:49:13.156715",
+  "tested_count": 2,
+  "skipped_count": 0,
+  "found_slugs_count": 0,
+  "session_info": {
+    "session_id": "SESSION_FAST_KTWJ94TVX6_50k_for_m1_16_part3_20250621_124856",
+    "hostname": "KTWJ94TVX6",
+    "instance_id": "qtkkro",
+    "start_time": "2025-06-21T12:48:56.458113",
+    "end_time": "2025-06-21T12:49:13.151020",
+    "session_type": "FAST_COMPREHENSIVE_SCAN",
+    "range_start": "FILE_BASED",
+    "range_end": "FILE_BASED",
+    "scanner_version": "3.0_complete_fast"
+  },
+  "found_businesses": []
+}

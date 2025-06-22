@@ -1,0 +1,38 @@
+{
+  "session_info": {
+    "session_id": "SESSION_FAST_KTWJ94TVX6_50k_for_m1_16_part3_20250621_124856",
+    "hostname": "KTWJ94TVX6",
+    "instance_id": "qtkkro",
+    "start_time": "2025-06-21T12:48:56.458113",
+    "end_time": "2025-06-21T12:49:13.200452",
+    "session_type": "FAST_COMPREHENSIVE_SCAN",
+    "range_start": "FILE_BASED",
+    "range_end": "FILE_BASED",
+    "scanner_version": "3.0_complete_fast"
+  },
+  "testing_results": [
+    {
+      "slug": "045nl",
+      "timestamp": "2025-06-21T12:49:05.254543",
+      "test_type": "FAST_COMPREHENSIVE_SCAN",
+      "status": "TIMEOUT",
+      "business_name": "",
+      "load_time": 8.716601848602295,
+      "content_length": 0,
+      "business_indicators": 0,
+      "error_indicators": 0,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget-business/045nl",
+      "error": "BROWSER_ERROR: Page load timeout for 045nl"
+    }
+  ],
+  "session_summary": {
+    "total_tested": 1,
+    "active_found": 0,
+    "inactive_found": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "other_errors": 0,
+    "session_duration_seconds": 16.742339,
+    "average_test_time": 16.742339
+  }
+}

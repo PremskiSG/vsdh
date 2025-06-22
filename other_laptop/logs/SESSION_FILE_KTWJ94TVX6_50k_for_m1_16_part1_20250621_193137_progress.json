@@ -1,0 +1,10 @@
+{
+  "instance_id": "p1wfmi",
+  "tested_count": 254,
+  "found_count": 0,
+  "skipped_count": 0,
+  "start_time": "2025-06-21T19:31:37.657762",
+  "current_time": "2025-06-21T20:30:01.773390",
+  "range_start": "FILE_BASED",
+  "range_end": "FILE_BASED"
+}

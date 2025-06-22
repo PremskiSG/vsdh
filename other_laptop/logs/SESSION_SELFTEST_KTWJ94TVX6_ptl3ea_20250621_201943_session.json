@@ -1,0 +1,24 @@
+{
+  "session_info": {
+    "session_id": "SESSION_SELFTEST_KTWJ94TVX6_ptl3ea_20250621_201943",
+    "hostname": "KTWJ94TVX6",
+    "instance_id": "ptl3ea",
+    "start_time": "2025-06-21T20:19:43.679986",
+    "end_time": "2025-06-21T20:19:50.429580",
+    "session_type": "SELF_TEST",
+    "range_start": "SELF_TEST_6_SLUGS",
+    "range_end": "SELF_TEST_6_SLUGS",
+    "scanner_version": "2.1_session_logging"
+  },
+  "testing_results": [],
+  "session_summary": {
+    "total_tested": 0,
+    "active_found": 0,
+    "inactive_found": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "other_errors": 0,
+    "session_duration_seconds": 6.749594,
+    "average_test_time": 0
+  }
+}

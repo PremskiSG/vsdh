@@ -1,0 +1,38 @@
+{
+  "session_info": {
+    "session_id": "SESSION_FAST_10_254_2_40_test_4_slugs_20250621_122016",
+    "hostname": "10_254_2_40",
+    "instance_id": "quicktest",
+    "start_time": "2025-06-21T12:20:16.319116",
+    "end_time": "2025-06-21T12:20:27.595187",
+    "session_type": "FAST_COMPREHENSIVE_SCAN",
+    "range_start": "FILE_BASED",
+    "range_end": "FILE_BASED",
+    "scanner_version": "3.0_complete_fast"
+  },
+  "testing_results": [
+    {
+      "slug": "zzzzz",
+      "timestamp": "2025-06-21T12:20:27.492165",
+      "test_type": "FAST_COMPREHENSIVE_SCAN",
+      "status": "INACTIVE_401",
+      "business_name": "",
+      "load_time": 10.79643177986145,
+      "content_length": 49,
+      "business_indicators": 0,
+      "error_indicators": 4,
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget/401",
+      "error": ""
+    }
+  ],
+  "session_summary": {
+    "total_tested": 1,
+    "active_found": 0,
+    "inactive_found": 1,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "other_errors": 0,
+    "session_duration_seconds": 11.276071,
+    "average_test_time": 11.276071
+  }
+}
