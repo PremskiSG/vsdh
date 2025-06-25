@@ -1,0 +1,707 @@
+<html lang="en" style="--default-icon-primary: #2b515c;"><head><meta charset="utf-8"><title>Altura Health</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500"><link rel="stylesheet" id="layout-styles-anchor" href="/css/splash-screen.css"><link rel="stylesheet" id="layout-styles-anchor" href="/css/custom.css"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"><script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl"></script><script data-jsd-embedded="" data-key="492d1ba5-f269-4a49-9ae0-159b60605841" data-base-url="https://jsd-widget.atlassian.com" src="https://jsd-widget.atlassian.com/assets/embed.js"></script><link href="/static/css/19.1b537f83.chunk.css" rel="stylesheet"><link href="/static/css/main.93c6fa27.chunk.css" rel="stylesheet"><script src="https://cdn.logr-ingest.com/logger-1.min.js" async=""></script><style data-jss="" data-meta="MuiBackdrop">
+.MuiBackdrop-root {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  z-index: -1;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiBackdrop-invisible {
+  background-color: transparent;
+}
+</style><style data-jss="" data-meta="MuiPaper">
+.MuiPaper-root {
+  color: rgba(0, 0, 0, 0.87);
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #fff;
+}
+.MuiPaper-rounded {
+  border-radius: 4px;
+}
+.MuiPaper-outlined {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiPaper-elevation0 {
+  box-shadow: none;
+}
+.MuiPaper-elevation1 {
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation2 {
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation3 {
+  box-shadow: 0px 3px 3px -2px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 1px 8px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation4 {
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation5 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation6 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation7 {
+  box-shadow: 0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation8 {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation9 {
+  box-shadow: 0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation10 {
+  box-shadow: 0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation11 {
+  box-shadow: 0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation12 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation13 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation14 {
+  box-shadow: 0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation15 {
+  box-shadow: 0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation16 {
+  box-shadow: 0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation17 {
+  box-shadow: 0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation18 {
+  box-shadow: 0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation19 {
+  box-shadow: 0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation20 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation21 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation22 {
+  box-shadow: 0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation23 {
+  box-shadow: 0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation24 {
+  box-shadow: 0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);
+}
+</style><style data-jss="" data-meta="MuiDialog">
+@media print {
+  .MuiDialog-root {
+    position: absolute !important;
+  }
+}
+.MuiDialog-scrollPaper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.MuiDialog-scrollBody {
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: center;
+}
+.MuiDialog-scrollBody:after {
+  width: 0;
+  height: 100%;
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+}
+.MuiDialog-container {
+  height: 100%;
+  outline: 0;
+}
+@media print {
+  .MuiDialog-container {
+    height: auto;
+  }
+}
+.MuiDialog-paper {
+  margin: 32px;
+  position: relative;
+  overflow-y: auto;
+}
+@media print {
+  .MuiDialog-paper {
+    box-shadow: none;
+    overflow-y: visible;
+  }
+}
+.MuiDialog-paperScrollPaper {
+  display: flex;
+  max-height: calc(100% - 64px);
+  flex-direction: column;
+}
+.MuiDialog-paperScrollBody {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+.MuiDialog-paperWidthFalse {
+  max-width: calc(100% - 64px);
+}
+.MuiDialog-paperWidthXs {
+  max-width: 444px;
+}
+@media (max-width:507.95px) {
+  .MuiDialog-paperWidthXs.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.MuiDialog-paperWidthSm {
+  max-width: 600px;
+}
+@media (max-width:663.95px) {
+  .MuiDialog-paperWidthSm.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.MuiDialog-paperWidthMd {
+  max-width: 960px;
+}
+@media (max-width:1023.95px) {
+  .MuiDialog-paperWidthMd.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.MuiDialog-paperWidthLg {
+  max-width: 1280px;
+}
+@media (max-width:1343.95px) {
+  .MuiDialog-paperWidthLg.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.MuiDialog-paperWidthXl {
+  max-width: 1920px;
+}
+@media (max-width:1983.95px) {
+  .MuiDialog-paperWidthXl.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.MuiDialog-paperFullWidth {
+  width: calc(100% - 64px);
+}
+.MuiDialog-paperFullScreen {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  max-width: 100%;
+  max-height: none;
+  border-radius: 0;
+}
+.MuiDialog-paperFullScreen.MuiDialog-paperScrollBody {
+  margin: 0;
+  max-width: 100%;
+}
+</style><style data-jss="" data-meta="MuiDialogContent">
+.MuiDialogContent-root {
+  flex: 1 1 auto;
+  padding: 8px 24px;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.MuiDialogContent-root:first-child {
+  padding-top: 20px;
+}
+.MuiDialogContent-dividers {
+  padding: 16px 24px;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+</style><style data-jss="" data-meta="MuiTypography">
+.MuiTypography-root {
+  margin: 0;
+}
+.MuiTypography-body2 {
+  font-size: 0.875rem;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.43;
+}
+.MuiTypography-body1 {
+  font-size: 1rem;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.MuiTypography-caption {
+  font-size: 0.75rem;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.66;
+}
+.MuiTypography-button {
+  font-size: 0.875rem;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 1.75;
+  text-transform: uppercase;
+}
+.MuiTypography-h1 {
+  font-size: 6rem;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: 1.167;
+}
+.MuiTypography-h2 {
+  font-size: 3.75rem;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: 1.2;
+}
+.MuiTypography-h3 {
+  font-size: 3rem;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.167;
+}
+.MuiTypography-h4 {
+  font-size: 2.125rem;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.235;
+}
+.MuiTypography-h5 {
+  font-size: 1.5rem;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.334;
+}
+.MuiTypography-h6 {
+  font-size: 1.25rem;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 1.6;
+}
+.MuiTypography-subtitle1 {
+  font-size: 1rem;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.75;
+}
+.MuiTypography-subtitle2 {
+  font-size: 0.875rem;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 1.57;
+}
+.MuiTypography-overline {
+  font-size: 0.75rem;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 2.66;
+  text-transform: uppercase;
+}
+.MuiTypography-srOnly {
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+}
+.MuiTypography-alignLeft {
+  text-align: left;
+}
+.MuiTypography-alignCenter {
+  text-align: center;
+}
+.MuiTypography-alignRight {
+  text-align: right;
+}
+.MuiTypography-alignJustify {
+  text-align: justify;
+}
+.MuiTypography-noWrap {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.MuiTypography-gutterBottom {
+  margin-bottom: 0.35em;
+}
+.MuiTypography-paragraph {
+  margin-bottom: 16px;
+}
+.MuiTypography-colorInherit {
+  color: inherit;
+}
+.MuiTypography-colorPrimary {
+  color: #17c191;
+}
+.MuiTypography-colorSecondary {
+  color: #3783e7;
+}
+.MuiTypography-colorTextPrimary {
+  color: rgba(0, 0, 0, 0.87);
+}
+.MuiTypography-colorTextSecondary {
+  color: rgba(0, 0, 0, 0.54);
+}
+.MuiTypography-colorError {
+  color: #f018a6;
+}
+.MuiTypography-displayInline {
+  display: inline;
+}
+.MuiTypography-displayBlock {
+  display: block;
+}
+</style><style data-jss="" data-meta="MuiDialogContentText">
+.MuiDialogContentText-root {
+  margin-bottom: 12px;
+}
+</style><style data-jss="" data-meta="MuiDialogActions">
+.MuiDialogActions-root {
+  flex: 0 0 auto;
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  justify-content: flex-end;
+}
+.MuiDialogActions-spacing > :not(:first-child) {
+  margin-left: 8px;
+}
+</style><style data-jss="" data-meta="MuiTouchRipple">
+.MuiTouchRipple-root {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  overflow: hidden;
+  position: absolute;
+  border-radius: inherit;
+  pointer-events: none;
+}
+.MuiTouchRipple-ripple {
+  opacity: 0;
+  position: absolute;
+}
+.MuiTouchRipple-rippleVisible {
+  opacity: 0.3;
+  animation: MuiTouchRipple-keyframes-enter 550ms cubic-bezier(0.4, 0, 0.2, 1);
+  transform: scale(1);
+}
+.MuiTouchRipple-ripplePulsate {
+  animation-duration: 200ms;
+}
+.MuiTouchRipple-child {
+  width: 100%;
+  height: 100%;
+  display: block;
+  opacity: 1;
+  border-radius: 50%;
+  background-color: currentColor;
+}
+.MuiTouchRipple-childLeaving {
+  opacity: 0;
+  animation: MuiTouchRipple-keyframes-exit 550ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.MuiTouchRipple-childPulsate {
+  top: 0;
+  left: 0;
+  position: absolute;
+  animation: MuiTouchRipple-keyframes-pulsate 2500ms cubic-bezier(0.4, 0, 0.2, 1) 200ms infinite;
+}
+@-webkit-keyframes MuiTouchRipple-keyframes-enter {
+  0% {
+    opacity: 0.1;
+    transform: scale(0);
+  }
+  100% {
+    opacity: 0.3;
+    transform: scale(1);
+  }
+}
+@-webkit-keyframes MuiTouchRipple-keyframes-exit {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@-webkit-keyframes MuiTouchRipple-keyframes-pulsate {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.92);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+</style><style data-jss="" data-meta="MuiButtonBase">
+.MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiButtonBase-root::-moz-focus-inner {
+  border-style: none;
+}
+.MuiButtonBase-root.Mui-disabled {
+  cursor: default;
+  pointer-events: none;
+}
+@media print {
+  .MuiButtonBase-root {
+    -webkit-print-color-adjust: exact;
+  }
+}
+</style><style data-jss="" data-meta="MuiButton">
+.MuiButton-root {
+  color: rgba(0, 0, 0, 0.87);
+  padding: 6px 16px;
+  font-size: 0.875rem;
+  min-width: 64px;
+  box-sizing: border-box;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 1.75;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+.MuiButton-root:hover {
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+.MuiButton-root.Mui-disabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+@media (hover: none) {
+  .MuiButton-root:hover {
+    background-color: transparent;
+  }
+}
+.MuiButton-root:hover.Mui-disabled {
+  background-color: transparent;
+}
+.MuiButton-label {
+  width: 100%;
+  display: inherit;
+  align-items: inherit;
+  justify-content: inherit;
+}
+.MuiButton-text {
+  padding: 6px 8px;
+}
+.MuiButton-textPrimary {
+  color: #17c191;
+}
+.MuiButton-textPrimary:hover {
+  background-color: rgba(23, 193, 145, 0.04);
+}
+@media (hover: none) {
+  .MuiButton-textPrimary:hover {
+    background-color: transparent;
+  }
+}
+.MuiButton-textSecondary {
+  color: #3783e7;
+}
+.MuiButton-textSecondary:hover {
+  background-color: rgba(55, 131, 231, 0.04);
+}
+@media (hover: none) {
+  .MuiButton-textSecondary:hover {
+    background-color: transparent;
+  }
+}
+.MuiButton-outlined {
+  border: 1px solid rgba(0, 0, 0, 0.23);
+  padding: 5px 15px;
+}
+.MuiButton-outlined.Mui-disabled {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiButton-outlinedPrimary {
+  color: #17c191;
+  border: 1px solid rgba(23, 193, 145, 0.5);
+}
+.MuiButton-outlinedPrimary:hover {
+  border: 1px solid #17c191;
+  background-color: rgba(23, 193, 145, 0.04);
+}
+@media (hover: none) {
+  .MuiButton-outlinedPrimary:hover {
+    background-color: transparent;
+  }
+}
+.MuiButton-outlinedSecondary {
+  color: #3783e7;
+  border: 1px solid rgba(55, 131, 231, 0.5);
+}
+.MuiButton-outlinedSecondary:hover {
+  border: 1px solid #3783e7;
+  background-color: rgba(55, 131, 231, 0.04);
+}
+.MuiButton-outlinedSecondary.Mui-disabled {
+  border: 1px solid rgba(0, 0, 0, 0.26);
+}
+@media (hover: none) {
+  .MuiButton-outlinedSecondary:hover {
+    background-color: transparent;
+  }
+}
+.MuiButton-contained {
+  color: rgba(0, 0, 0, 0.87);
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+  background-color: #e0e0e0;
+}
+.MuiButton-contained:hover {
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+  background-color: #d5d5d5;
+}
+.MuiButton-contained.Mui-focusVisible {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+.MuiButton-contained:active {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+.MuiButton-contained.Mui-disabled {
+  color: rgba(0, 0, 0, 0.26);
+  box-shadow: none;
+  background-color: rgba(0, 0, 0, 0.12);
+}
+@media (hover: none) {
+  .MuiButton-contained:hover {
+    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+    background-color: #e0e0e0;
+  }
+}
+.MuiButton-contained:hover.Mui-disabled {
+  background-color: rgba(0, 0, 0, 0.12);
+}
+.MuiButton-containedPrimary {
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #17c191;
+}
+.MuiButton-containedPrimary:hover {
+  background-color: rgb(16, 135, 101);
+}
+@media (hover: none) {
+  .MuiButton-containedPrimary:hover {
+    background-color: #17c191;
+  }
+}
+.MuiButton-containedSecondary {
+  color: #fff;
+  background-color: #3783e7;
+}
+.MuiButton-containedSecondary:hover {
+  background-color: rgb(38, 91, 161);
+}
+@media (hover: none) {
+  .MuiButton-containedSecondary:hover {
+    background-color: #3783e7;
+  }
+}
+.MuiButton-disableElevation {
+  box-shadow: none;
+}
+.MuiButton-disableElevation:hover {
+  box-shadow: none;
+}
+.MuiButton-disableElevation.Mui-focusVisible {
+  box-shadow: none;
+}
+.MuiButton-disableElevation:active {
+  box-shadow: none;
+}
+.MuiButton-disableElevation.Mui-disabled {
+  box-shadow: none;
+}
+.MuiButton-colorInherit {
+  color: inherit;
+  border-color: currentColor;
+}
+.MuiButton-textSizeSmall {
+  padding: 4px 5px;
+  font-size: 0.8125rem;
+}
+.MuiButton-textSizeLarge {
+  padding: 8px 11px;
+  font-size: 0.9375rem;
+}
+.MuiButton-outlinedSizeSmall {
+  padding: 3px 9px;
+  font-size: 0.8125rem;
+}
+.MuiButton-outlinedSizeLarge {
+  padding: 7px 21px;
+  font-size: 0.9375rem;
+}
+.MuiButton-containedSizeSmall {
+  padding: 4px 10px;
+  font-size: 0.8125rem;
+}
+.MuiButton-containedSizeLarge {
+  padding: 8px 22px;
+  font-size: 0.9375rem;
+}
+.MuiButton-fullWidth {
+  width: 100%;
+}
+.MuiButton-startIcon {
+  display: inherit;
+  margin-left: -4px;
+  margin-right: 8px;
+}
+.MuiButton-startIcon.MuiButton-iconSizeSmall {
+  margin-left: -2px;
+}
+.MuiButton-endIcon {
+  display: inherit;
+  margin-left: 8px;
+  margin-right: -4px;
+}
+.MuiButton-endIcon.MuiButton-iconSizeSmall {
+  margin-right: -2px;
+}
+.MuiButton-iconSizeSmall > *:first-child {
+  font-size: 18px;
+}
+.MuiButton-iconSizeMedium > *:first-child {
+  font-size: 20px;
+}
+.MuiButton-iconSizeLarge > *:first-child {
+  font-size: 22px;
+}
+</style><link rel="icon" type="image/png" href="https://wsrv.nl/?url=https://vsdigitalprod.blob.core.windows.net/vsdigital-prod/Business/902e0668-b1ef-459b-87e0-9770863c03cf.png&amp;w=16&amp;h=16&amp;output=png&amp;filename=favicon.ico"></head><body id="kt_body" class="quick-panel-right demo-panel-right offcanvas-right header-fixed header-mobile-fixed aside-enabled aside-fixed aside-minimize-hoverable brand-dark"><noscript>You need to enable JavaScript to run this app.</noscript><div id="my-widget" ata-symbol="AMC" class="my-widget"><div class="notification-container notification-container-empty"><div></div></div><div class="widgetParent_mainContainer__23gzc"><div class="widgetParent_container__3F6GM"><div class="d-flex align-items-center gap-12"><div class="widgetLayout_mDetailsImageContainer__QvO_S"><img src="https://vsdigitalprod.blob.core.windows.net/vsdigital-prod/Business/902e0668-b1ef-459b-87e0-9770863c03cf.png" alt="Business Profile"></div><div class="widgetLayout_businessMobileView__N3LxR"><h3 class="text-dark text-capitalize text-left widgetLayout_header__3dhQU">Altura Health</h3><span class="text-dark text-left widgetLayout_linkBtn__evanV">View Details</span></div></div></div><div class="widgetParent_left__3bLaJ"><div class="widgetParent_leftInnerContainer__2rXNW"><div class="widgetLayout_detailsImageContainer__ahpkj"><img src="https://vsdigitalprod.blob.core.windows.net/vsdigital-prod/Business/902e0668-b1ef-459b-87e0-9770863c03cf.png" alt="Business Profile"></div><ul class="widgetParent_listContainer__38PMa"><span class="widgetParent_header__2Na84">Altura Health</span><span class="widgetLayout_description__2ersx"></span><div class="widgetLayout_listItem__13LQ_"><div class="d-flex gap-8 align-items-center"><span class="widgetLayout_listIcon__xYanD"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 21.325C11.7667 21.325 11.5333 21.2833 11.3 21.2C11.0667 21.1167 10.8583 20.9917 10.675 20.825C9.59167 19.825 8.63333 18.85 7.8 17.9C6.96667 16.95 6.27083 16.0292 5.7125 15.1375C5.15417 14.2458 4.72917 13.3875 4.4375 12.5625C4.14583 11.7375 4 10.95 4 10.2C4 7.7 4.80417 5.70833 6.4125 4.225C8.02083 2.74167 9.88333 2 12 2C14.1167 2 15.9792 2.74167 17.5875 4.225C19.1958 5.70833 20 7.7 20 10.2C20 10.95 19.8542 11.7375 19.5625 12.5625C19.2708 13.3875 18.8458 14.2458 18.2875 15.1375C17.7292 16.0292 17.0333 16.95 16.2 17.9C15.3667 18.85 14.4083 19.825 13.325 20.825C13.1417 20.9917 12.9333 21.1167 12.7 21.2C12.4667 21.2833 12.2333 21.325 12 21.325ZM12 12C12.55 12 13.0208 11.8042 13.4125 11.4125C13.8042 11.0208 14 10.55 14 10C14 9.45 13.8042 8.97917 13.4125 8.5875C13.0208 8.19583 12.55 8 12 8C11.45 8 10.9792 8.19583 10.5875 8.5875C10.1958 8.97917 10 9.45 10 10C10 10.55 10.1958 11.0208 10.5875 11.4125C10.9792 11.8042 11.45 12 12 12Z" fill="#252527"></path></svg></span><span class="widgetLayout_listText__1QfKX"><div class="rm-container"><div class="rm-text-wrapper"><p class=" rm-typography  rm-text-container " style="-webkit-line-clamp: 100;">, Atlanta-89128, Georgia, United States</p></div></div></span></div></div></ul></div></div><div class="widgetParent_right__3ScLi"><div class="widgetParent_rightInnerContainer__Ag-Yx"><div class="widgetParent_rightInnerTopContainer__1QrHH"><span class="widgetParent_title__2-56H">Select your state</span><span class="widgetParent_subTitle__3AQe9">Please select the state you're in and get started.</span><div class="CustomSelect_custom-select-container__3U-T7"><div class="CustomSelect_custom-select-input__112Y6"><span class="svg-icon p-2"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M5.00529 1.71283C5.74337 1.40711 6.53444 1.24976 7.33333 1.24976C8.13223 1.24976 8.9233 1.40711 9.66138 1.71283C10.3995 2.01856 11.0701 2.46666 11.635 3.03156C12.1999 3.59647 12.648 4.2671 12.9537 5.00518C13.2595 5.74326 13.4168 6.53433 13.4168 7.33323C13.4168 8.13212 13.2594 8.92319 12.9537 9.66127C12.7442 10.1672 12.4677 10.6415 12.1325 11.0717L14.5303 13.4696C14.8232 13.7625 14.8232 14.2373 14.5303 14.5302C14.2374 14.8231 13.7626 14.8231 13.4697 14.5302L11.0719 12.1324C10.0091 12.9604 8.69473 13.4167 7.33333 13.4167C5.7199 13.4167 4.17254 12.7758 3.03167 11.6349C1.8908 10.494 1.24986 8.94666 1.24986 7.33323C1.24986 5.71979 1.8908 4.17244 3.03167 3.03156C3.59657 2.46666 4.26721 2.01856 5.00529 1.71283ZM7.33333 2.74976C6.73142 2.74976 6.13541 2.86831 5.57932 3.09865C5.02322 3.32899 4.51794 3.66661 4.09233 4.09222C3.23276 4.95179 2.74986 6.11761 2.74986 7.33323C2.74986 8.54884 3.23276 9.71466 4.09233 10.5742C4.9519 11.4338 6.11772 11.9167 7.33333 11.9167C8.54895 11.9167 9.71477 11.4338 10.5743 10.5742C11 10.1486 11.3376 9.64334 11.5679 9.08724C11.7982 8.53115 11.9168 7.93514 11.9168 7.33323C11.9168 6.73132 11.7982 6.1353 11.5679 5.57921C11.3376 5.02312 11 4.51784 10.5743 4.09222C10.1487 3.66661 9.64344 3.32899 9.08735 3.09865C8.53126 2.86831 7.93524 2.74976 7.33333 2.74976Z" fill="#252527"></path></svg></span><input type="text" placeholder="Search for a business..." value=""></div><div class="CustomSelect_gridContainer__1QPBd"><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Alabama</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Alaska</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Arizona</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Arkansas</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">California</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Colorado</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Connecticut</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Delaware</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Florida</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Georgia</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Hawaii</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Idaho</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Illinois</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Indiana</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Iowa</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Kansas</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Kentucky</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Louisiana</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Maine</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Maryland</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Massachusetts</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Michigan</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Minnesota</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Mississippi</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Missouri</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Montana</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Nebraska</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Nevada</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">New Hampshire</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">New Jersey</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">New Mexico</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">New York</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">North Carolina</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">North Dakota</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Ohio</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Oklahoma</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Oregon</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Pennsylvania</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Rhode Island</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">South Carolina</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">South Dakota</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Tennessee</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Texas</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Utah</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Vermont</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Virginia</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Washington</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">West Virginia</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Wisconsin</span></div><div class="CustomSelect_gridItem__15LZj false"><span class="CustomSelect_business-state__2DXr7">Wyoming</span></div></div></div></div><div class="widgetParent_buttonContainer__2PzWa"><button class="MuiButtonBase-root PrimaryButton_primaryBtn__2zTWZ cm-bg-primary PrimaryButton_disabledBtn__-YTak Mui-disabled" tabindex="-1" type="button" disabled="" style="width: 100%; border-radius: 100px;">Continue</button></div></div></div></div></div><div id="splash-screen" class="kt-splash-screen hidden"><div class="spinner-border cm-text-primary" role="status"></div></div><div id="bottom-sheet-root"></div><div id="layout-portal"></div><script>!function(o){function e(e){for(var c,f,d=e[0],t=e[1],r=e[2],a=0,n=[];a<d.length;a++)f=d[a],Object.prototype.hasOwnProperty.call(l,f)&&l[f]&&n.push(l[f][0]),l[f]=0;for(c in t)Object.prototype.hasOwnProperty.call(t,c)&&(o[c]=t[c]);for(p&&p(e);n.length;)n.shift()();return i.push.apply(i,r||[]),u()}function u(){for(var e,c=0;c<i.length;c++){for(var f=i[c],d=!0,t=1;t<f.length;t++){var r=f[t];0!==l[r]&&(d=!1)}d&&(i.splice(c--,1),e=s(s.s=f[0]))}return e}var f={},b={18:0},l={18:0},i=[];function s(e){if(f[e])return f[e].exports;var c=f[e]={i:e,l:!1,exports:{}};return o[e].call(c.exports,c,c.exports,s),c.l=!0,c.exports}s.e=function(i){var e=[];b[i]?e.push(b[i]):0!==b[i]&&{7:1,9:1,11:1,21:1,22:1,24:1,25:1,26:1,27:1,28:1,29:1}[i]&&e.push(b[i]=new Promise(function(e,d){for(var c="static/css/"+({}[i]||i)+"."+{0:"31d6cfe0",1:"31d6cfe0",2:"31d6cfe0",3:"31d6cfe0",4:"31d6cfe0",5:"31d6cfe0",6:"31d6cfe0",7:"92666e6f",8:"31d6cfe0",9:"fea3aa44",10:"31d6cfe0",11:"7f640c9c",12:"31d6cfe0",13:"31d6cfe0",14:"31d6cfe0",15:"31d6cfe0",16:"31d6cfe0",20:"31d6cfe0",21:"1aacaf09",22:"5b7e0165",23:"31d6cfe0",24:"e897424a",25:"ee76ff6c",26:"fea3aa44",27:"e327ab4c",28:"fea3aa44",29:"069de03a",30:"31d6cfe0",31:"31d6cfe0",32:"31d6cfe0",33:"31d6cfe0",34:"31d6cfe0",35:"31d6cfe0",36:"31d6cfe0",37:"31d6cfe0",38:"31d6cfe0",39:"31d6cfe0",40:"31d6cfe0",41:"31d6cfe0",42:"31d6cfe0",43:"31d6cfe0",44:"31d6cfe0",45:"31d6cfe0",46:"31d6cfe0",47:"31d6cfe0",48:"31d6cfe0",49:"31d6cfe0",50:"31d6cfe0",51:"31d6cfe0",52:"31d6cfe0",53:"31d6cfe0",54:"31d6cfe0",55:"31d6cfe0",56:"31d6cfe0",57:"31d6cfe0",58:"31d6cfe0",59:"31d6cfe0",60:"31d6cfe0",61:"31d6cfe0",62:"31d6cfe0",63:"31d6cfe0",64:"31d6cfe0",65:"31d6cfe0",66:"31d6cfe0",67:"31d6cfe0",68:"31d6cfe0",69:"31d6cfe0",70:"31d6cfe0",71:"31d6cfe0",72:"31d6cfe0",73:"31d6cfe0",74:"31d6cfe0",75:"31d6cfe0",76:"31d6cfe0",77:"31d6cfe0",78:"31d6cfe0",79:"31d6cfe0",80:"31d6cfe0",81:"31d6cfe0",82:"31d6cfe0",83:"31d6cfe0",84:"31d6cfe0",85:"31d6cfe0",86:"31d6cfe0",87:"31d6cfe0",88:"31d6cfe0",89:"31d6cfe0",90:"31d6cfe0",91:"31d6cfe0",92:"31d6cfe0",93:"31d6cfe0",94:"31d6cfe0",95:"31d6cfe0",96:"31d6cfe0"}[i]+".chunk.css",t=s.p+c,f=document.getElementsByTagName("link"),r=0;r<f.length;r++){var a=(o=f[r]).getAttribute("data-href")||o.getAttribute("href");if("stylesheet"===o.rel&&(a===c||a===t))return e()}var n=document.getElementsByTagName("style");for(r=0;r<n.length;r++){var o;if((a=(o=n[r]).getAttribute("data-href"))===c||a===t)return e()}var u=document.createElement("link");u.rel="stylesheet",u.type="text/css",u.onload=e,u.onerror=function(e){var c=e&&e.target&&e.target.src||t,f=new Error("Loading CSS chunk "+i+" failed.\n("+c+")");f.code="CSS_CHUNK_LOAD_FAILED",f.request=c,delete b[i],u.parentNode.removeChild(u),d(f)},u.href=t,document.getElementsByTagName("head")[0].appendChild(u)}).then(function(){b[i]=0}));var f=l[i];if(0!==f)if(f)e.push(f[2]);else{var c=new Promise(function(e,c){f=l[i]=[e,c]});e.push(f[2]=c);var d,t=document.createElement("script");t.charset="utf-8",t.timeout=120,s.nc&&t.setAttribute("nonce",s.nc),t.src=s.p+"static/js/"+({}[i]||i)+"."+{0:"15f1c21e",1:"96b68811",2:"a6688fc5",3:"717fcd27",4:"e9fecd79",5:"50634894",6:"913a74ee",7:"77923e21",8:"fcc77dc6",9:"87d9e768",10:"abe0ae36",11:"eab85adc",12:"765057b0",13:"cbc7bc74",14:"6e709747",15:"9e84668d",16:"8565ee2b",20:"cfde5577",21:"32bcd6dd",22:"bec6de5b",23:"51293afe",24:"c202c885",25:"aab8e58c",26:"f71689cf",27:"b308937d",28:"008eb9e8",29:"6e1c18f3",30:"80192aa0",31:"b9d2b7ec",32:"00bb3191",33:"51254278",34:"ebd45105",35:"9362daeb",36:"7bdcaa06",37:"ef824406",38:"377f9a45",39:"55292c37",40:"8f63672a",41:"54fe53a1",42:"e419f991",43:"d69e687b",44:"7f9cebc2",45:"fa693a0f",46:"9040980e",47:"6e670e67",48:"97f8b131",49:"17b0b6b6",50:"3e739393",51:"88b8ad57",52:"9ba50adf",53:"d7c93063",54:"4dd29761",55:"1843cc75",56:"46c3fffc",57:"a99d712f",58:"03841d67",59:"cde5b73d",60:"5f3ca9c9",61:"0d3a2959",62:"7dc962c7",63:"a7b88605",64:"d6a1d5b2",65:"aaeb900c",66:"877db5cd",67:"c4355013",68:"a175909e",69:"abadbcf2",70:"388b0361",71:"388bc425",72:"67264a58",73:"0389f256",74:"20a4f72e",75:"c8bf0406",76:"b37a5e08",77:"4d99595a",78:"93bebe91",79:"9edc38d8",80:"f5acfd2a",81:"53c164cb",82:"b3195a14",83:"674de3f5",84:"109dabfe",85:"d99131a6",86:"e1f1db5c",87:"6be6fa25",88:"938c226d",89:"03836ea4",90:"10337def",91:"20cf813c",92:"354d5e91",93:"cd544105",94:"2d349936",95:"f73bdc47",96:"7cb04762"}[i]+".chunk.js";var r=new Error;d=function(e){t.onerror=t.onload=null,clearTimeout(a);var c=l[i];if(0!==c){if(c){var f=e&&("load"===e.type?"missing":e.type),d=e&&e.target&&e.target.src;r.message="Loading chunk "+i+" failed.\n("+f+": "+d+")",r.name="ChunkLoadError",r.type=f,r.request=d,c[1](r)}l[i]=void 0}};var a=setTimeout(function(){d({type:"timeout",target:t})},12e4);t.onerror=t.onload=d,document.head.appendChild(t)}return Promise.all(e)},s.m=o,s.c=f,s.d=function(e,c,f){s.o(e,c)||Object.defineProperty(e,c,{enumerable:!0,get:f})},s.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},s.t=function(c,e){if(1&e&&(c=s(c)),8&e)return c;if(4&e&&"object"==typeof c&&c&&c.__esModule)return c;var f=Object.create(null);if(s.r(f),Object.defineProperty(f,"default",{enumerable:!0,value:c}),2&e&&"string"!=typeof c)for(var d in c)s.d(f,d,function(e){return c[e]}.bind(null,d));return f},s.n=function(e){var c=e&&e.__esModule?function(){return e.default}:function(){return e};return s.d(c,"a",c),c},s.o=function(e,c){return Object.prototype.hasOwnProperty.call(e,c)},s.p="/",s.oe=function(e){throw console.error(e),e};var c=this.webpackJsonpdemo1=this.webpackJsonpdemo1||[],d=c.push.bind(c);c.push=e,c=c.slice();for(var t=0;t<c.length;t++)e(c[t]);var p=d;u()}([])</script><script src="/static/js/19.6f2a84b8.chunk.js"></script><script src="/static/js/main.0edd1808.chunk.js"></script><div role="presentation" class="MuiDialog-root" aria-hidden="true" style="position: fixed; z-index: 1300; inset: 0px; visibility: hidden;"><div class="MuiBackdrop-root" aria-hidden="true" style="opacity: 0; visibility: hidden;"></div><div tabindex="0" data-test="sentinelStart"></div><div class="MuiDialog-container MuiDialog-scrollPaper" role="none presentation" tabindex="-1" style="opacity: 0; visibility: hidden;"><div class="MuiPaper-root MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiPaper-elevation24 MuiPaper-rounded" role="dialog" aria-describedby="invalid_token_logout_popup"><div class="MuiDialogContent-root"><p class="MuiTypography-root MuiDialogContentText-root MuiTypography-body1 MuiTypography-colorTextSecondary" id="alert-invalid_token_logout_popup">Your account is currently logged into another device. Please re-login to continue.</p></div><div class="MuiDialogActions-root MuiDialogActions-spacing"><button class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" type="button"><span class="MuiButton-label">Logout</span><span class="MuiTouchRipple-root"></span></button></div></div></div><div tabindex="0" data-test="sentinelEnd"></div></div><iframe scrolling="no" name="JSD widget" id="jsd-widget" style="height: 80px; width: 162px; position: fixed; border: 0px; bottom: 0px; right: 0px; z-index: 2147483647; transition: height;"></iframe></body></html>

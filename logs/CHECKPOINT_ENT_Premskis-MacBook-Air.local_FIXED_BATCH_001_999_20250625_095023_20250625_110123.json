@@ -1,0 +1,16 @@
+{
+  "session_id": "Premskis-MacBook-Air.local_FIXED_BATCH_001_999_20250625_095023",
+  "timestamp": "2025-06-25T11:01:23.183506",
+  "current_index": 980,
+  "total_slugs": 999,
+  "current_slug": "OTgw",
+  "stats": {
+    "total_tested": 980,
+    "active_found": 111,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "completed_slugs": 980
+}

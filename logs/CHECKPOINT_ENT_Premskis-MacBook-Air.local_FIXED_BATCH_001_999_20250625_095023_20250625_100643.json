@@ -1,0 +1,16 @@
+{
+  "session_id": "Premskis-MacBook-Air.local_FIXED_BATCH_001_999_20250625_095023",
+  "timestamp": "2025-06-25T10:06:43.435678",
+  "current_index": 230,
+  "total_slugs": 999,
+  "current_slug": "MjMw",
+  "stats": {
+    "total_tested": 230,
+    "active_found": 1,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "completed_slugs": 230
+}

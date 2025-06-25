@@ -163,9 +163,9 @@ class EnterpriseScanner:
             enterprise_url = f"{self.base_url}{slug}"
             self.driver.get(enterprise_url)
             
-            # SPEED OPTIMIZATION: Reduced wait time from 2s to 1s
-            # Enterprise URLs load faster than widget-business format
-            time.sleep(1)
+            # ACCURACY OPTIMIZATION: Increased wait time to 3s for proper page loading
+            # These are dynamic pages that need time for content to fully render
+            time.sleep(3)
             
             # Get page source and basic metrics
             page_source = self.driver.page_source.lower()
@@ -353,6 +353,33 @@ class EnterpriseScanner:
                 print(f"⚠️  Could not load checkpoint: {e}")
         return None
     
+    def normalize_result_fields(self, result_dict):
+        """Ensure all result dictionaries have consistent fields for CSV compatibility"""
+        # Define all possible fields that could exist in any result
+        all_fields = {
+            'slug': '',
+            'url': '',
+            'final_url': '',
+            'status': '',
+            'classification': '',
+            'business_name': '',
+            'business_indicators': 0,
+            'error_indicators': 0,
+            'indicators_found': [],
+            'error_indicators_found': [],
+            'page_title': '',
+            'content_length': 0,
+            'load_time': 0,
+            'content_preview': '',
+            'error_details': '',  # This field is missing in successful results
+            'tested_at': ''
+        }
+        
+        # Merge the result with default fields, keeping existing values
+        normalized = all_fields.copy()
+        normalized.update(result_dict)
+        return normalized
+
     def save_session_data(self):
         """Save session data to files"""
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
@@ -367,10 +394,21 @@ class EnterpriseScanner:
             results_filename = f"logs/SESSION_ENT_{self.session_id}_{timestamp}_results.csv"
             with open(results_filename, 'w', newline='', encoding='utf-8') as f:
                 if self.session_data['results']:
-                    fieldnames = self.session_data['results'][0].keys()
+                    # Normalize all results to have consistent fields
+                    normalized_results = [self.normalize_result_fields(result) for result in self.session_data['results']]
+                    
+                    # Use predefined fieldnames to ensure consistency
+                    fieldnames = [
+                        'slug', 'url', 'final_url', 'status', 'classification', 
+                        'business_name', 'business_indicators', 'error_indicators', 
+                        'indicators_found', 'error_indicators_found', 'page_title', 
+                        'content_length', 'load_time', 'content_preview', 
+                        'error_details', 'tested_at'
+                    ]
+                    
                     writer = csv.DictWriter(f, fieldnames=fieldnames)
                     writer.writeheader()
-                    writer.writerows(self.session_data['results'])
+                    writer.writerows(normalized_results)
         
         # Save progress summary
         progress_filename = f"logs/SESSION_ENT_{self.session_id}_{timestamp}_progress.json"

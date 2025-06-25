@@ -1,0 +1,3161 @@
+{
+  "session_id": "BATCH_001_999_20250624_223820",
+  "timestamp": "2025-06-24T22:38:20.614103",
+  "stats": {
+    "total_collected": 50,
+    "successful_collections": 50,
+    "failed_collections": 0
+  },
+  "businesses": [
+    {
+      "slug": "MQ==",
+      "slug_number": 1,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MQ==",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "page_title": "undefined",
+      "load_time": 4.08,
+      "content_length": 31647,
+      "collected_at": "2025-06-24T22:38:25.781729",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "89931",
+        "83333",
+        "63672",
+        "93591",
+        "99595",
+        "78038",
+        "29761",
+        "99131",
+        "88605",
+        "33333"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "http://www.w3.org/2000/svg",
+          "https://wsrv.nl/?url=undefined&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "Redirects to generic widget",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": true,
+        "has_location": false,
+        "script_count": 7,
+        "style_count": 10,
+        "image_count": 2,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 1,
+      "error_indicators": 2,
+      "content_quality": "Medium",
+      "social_media": {},
+      "images_count": 2
+    },
+    {
+      "slug": "Mg==",
+      "slug_number": 2,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mg==",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mg==",
+      "page_title": "",
+      "load_time": 9.91,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:38:35.922426",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "Mw==",
+      "slug_number": 3,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mw==",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mw==",
+      "page_title": "",
+      "load_time": 1.0,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:38:37.150599",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NA==",
+      "slug_number": 4,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NA==",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NA==",
+      "page_title": "",
+      "load_time": 0.97,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:38:38.349577",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NQ==",
+      "slug_number": 5,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NQ==",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NQ==",
+      "page_title": "",
+      "load_time": 2.61,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:38:41.182925",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "Ng==",
+      "slug_number": 6,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Ng==",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Ng==",
+      "page_title": "",
+      "load_time": 2.3,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:38:43.707640",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "Nw==",
+      "slug_number": 7,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Nw==",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Nw==",
+      "page_title": "",
+      "load_time": 2.99,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:38:46.915622",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "OA==",
+      "slug_number": 8,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/OA==",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "page_title": "",
+      "load_time": 1.32,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:38:48.606710",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "Redirects to generic widget",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "OQ==",
+      "slug_number": 9,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/OQ==",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/OQ==",
+      "page_title": "",
+      "load_time": 2.22,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:38:51.063660",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MTA=",
+      "slug_number": 10,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTA=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTA=",
+      "page_title": "",
+      "load_time": 1.57,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:38:52.852706",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MTE=",
+      "slug_number": 11,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTE=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTE=",
+      "page_title": "",
+      "load_time": 1.43,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:38:54.507229",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MTI=",
+      "slug_number": 12,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTI=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTI=",
+      "page_title": "",
+      "load_time": 1.08,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:38:55.821384",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MTM=",
+      "slug_number": 13,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTM=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTM=",
+      "page_title": "",
+      "load_time": 3.27,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:38:59.311451",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MTQ=",
+      "slug_number": 14,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTQ=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTQ=",
+      "page_title": "",
+      "load_time": 1.21,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:00.746525",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MTU=",
+      "slug_number": 15,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTU=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTU=",
+      "page_title": "",
+      "load_time": 1.03,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:01.993367",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MTY=",
+      "slug_number": 16,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTY=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTY=",
+      "page_title": "",
+      "load_time": 10.3,
+      "content_length": 33671,
+      "collected_at": "2025-06-24T22:39:12.513152",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MTc=",
+      "slug_number": 17,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTc=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTc=",
+      "page_title": "",
+      "load_time": 0.9,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:13.641906",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MTg=",
+      "slug_number": 18,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTg=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTg=",
+      "page_title": "",
+      "load_time": 10.81,
+      "content_length": 33671,
+      "collected_at": "2025-06-24T22:39:24.671677",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MTk=",
+      "slug_number": 19,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTk=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MTk=",
+      "page_title": "",
+      "load_time": 0.95,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:25.859352",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MjA=",
+      "slug_number": 20,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MjA=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MjA=",
+      "page_title": "",
+      "load_time": 2.47,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:28.555197",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MjE=",
+      "slug_number": 21,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MjE=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MjE=",
+      "page_title": "",
+      "load_time": 0.98,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:29.771071",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MjI=",
+      "slug_number": 22,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MjI=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MjI=",
+      "page_title": "",
+      "load_time": 2.49,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:32.482446",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MjM=",
+      "slug_number": 23,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MjM=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MjM=",
+      "page_title": "",
+      "load_time": 1.03,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:33.730517",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MjQ=",
+      "slug_number": 24,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MjQ=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MjQ=",
+      "page_title": "",
+      "load_time": 1.05,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:35.003169",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MjU=",
+      "slug_number": 25,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MjU=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MjU=",
+      "page_title": "",
+      "load_time": 2.55,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:37.784769",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MjY=",
+      "slug_number": 26,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MjY=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MjY=",
+      "page_title": "",
+      "load_time": 0.95,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:38.965901",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "Mjc=",
+      "slug_number": 27,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mjc=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mjc=",
+      "page_title": "",
+      "load_time": 1.36,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:40.559376",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "Mjg=",
+      "slug_number": 28,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mjg=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mjg=",
+      "page_title": "",
+      "load_time": 3.29,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:44.074731",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "Mjk=",
+      "slug_number": 29,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mjk=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mjk=",
+      "page_title": "",
+      "load_time": 1.56,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:45.889756",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MzA=",
+      "slug_number": 30,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzA=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/widget",
+      "page_title": "",
+      "load_time": 1.47,
+      "content_length": 26343,
+      "collected_at": "2025-06-24T22:39:47.622682",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "Redirects to generic widget",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 7,
+        "style_count": 10,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MzE=",
+      "slug_number": 31,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzE=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzE=",
+      "page_title": "",
+      "load_time": 2.85,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:50.721596",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MzI=",
+      "slug_number": 32,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzI=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzI=",
+      "page_title": "",
+      "load_time": 1.23,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:52.177458",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MzM=",
+      "slug_number": 33,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzM=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzM=",
+      "page_title": "",
+      "load_time": 1.39,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:53.806255",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MzQ=",
+      "slug_number": 34,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzQ=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzQ=",
+      "page_title": "",
+      "load_time": 2.43,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:56.461404",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MzU=",
+      "slug_number": 35,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzU=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzU=",
+      "page_title": "",
+      "load_time": 1.05,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:57.732685",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "MzY=",
+      "slug_number": 36,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzY=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/MzY=",
+      "page_title": "",
+      "load_time": 1.26,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:39:59.226576",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "Mzc=",
+      "slug_number": 37,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzc=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzc=",
+      "page_title": "",
+      "load_time": 2.88,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:40:02.348257",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "Mzg=",
+      "slug_number": 38,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzg=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzg=",
+      "page_title": "",
+      "load_time": 1.6,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:40:04.188157",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "Mzk=",
+      "slug_number": 39,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzk=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/Mzk=",
+      "page_title": "",
+      "load_time": 1.73,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:40:06.149122",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDA=",
+      "slug_number": 40,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDA=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDA=",
+      "page_title": "",
+      "load_time": 12.13,
+      "content_length": 33671,
+      "collected_at": "2025-06-24T22:40:18.513351",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDE=",
+      "slug_number": 41,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDE=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDE=",
+      "page_title": "",
+      "load_time": 1.27,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:40:20.013563",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDI=",
+      "slug_number": 42,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDI=",
+      "page_title": "",
+      "load_time": 11.68,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:40:31.922332",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDM=",
+      "slug_number": 43,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDM=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDM=",
+      "page_title": "",
+      "load_time": 1.01,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:40:33.162702",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDQ=",
+      "slug_number": 44,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDQ=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDQ=",
+      "page_title": "",
+      "load_time": 2.84,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:40:36.239793",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDU=",
+      "slug_number": 45,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDU=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDU=",
+      "page_title": "",
+      "load_time": 0.91,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:40:37.377166",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDY=",
+      "slug_number": 46,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDY=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDY=",
+      "page_title": "",
+      "load_time": 1.09,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:40:38.697843",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDc=",
+      "slug_number": 47,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDc=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDc=",
+      "page_title": "",
+      "load_time": 2.62,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:40:41.547826",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDg=",
+      "slug_number": 48,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDg=",
+      "page_title": "",
+      "load_time": 0.89,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:40:42.665727",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NDk=",
+      "slug_number": 49,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDk=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NDk=",
+      "page_title": "",
+      "load_time": 2.75,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:40:45.638745",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    },
+    {
+      "slug": "NTA=",
+      "slug_number": 50,
+      "original_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTA=",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NTA=",
+      "page_title": "",
+      "load_time": 1.36,
+      "content_length": 33649,
+      "collected_at": "2025-06-24T22:40:47.218846",
+      "business_name": "",
+      "business_type": "IV Therapy/Wellness",
+      "location_info": [
+        "63672",
+        "99595",
+        "29761",
+        "99131",
+        "88605",
+        "71689",
+        "03836",
+        "43550",
+        "51254",
+        "80192"
+      ],
+      "contact_info": {
+        "phones": [
+          "2147483647"
+        ],
+        "websites": [
+          "https://wsrv.nl/?url=&amp",
+          "https://polyfill.io/v3/polyfill.min.js?features=es2017%2Cdefault%2Ces2015%2Ces2016%2CIntl",
+          "https://cdn.logr-ingest.com/logger",
+          "https://jsd-widget.atlassian.com/assets/embed.js",
+          "https://jsd-widget.atlassian.com"
+        ]
+      },
+      "services": [],
+      "specializations": [],
+      "business_description": "",
+      "operating_hours": [],
+      "pricing_info": [],
+      "redirect_info": "No redirect",
+      "widget_business_slug": null,
+      "page_structure": {
+        "has_forms": true,
+        "has_booking": false,
+        "has_services": false,
+        "has_pricing": false,
+        "has_contact": false,
+        "has_location": false,
+        "script_count": 6,
+        "style_count": 11,
+        "image_count": 0,
+        "link_count": 0
+      },
+      "meta_data": {
+        "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no"
+      },
+      "business_indicators": 0,
+      "error_indicators": 2,
+      "content_quality": "Low",
+      "social_media": {},
+      "images_count": 0
+    }
+  ]
+}

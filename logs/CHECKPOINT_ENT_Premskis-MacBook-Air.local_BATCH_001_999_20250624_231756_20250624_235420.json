@@ -1,0 +1,16 @@
+{
+  "session_id": "Premskis-MacBook-Air.local_BATCH_001_999_20250624_231756",
+  "timestamp": "2025-06-24T23:54:20.722711",
+  "current_index": 900,
+  "total_slugs": 999,
+  "current_slug": "OTAw",
+  "stats": {
+    "total_tested": 900,
+    "active_found": 103,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "completed_slugs": 900
+}

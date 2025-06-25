@@ -1,0 +1,134 @@
+{
+  "debug_session": "2025-06-25T09:48:01.648727",
+  "base_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/",
+  "tested_slugs": [
+    "NzAz",
+    "NzE5",
+    "NzE2"
+  ],
+  "results": [
+    {
+      "slug": "NzAz",
+      "decoded_number": "703",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NzAz",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NzAz",
+      "page_title": "Wellness PharmD Consulting",
+      "content_length": 35777,
+      "load_time": 5.826543092727661,
+      "error_indicators_found": [
+        "error"
+      ],
+      "business_indicators_found": [
+        "select",
+        "wellness"
+      ],
+      "additional_keywords": [
+        "time",
+        "form",
+        "input",
+        "button"
+      ],
+      "current_scanner_status": "ACTIVE",
+      "has_business_title": true,
+      "has_substantial_content": true,
+      "debug_file": "debug_slug_NzAz_20250625_094746.html"
+    },
+    {
+      "slug": "NzE5",
+      "decoded_number": "719",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NzE5",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NzE5",
+      "page_title": "Earth Angel Wellness",
+      "content_length": 35759,
+      "load_time": 4.582708120346069,
+      "error_indicators_found": [
+        "error"
+      ],
+      "business_indicators_found": [
+        "select",
+        "wellness"
+      ],
+      "additional_keywords": [
+        "time",
+        "form",
+        "input",
+        "button"
+      ],
+      "current_scanner_status": "ACTIVE",
+      "has_business_title": true,
+      "has_substantial_content": true,
+      "debug_file": "debug_slug_NzE5_20250625_094752.html"
+    },
+    {
+      "slug": "NzE2",
+      "decoded_number": "716",
+      "url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NzE2",
+      "final_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/NzE2",
+      "page_title": "Altura Health",
+      "content_length": 37199,
+      "load_time": 4.76953911781311,
+      "error_indicators_found": [
+        "error"
+      ],
+      "business_indicators_found": [
+        "select",
+        "health"
+      ],
+      "additional_keywords": [
+        "time",
+        "form",
+        "input",
+        "button"
+      ],
+      "current_scanner_status": "ACTIVE",
+      "has_business_title": true,
+      "has_substantial_content": true,
+      "debug_file": "debug_slug_NzE2_20250625_094759.html"
+    }
+  ],
+  "scanner_indicators": {
+    "error_indicators": [
+      "401",
+      "error",
+      "nothing left to do here",
+      "go to homepage",
+      "not found",
+      "access denied",
+      "unauthorized",
+      "the link you've opened isn't working as expected",
+      "page not found",
+      "invalid request",
+      "session expired",
+      "service unavailable",
+      "temporarily unavailable"
+    ],
+    "business_indicators": [
+      "book",
+      "appointment",
+      "schedule",
+      "service",
+      "therapy",
+      "treatment",
+      "consultation",
+      "booking",
+      "available",
+      "select",
+      "choose",
+      "weight loss",
+      "injection",
+      "iv therapy",
+      "dripbar",
+      "semaglutide",
+      "tirzepatide",
+      "hormone",
+      "wellness",
+      "health",
+      "medical",
+      "clinic",
+      "provider",
+      "patient",
+      "visit",
+      "care"
+    ]
+  }
+}
