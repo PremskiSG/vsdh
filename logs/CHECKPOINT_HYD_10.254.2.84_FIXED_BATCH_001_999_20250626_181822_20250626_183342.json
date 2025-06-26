@@ -1,0 +1,16 @@
+{
+  "session_id": "10.254.2.84_FIXED_BATCH_001_999_20250626_181822",
+  "timestamp": "2025-06-26T18:33:42.417451",
+  "current_index": 180,
+  "total_slugs": 999,
+  "current_slug": "MTgw",
+  "stats": {
+    "total_tested": 180,
+    "active_found": 10,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "completed_slugs": 180
+}

@@ -1,0 +1,51 @@
+{
+  "session_id": "Premskis-MacBook-Air.local_TEST_SYNC_CHECK_20250626_003840",
+  "start_time": "2025-06-26T00:38:40.052530",
+  "scanner_type": "Hydreight_Level",
+  "base_url": "https://booking.hydreight.com/b/",
+  "instance_id": "TEST_SYNC_CHECK",
+  "hostname": "Premskis-MacBook-Air.local",
+  "results": [
+    {
+      "slug": "NDgz",
+      "url": "https://booking.hydreight.com/b/NDgz",
+      "final_url": "https://booking.hydreight.com/widget-business/er80c",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Hydreight",
+      "business_indicators": 6,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Peek A View Baby",
+      "content_length": 42881,
+      "load_time": 5.788801908493042,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>peek a view baby</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" ",
+      "tested_at": "2025-06-26T00:38:47.183062"
+    }
+  ],
+  "stats": {
+    "total_tested": 1,
+    "active_found": 1,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "checkpoint_info": {
+    "last_checkpoint": 0,
+    "checkpoint_frequency": 10,
+    "resume_from_slug": null
+  },
+  "end_time": "2025-06-26T00:38:47.183128"
+}

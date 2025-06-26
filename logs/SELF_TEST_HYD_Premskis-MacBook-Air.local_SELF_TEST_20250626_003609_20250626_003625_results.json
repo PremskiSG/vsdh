@@ -1,0 +1,91 @@
+{
+  "session_id": "Premskis-MacBook-Air.local_SELF_TEST_20250626_003609",
+  "start_time": "2025-06-26T00:36:09.594013",
+  "scanner_type": "Hydreight_Self_Test",
+  "base_url": "https://booking.hydreight.com/b/",
+  "instance_id": "SELF_TEST",
+  "hostname": "Premskis-MacBook-Air.local",
+  "test_slugs": [
+    {
+      "slug": "aaaa",
+      "expected": "INVALID",
+      "description": "Invalid test slug"
+    },
+    {
+      "slug": "NDgz",
+      "expected": "VALID",
+      "description": "Valid Hydreight booking page"
+    }
+  ],
+  "results": [
+    {
+      "slug": "aaaa",
+      "url": "https://booking.hydreight.com/b/aaaa",
+      "final_url": "https://booking.hydreight.com/b/aaaa",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 33177,
+      "load_time": 5.59375,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:36:16.599933",
+      "test_case": {
+        "slug": "aaaa",
+        "expected": "INVALID",
+        "description": "Invalid test slug"
+      },
+      "test_passed": true,
+      "expected_result": "INVALID"
+    },
+    {
+      "slug": "NDgz",
+      "url": "https://booking.hydreight.com/b/NDgz",
+      "final_url": "https://booking.hydreight.com/widget-business/er80c",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Hydreight",
+      "business_indicators": 6,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Peek A View Baby",
+      "content_length": 42881,
+      "load_time": 4.382710933685303,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>peek a view baby</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" ",
+      "tested_at": "2025-06-26T00:36:22.988069",
+      "test_case": {
+        "slug": "NDgz",
+        "expected": "VALID",
+        "description": "Valid Hydreight booking page"
+      },
+      "test_passed": true,
+      "expected_result": "VALID"
+    }
+  ],
+  "test_summary": {
+    "total_tests": 2,
+    "passed": 2,
+    "failed": 0,
+    "active_found": 1,
+    "errors": 0
+  }
+}

@@ -1,0 +1,2512 @@
+{
+  "session_id": "Premskis-MacBook-Air.local_ACTIVE_RETEST_20250626_175543",
+  "start_time": "2025-06-26T17:55:43.832925",
+  "scanner_type": "Hydreight_Level",
+  "base_url": "https://booking.hydreight.com/b/",
+  "instance_id": "ACTIVE_RETEST",
+  "hostname": "Premskis-MacBook-Air.local",
+  "results": [
+    {
+      "slug": "MQ==",
+      "url": "https://booking.hydreight.com/b/MQ==",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "undefined",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "undefined",
+      "content_length": 31260,
+      "load_time": 6.2350921630859375,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>undefined</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"h",
+      "tested_at": "2025-06-26T17:55:51.608973"
+    },
+    {
+      "slug": "OTk=",
+      "url": "https://booking.hydreight.com/b/OTk=",
+      "final_url": "https://booking.hydreight.com/widget-business/kr38j",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Bombshell Aesthetics",
+      "business_indicators": 2,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Bombshell Aesthetics",
+      "content_length": 31135,
+      "load_time": 4.934372186660767,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>bombshell aesthetics</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"styleshe",
+      "tested_at": "2025-06-26T17:55:56.649966"
+    },
+    {
+      "slug": "MTI5",
+      "url": "https://booking.hydreight.com/b/MTI5",
+      "final_url": "https://booking.hydreight.com/widget-business/kr38j",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Bombshell Aesthetics",
+      "business_indicators": 2,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Bombshell Aesthetics",
+      "content_length": 31135,
+      "load_time": 5.134971857070923,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>bombshell aesthetics</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"styleshe",
+      "tested_at": "2025-06-26T17:56:01.888116"
+    },
+    {
+      "slug": "MTMw",
+      "url": "https://booking.hydreight.com/b/MTMw",
+      "final_url": "https://booking.hydreight.com/widget-business/hi64p",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Hydrate SBC",
+      "business_indicators": 9,
+      "error_indicators": 2,
+      "indicators_found": [
+        "service",
+        "therapy",
+        "available",
+        "select",
+        "iv therapy",
+        "hydreight",
+        "wellness",
+        "health",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Hydrate SBC",
+      "content_length": 45510,
+      "load_time": 6.206478834152222,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>hydrate sbc</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=",
+      "tested_at": "2025-06-26T17:56:08.200678"
+    },
+    {
+      "slug": "MTMy",
+      "url": "https://booking.hydreight.com/b/MTMy",
+      "final_url": "https://booking.hydreight.com/widget-business/pt73c",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 32033,
+      "load_time": 6.131798028945923,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T17:56:14.438930"
+    },
+    {
+      "slug": "MTM3",
+      "url": "https://booking.hydreight.com/b/MTM3",
+      "final_url": "https://booking.hydreight.com/widget-business/pu55c",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "ABOOST WELLNESS",
+      "business_indicators": 8,
+      "error_indicators": 2,
+      "indicators_found": [
+        "service",
+        "select",
+        "hydreight",
+        "wellness",
+        "health",
+        "medical",
+        "clinic",
+        "care"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "ABOOST WELLNESS",
+      "content_length": 45563,
+      "load_time": 5.584366083145142,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>aboost wellness</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" h",
+      "tested_at": "2025-06-26T17:56:20.127140"
+    },
+    {
+      "slug": "MTQ5",
+      "url": "https://booking.hydreight.com/b/MTQ5",
+      "final_url": "https://booking.hydreight.com/widget-business/io32b",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Hydrate Scottsdale",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Hydrate Scottsdale",
+      "content_length": 36530,
+      "load_time": 10.765843152999878,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>hydrate scottsdale</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet",
+      "tested_at": "2025-06-26T17:56:30.996159"
+    },
+    {
+      "slug": "MTUw",
+      "url": "https://booking.hydreight.com/b/MTUw",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "WEL Palm Beach",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "WEL Palm Beach",
+      "content_length": 31930,
+      "load_time": 4.528571844100952,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>wel palm beach</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" hr",
+      "tested_at": "2025-06-26T17:56:35.627332"
+    },
+    {
+      "slug": "MTcw",
+      "url": "https://booking.hydreight.com/b/MTcw",
+      "final_url": "https://booking.hydreight.com/widget-business/lp43d",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "D&C Medical",
+      "business_indicators": 6,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "D&C Medical",
+      "content_length": 36365,
+      "load_time": 4.094759941101074,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>d&amp;c medical</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" h",
+      "tested_at": "2025-06-26T17:56:39.825771"
+    },
+    {
+      "slug": "MTg0",
+      "url": "https://booking.hydreight.com/b/MTg0",
+      "final_url": "https://booking.hydreight.com/widget-business/lp43d",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "D&C Medical",
+      "business_indicators": 6,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "D&C Medical",
+      "content_length": 36365,
+      "load_time": 6.572656869888306,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>d&amp;c medical</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" h",
+      "tested_at": "2025-06-26T17:56:46.504392"
+    },
+    {
+      "slug": "MTg4",
+      "url": "https://booking.hydreight.com/b/MTg4",
+      "final_url": "https://booking.hydreight.com/widget-business/ea70s",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 32237,
+      "load_time": 6.51950478553772,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T17:56:53.132233"
+    },
+    {
+      "slug": "MTk0",
+      "url": "https://booking.hydreight.com/b/MTk0",
+      "final_url": "https://booking.hydreight.com/widget-business/ea70s",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 32304,
+      "load_time": 9.998126029968262,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T17:57:03.236050"
+    },
+    {
+      "slug": "MjM4",
+      "url": "https://booking.hydreight.com/b/MjM4",
+      "final_url": "https://booking.hydreight.com/widget-business/ea70s",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 32033,
+      "load_time": 7.141577959060669,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T17:57:10.482821"
+    },
+    {
+      "slug": "MjM5",
+      "url": "https://booking.hydreight.com/b/MjM5",
+      "final_url": "https://booking.hydreight.com/widget-business/lw49r",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Hydrate & More",
+      "business_indicators": 9,
+      "error_indicators": 2,
+      "indicators_found": [
+        "appointment",
+        "service",
+        "therapy",
+        "treatment",
+        "select",
+        "hydreight",
+        "wellness",
+        "medical",
+        "provider"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Hydrate & More",
+      "content_length": 45427,
+      "load_time": 6.576467990875244,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>hydrate &amp; more</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet",
+      "tested_at": "2025-06-26T17:57:17.161821"
+    },
+    {
+      "slug": "MjQz",
+      "url": "https://booking.hydreight.com/b/MjQz",
+      "final_url": "https://booking.hydreight.com/widget-business/vg79p",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 32033,
+      "load_time": 6.148792743682861,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T17:57:23.417024"
+    },
+    {
+      "slug": "MjQ0",
+      "url": "https://booking.hydreight.com/b/MjQ0",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Someday Wellness",
+      "business_indicators": 3,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight",
+        "wellness"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Someday Wellness",
+      "content_length": 31934,
+      "load_time": 8.052170038223267,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>someday wellness</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" ",
+      "tested_at": "2025-06-26T17:57:31.575102"
+    },
+    {
+      "slug": "MjQ3",
+      "url": "https://booking.hydreight.com/b/MjQ3",
+      "final_url": "https://booking.hydreight.com/widget-business/ny50u",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 32033,
+      "load_time": 7.880928039550781,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T17:57:39.557809"
+    },
+    {
+      "slug": "MjUw",
+      "url": "https://booking.hydreight.com/b/MjUw",
+      "final_url": "https://booking.hydreight.com/widget-business/ny50u",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 32033,
+      "load_time": 5.559571981430054,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T17:57:45.224090"
+    },
+    {
+      "slug": "MjYy",
+      "url": "https://booking.hydreight.com/b/MjYy",
+      "final_url": "https://booking.hydreight.com/widget-business/jx13u",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Body Contour Aesthetics & Wellness",
+      "business_indicators": 7,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "wellness",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Body Contour Aesthetics & Wellness",
+      "content_length": 45410,
+      "load_time": 12.061800003051758,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>body contour aesthetics &amp; wellness</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><",
+      "tested_at": "2025-06-26T17:57:57.389190"
+    },
+    {
+      "slug": "MjYz",
+      "url": "https://booking.hydreight.com/b/MjYz",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "IV Hydrate Concierge",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "IV Hydrate Concierge",
+      "content_length": 31942,
+      "load_time": 9.840363025665283,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>iv hydrate concierge</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"styleshe",
+      "tested_at": "2025-06-26T17:58:07.331864"
+    },
+    {
+      "slug": "Mjc1",
+      "url": "https://booking.hydreight.com/b/Mjc1",
+      "final_url": "https://booking.hydreight.com/widget-business/sg03x",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Hydration Station & Therapies",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Hydration Station & Therapies",
+      "content_length": 36644,
+      "load_time": 4.594209909439087,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>hydration station &amp; therapies</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link ",
+      "tested_at": "2025-06-26T17:58:12.035075"
+    },
+    {
+      "slug": "Mjc2",
+      "url": "https://booking.hydreight.com/b/Mjc2",
+      "final_url": "https://booking.hydreight.com/widget-business/sg03x",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Hydration Station & Therapies",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Hydration Station & Therapies",
+      "content_length": 36644,
+      "load_time": 13.01466703414917,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>hydration station &amp; therapies</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link ",
+      "tested_at": "2025-06-26T17:58:25.155806"
+    },
+    {
+      "slug": "MzA0",
+      "url": "https://booking.hydreight.com/b/MzA0",
+      "final_url": "https://booking.hydreight.com/widget-business/hd09a",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 32237,
+      "load_time": 5.478585958480835,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T17:58:30.740853"
+    },
+    {
+      "slug": "MzM2",
+      "url": "https://booking.hydreight.com/b/MzM2",
+      "final_url": "https://booking.hydreight.com/widget-business/hd09a",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 32237,
+      "load_time": 5.100849151611328,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T17:58:35.948412"
+    },
+    {
+      "slug": "MzQy",
+      "url": "https://booking.hydreight.com/b/MzQy",
+      "final_url": "https://booking.hydreight.com/widget-business/hd09a",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 32033,
+      "load_time": 6.919890880584717,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T17:58:42.970567"
+    },
+    {
+      "slug": "MzQz",
+      "url": "https://booking.hydreight.com/b/MzQz",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "AMP Acupuncture & Medical Practice",
+      "business_indicators": 3,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "AMP Acupuncture & Medical Practice",
+      "content_length": 31978,
+      "load_time": 5.567781925201416,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>amp acupuncture &amp; medical practice</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><",
+      "tested_at": "2025-06-26T17:58:48.644676"
+    },
+    {
+      "slug": "MzUz",
+      "url": "https://booking.hydreight.com/b/MzUz",
+      "final_url": "https://booking.hydreight.com/widget-business/aq23y",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Angelo IV Therapy",
+      "business_indicators": 7,
+      "error_indicators": 2,
+      "indicators_found": [
+        "schedule",
+        "service",
+        "therapy",
+        "select",
+        "iv therapy",
+        "hydreight",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Angelo IV Therapy",
+      "content_length": 45489,
+      "load_time": 4.716902017593384,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>angelo iv therapy</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\"",
+      "tested_at": "2025-06-26T17:58:53.468445"
+    },
+    {
+      "slug": "MzU0",
+      "url": "https://booking.hydreight.com/b/MzU0",
+      "final_url": "https://booking.hydreight.com/widget-business/aq23y",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Angelo IV Therapy",
+      "business_indicators": 7,
+      "error_indicators": 2,
+      "indicators_found": [
+        "schedule",
+        "service",
+        "therapy",
+        "select",
+        "iv therapy",
+        "hydreight",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Angelo IV Therapy",
+      "content_length": 45664,
+      "load_time": 5.149340867996216,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>angelo iv therapy</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\"",
+      "tested_at": "2025-06-26T17:58:58.724302"
+    },
+    {
+      "slug": "MzU1",
+      "url": "https://booking.hydreight.com/b/MzU1",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31762,
+      "load_time": 4.998561143875122,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T17:59:03.828725"
+    },
+    {
+      "slug": "MzY4",
+      "url": "https://booking.hydreight.com/b/MzY4",
+      "final_url": "https://booking.hydreight.com/widget-business/zp22u",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "IV Infusion Solutions",
+      "business_indicators": 6,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "IV Infusion Solutions",
+      "content_length": 45316,
+      "load_time": 4.722986936569214,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>iv infusion solutions</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesh",
+      "tested_at": "2025-06-26T17:59:08.658014"
+    },
+    {
+      "slug": "MzY5",
+      "url": "https://booking.hydreight.com/b/MzY5",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "IV Infusion Solutions",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "IV Infusion Solutions",
+      "content_length": 31944,
+      "load_time": 5.612716197967529,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>iv infusion solutions</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesh",
+      "tested_at": "2025-06-26T17:59:14.381273"
+    },
+    {
+      "slug": "Mzgx",
+      "url": "https://booking.hydreight.com/b/Mzgx",
+      "final_url": "https://booking.hydreight.com/widget-business/jy89m",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Wellspring Concierge Nurses",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "service",
+        "therapy",
+        "select",
+        "injection",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Wellspring Concierge Nurses",
+      "content_length": 36598,
+      "load_time": 7.282902002334595,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>wellspring concierge nurses</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"s",
+      "tested_at": "2025-06-26T17:59:21.768015"
+    },
+    {
+      "slug": "Mzgz",
+      "url": "https://booking.hydreight.com/b/Mzgz",
+      "final_url": "https://booking.hydreight.com/widget-business/jy89m",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Wellspring Concierge Nurses",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "service",
+        "therapy",
+        "select",
+        "injection",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Wellspring Concierge Nurses",
+      "content_length": 36773,
+      "load_time": 6.243998050689697,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>wellspring concierge nurses</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"s",
+      "tested_at": "2025-06-26T17:59:28.115732"
+    },
+    {
+      "slug": "NDA1",
+      "url": "https://booking.hydreight.com/b/NDA1",
+      "final_url": "https://booking.hydreight.com/widget-business/jy89m",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Wellspring Concierge Nurses",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "service",
+        "therapy",
+        "select",
+        "injection",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Wellspring Concierge Nurses",
+      "content_length": 36598,
+      "load_time": 6.332208871841431,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>wellspring concierge nurses</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"s",
+      "tested_at": "2025-06-26T17:59:34.553912"
+    },
+    {
+      "slug": "NDA2",
+      "url": "https://booking.hydreight.com/b/NDA2",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Trina Rakay",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Trina Rakay",
+      "content_length": 31924,
+      "load_time": 5.560271978378296,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>trina rakay</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=",
+      "tested_at": "2025-06-26T17:59:40.218471"
+    },
+    {
+      "slug": "NDIx",
+      "url": "https://booking.hydreight.com/b/NDIx",
+      "final_url": "https://booking.hydreight.com/b/NDIx",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Simply Renewed",
+      "business_indicators": 4,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Simply Renewed",
+      "content_length": 33790,
+      "load_time": 4.9780261516571045,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>simply renewed </title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" h",
+      "tested_at": "2025-06-26T17:59:45.299663"
+    },
+    {
+      "slug": "NDI1",
+      "url": "https://booking.hydreight.com/b/NDI1",
+      "final_url": "https://booking.hydreight.com/widget-business/sq50g",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Coachella Valley IV Therapy LLC",
+      "business_indicators": 8,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "therapy",
+        "select",
+        "iv therapy",
+        "hydreight",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Coachella Valley IV Therapy LLC",
+      "content_length": 45378,
+      "load_time": 4.306283950805664,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>coachella valley iv therapy llc</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link re",
+      "tested_at": "2025-06-26T17:59:49.712564"
+    },
+    {
+      "slug": "NDI2",
+      "url": "https://booking.hydreight.com/b/NDI2",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Coachella Valley IV Therapy LLC",
+      "business_indicators": 4,
+      "error_indicators": 2,
+      "indicators_found": [
+        "therapy",
+        "select",
+        "iv therapy",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Coachella Valley IV Therapy LLC",
+      "content_length": 31964,
+      "load_time": 4.577891826629639,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>coachella valley iv therapy llc</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link re",
+      "tested_at": "2025-06-26T17:59:54.396847"
+    },
+    {
+      "slug": "NDI5",
+      "url": "https://booking.hydreight.com/b/NDI5",
+      "final_url": "https://booking.hydreight.com/widget-business/da91m",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Wellspring Concierge Nurses2",
+      "business_indicators": 5,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Wellspring Concierge Nurses2",
+      "content_length": 34032,
+      "load_time": 4.359960079193115,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>wellspring concierge nurses2</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"",
+      "tested_at": "2025-06-26T17:59:58.859696"
+    },
+    {
+      "slug": "NDM1",
+      "url": "https://booking.hydreight.com/b/NDM1",
+      "final_url": "https://booking.hydreight.com/widget-business/da91m",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Wellspring Concierge Nurses2",
+      "business_indicators": 5,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Wellspring Concierge Nurses2",
+      "content_length": 34032,
+      "load_time": 6.256579160690308,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>wellspring concierge nurses2</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"",
+      "tested_at": "2025-06-26T18:00:05.222458"
+    },
+    {
+      "slug": "NDM2",
+      "url": "https://booking.hydreight.com/b/NDM2",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Elevation Hydration",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Elevation Hydration",
+      "content_length": 31940,
+      "load_time": 5.170531749725342,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>elevation hydration</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"styleshee",
+      "tested_at": "2025-06-26T18:00:10.499889"
+    },
+    {
+      "slug": "NDQ5",
+      "url": "https://booking.hydreight.com/b/NDQ5",
+      "final_url": "https://booking.hydreight.com/widget-business/zq13l",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Rejuvenation Station LLC",
+      "business_indicators": 5,
+      "error_indicators": 2,
+      "indicators_found": [
+        "service",
+        "select",
+        "hydreight",
+        "medical",
+        "visit"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Rejuvenation Station LLC",
+      "content_length": 45275,
+      "load_time": 5.045315742492676,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>rejuvenation station llc</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"styl",
+      "tested_at": "2025-06-26T18:00:15.649327"
+    },
+    {
+      "slug": "NDUw",
+      "url": "https://booking.hydreight.com/b/NDUw",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31762,
+      "load_time": 5.534224033355713,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T18:00:21.290071"
+    },
+    {
+      "slug": "NDY3",
+      "url": "https://booking.hydreight.com/b/NDY3",
+      "final_url": "https://booking.hydreight.com/b/NDY3",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Glo Hydration",
+      "business_indicators": 4,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Glo Hydration",
+      "content_length": 31231,
+      "load_time": 6.296078205108643,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>glo hydration</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" hre",
+      "tested_at": "2025-06-26T18:00:27.688483"
+    },
+    {
+      "slug": "NDc1",
+      "url": "https://booking.hydreight.com/b/NDc1",
+      "final_url": "https://booking.hydreight.com/b/NDc1",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Alpha Fit And Rejuvenation",
+      "business_indicators": 4,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Alpha Fit And Rejuvenation",
+      "content_length": 33831,
+      "load_time": 4.82091498374939,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>alpha fit and rejuvenation</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"st",
+      "tested_at": "2025-06-26T18:00:32.615814"
+    },
+    {
+      "slug": "NDgz",
+      "url": "https://booking.hydreight.com/b/NDgz",
+      "final_url": "https://booking.hydreight.com/widget-business/er80c",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Peek A View Baby",
+      "business_indicators": 6,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Peek A View Baby",
+      "content_length": 42881,
+      "load_time": 4.884606122970581,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>peek a view baby</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" ",
+      "tested_at": "2025-06-26T18:00:37.607425"
+    },
+    {
+      "slug": "NDg0",
+      "url": "https://booking.hydreight.com/b/NDg0",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31762,
+      "load_time": 4.905958890914917,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T18:00:42.620051"
+    },
+    {
+      "slug": "NDk2",
+      "url": "https://booking.hydreight.com/b/NDk2",
+      "final_url": "https://booking.hydreight.com/widget-business/pt70x",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Desert IV Hydration",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Desert IV Hydration",
+      "content_length": 36534,
+      "load_time": 4.257963180541992,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>desert iv hydration</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"styleshee",
+      "tested_at": "2025-06-26T18:00:46.981042"
+    },
+    {
+      "slug": "NTEw",
+      "url": "https://booking.hydreight.com/b/NTEw",
+      "final_url": "https://booking.hydreight.com/widget-business/pt70x",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Desert IV Hydration",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Desert IV Hydration",
+      "content_length": 36534,
+      "load_time": 6.248879909515381,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>desert iv hydration</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"styleshee",
+      "tested_at": "2025-06-26T18:00:53.332425"
+    },
+    {
+      "slug": "NTEx",
+      "url": "https://booking.hydreight.com/b/NTEx",
+      "final_url": "https://booking.hydreight.com/widget-business/de90c",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Rescue Nurse IV",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Rescue Nurse IV",
+      "content_length": 34164,
+      "load_time": 6.447663068771362,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>rescue nurse iv</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" h",
+      "tested_at": "2025-06-26T18:00:59.891815"
+    },
+    {
+      "slug": "NTEy",
+      "url": "https://booking.hydreight.com/b/NTEy",
+      "final_url": "https://booking.hydreight.com/widget-business/de90c",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Rescue Nurse IV",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Rescue Nurse IV",
+      "content_length": 34164,
+      "load_time": 5.835472822189331,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>rescue nurse iv</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" h",
+      "tested_at": "2025-06-26T18:01:05.842354"
+    },
+    {
+      "slug": "NTE0",
+      "url": "https://booking.hydreight.com/b/NTE0",
+      "final_url": "https://booking.hydreight.com/widget-business/de90c",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Rescue Nurse IV",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Rescue Nurse IV",
+      "content_length": 33989,
+      "load_time": 6.797662973403931,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>rescue nurse iv</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" h",
+      "tested_at": "2025-06-26T18:01:12.751179"
+    },
+    {
+      "slug": "NTE1",
+      "url": "https://booking.hydreight.com/b/NTE1",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Ocean Bay Aesthetics",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Ocean Bay Aesthetics",
+      "content_length": 31942,
+      "load_time": 5.432891130447388,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>ocean bay aesthetics</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"styleshe",
+      "tested_at": "2025-06-26T18:01:18.295126"
+    },
+    {
+      "slug": "NTIw",
+      "url": "https://booking.hydreight.com/b/NTIw",
+      "final_url": "https://booking.hydreight.com/widget-business/md32b",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Beauty & Wellness IV Clinic",
+      "business_indicators": 8,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "wellness",
+        "medical",
+        "clinic"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Beauty & Wellness IV Clinic",
+      "content_length": 45356,
+      "load_time": 4.877425909042358,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>beauty &amp; wellness iv clinic</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link re",
+      "tested_at": "2025-06-26T18:01:23.284149"
+    },
+    {
+      "slug": "NTIx",
+      "url": "https://booking.hydreight.com/b/NTIx",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Beauty & Wellness IV Clinic",
+      "business_indicators": 4,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight",
+        "wellness",
+        "clinic"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Beauty & Wellness IV Clinic",
+      "content_length": 31964,
+      "load_time": 5.23399806022644,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>beauty &amp; wellness iv clinic</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link re",
+      "tested_at": "2025-06-26T18:01:28.629286"
+    },
+    {
+      "slug": "NTMx",
+      "url": "https://booking.hydreight.com/b/NTMx",
+      "final_url": "https://booking.hydreight.com/widget-business/ko81z",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Imani’s Heavenly Care Coral Springs",
+      "business_indicators": 6,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "care"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Imani’s Heavenly Care Coral Springs",
+      "content_length": 36579,
+      "load_time": 4.372161626815796,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>imani’s heavenly care coral springs</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><lin",
+      "tested_at": "2025-06-26T18:01:33.105389"
+    },
+    {
+      "slug": "NTM4",
+      "url": "https://booking.hydreight.com/b/NTM4",
+      "final_url": "https://booking.hydreight.com/widget-business/ko81z",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Imani’s Heavenly Care Coral Springs",
+      "business_indicators": 6,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "care"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Imani’s Heavenly Care Coral Springs",
+      "content_length": 36579,
+      "load_time": 5.724339008331299,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>imani’s heavenly care coral springs</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><lin",
+      "tested_at": "2025-06-26T18:01:38.940660"
+    },
+    {
+      "slug": "NTM5",
+      "url": "https://booking.hydreight.com/b/NTM5",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "State 48 Hydrate",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "State 48 Hydrate",
+      "content_length": 31934,
+      "load_time": 4.799731016159058,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>state 48 hydrate</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" ",
+      "tested_at": "2025-06-26T18:01:43.851973"
+    },
+    {
+      "slug": "NTQw",
+      "url": "https://booking.hydreight.com/b/NTQw",
+      "final_url": "https://booking.hydreight.com/widget-business/tu72m",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Drip Hydration",
+      "business_indicators": 6,
+      "error_indicators": 2,
+      "indicators_found": [
+        "service",
+        "select",
+        "hydreight",
+        "wellness",
+        "health",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Drip Hydration",
+      "content_length": 45488,
+      "load_time": 5.268611907958984,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>drip hydration</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" hr",
+      "tested_at": "2025-06-26T18:01:49.231724"
+    },
+    {
+      "slug": "NTQx",
+      "url": "https://booking.hydreight.com/b/NTQx",
+      "final_url": "https://booking.hydreight.com/widget-business/tu72m",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Drip Hydration",
+      "business_indicators": 6,
+      "error_indicators": 2,
+      "indicators_found": [
+        "service",
+        "select",
+        "hydreight",
+        "wellness",
+        "health",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Drip Hydration",
+      "content_length": 45488,
+      "load_time": 5.422644138336182,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>drip hydration</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" hr",
+      "tested_at": "2025-06-26T18:01:54.765732"
+    },
+    {
+      "slug": "NTQy",
+      "url": "https://booking.hydreight.com/b/NTQy",
+      "final_url": "https://booking.hydreight.com/widget-business/ly19y",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "TWO H20 IV Therapy",
+      "business_indicators": 7,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "service",
+        "therapy",
+        "select",
+        "iv therapy",
+        "hydreight",
+        "wellness"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "TWO H20 IV Therapy",
+      "content_length": 34238,
+      "load_time": 5.900614976882935,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>two h20 iv therapy</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet",
+      "tested_at": "2025-06-26T18:02:00.772291"
+    },
+    {
+      "slug": "NTQz",
+      "url": "https://booking.hydreight.com/b/NTQz",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Integrated Functional Health",
+      "business_indicators": 3,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight",
+        "health"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Integrated Functional Health",
+      "content_length": 31958,
+      "load_time": 5.012371778488159,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>integrated functional health</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"",
+      "tested_at": "2025-06-26T18:02:05.895536"
+    },
+    {
+      "slug": "NTQ4",
+      "url": "https://booking.hydreight.com/b/NTQ4",
+      "final_url": "https://booking.hydreight.com/widget-business/xm23n",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Set4LifeIV",
+      "business_indicators": 2,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Set4LifeIV",
+      "content_length": 30743,
+      "load_time": 5.3103790283203125,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>set4lifeiv</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"",
+      "tested_at": "2025-06-26T18:02:11.316811"
+    },
+    {
+      "slug": "NTU1",
+      "url": "https://booking.hydreight.com/b/NTU1",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31762,
+      "load_time": 5.59447717666626,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T18:02:17.022795"
+    },
+    {
+      "slug": "NTYy",
+      "url": "https://booking.hydreight.com/b/NTYy",
+      "final_url": "https://booking.hydreight.com/widget-business/no53e",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Wellness In Motion",
+      "business_indicators": 7,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "wellness",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Wellness In Motion",
+      "content_length": 45327,
+      "load_time": 5.946115970611572,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>wellness in motion</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet",
+      "tested_at": "2025-06-26T18:02:23.080632"
+    },
+    {
+      "slug": "NTYz",
+      "url": "https://booking.hydreight.com/b/NTYz",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Wellness In Motion",
+      "business_indicators": 3,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight",
+        "wellness"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Wellness In Motion",
+      "content_length": 31941,
+      "load_time": 6.6120078563690186,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>wellness in motion</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet",
+      "tested_at": "2025-06-26T18:02:29.804150"
+    },
+    {
+      "slug": "NTgy",
+      "url": "https://booking.hydreight.com/b/NTgy",
+      "final_url": "https://booking.hydreight.com/widget-business/uk34d",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Luscious Hydration and Aesthetics",
+      "business_indicators": 7,
+      "error_indicators": 2,
+      "indicators_found": [
+        "service",
+        "therapy",
+        "select",
+        "injection",
+        "iv therapy",
+        "hydreight",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Luscious Hydration and Aesthetics",
+      "content_length": 45854,
+      "load_time": 5.433876991271973,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>luscious hydration and aesthetics</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link ",
+      "tested_at": "2025-06-26T18:02:35.349093"
+    },
+    {
+      "slug": "NTgz",
+      "url": "https://booking.hydreight.com/b/NTgz",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Luscious Hydration and Aesthetics",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Luscious Hydration and Aesthetics",
+      "content_length": 31968,
+      "load_time": 8.503168821334839,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>luscious hydration and aesthetics</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link ",
+      "tested_at": "2025-06-26T18:02:43.963961"
+    },
+    {
+      "slug": "NTk2",
+      "url": "https://booking.hydreight.com/b/NTk2",
+      "final_url": "https://booking.hydreight.com/b/NTk2",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Plumped IV Hydration and Aesthetics",
+      "business_indicators": 4,
+      "error_indicators": 1,
+      "indicators_found": [
+        "service",
+        "available",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Plumped IV Hydration and Aesthetics",
+      "content_length": 31498,
+      "load_time": 4.483039855957031,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>plumped iv hydration and aesthetics</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><lin",
+      "tested_at": "2025-06-26T18:02:48.558679"
+    },
+    {
+      "slug": "NjA0",
+      "url": "https://booking.hydreight.com/b/NjA0",
+      "final_url": "https://booking.hydreight.com/widget-business/rn02n",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "RN Therapeutics Holistic Health",
+      "business_indicators": 5,
+      "error_indicators": 2,
+      "indicators_found": [
+        "service",
+        "select",
+        "hydreight",
+        "health",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "RN Therapeutics Holistic Health",
+      "content_length": 45263,
+      "load_time": 3.9742372035980225,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>rn therapeutics holistic health</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link re",
+      "tested_at": "2025-06-26T18:02:52.644558"
+    },
+    {
+      "slug": "NjA1",
+      "url": "https://booking.hydreight.com/b/NjA1",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "RN Therapeutics Holistic Health",
+      "business_indicators": 3,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight",
+        "health"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "RN Therapeutics Holistic Health",
+      "content_length": 31964,
+      "load_time": 4.857021808624268,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>rn therapeutics holistic health</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link re",
+      "tested_at": "2025-06-26T18:02:57.613474"
+    },
+    {
+      "slug": "NjE4",
+      "url": "https://booking.hydreight.com/b/NjE4",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31242,
+      "load_time": 4.26732611656189,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T18:03:01.984079"
+    },
+    {
+      "slug": "NjI1",
+      "url": "https://booking.hydreight.com/b/NjI1",
+      "final_url": "https://booking.hydreight.com/widget-business/xh68y",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "elivate lounge and beauty bar",
+      "business_indicators": 6,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "service",
+        "select",
+        "hydreight",
+        "medical",
+        "care"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "elivate lounge and beauty bar",
+      "content_length": 45432,
+      "load_time": 4.285955190658569,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>elivate lounge and beauty bar</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=",
+      "tested_at": "2025-06-26T18:03:06.373601"
+    },
+    {
+      "slug": "NjI2",
+      "url": "https://booking.hydreight.com/b/NjI2",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "elivate lounge and beauty bar",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "elivate lounge and beauty bar",
+      "content_length": 31960,
+      "load_time": 5.326862096786499,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>elivate lounge and beauty bar</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=",
+      "tested_at": "2025-06-26T18:03:11.804300"
+    },
+    {
+      "slug": "NjMx",
+      "url": "https://booking.hydreight.com/b/NjMx",
+      "final_url": "https://booking.hydreight.com/widget-business/ke63b",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Body Quench LLC",
+      "business_indicators": 7,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "medical",
+        "visit"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Body Quench LLC",
+      "content_length": 45279,
+      "load_time": 4.202088117599487,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>body quench llc</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" h",
+      "tested_at": "2025-06-26T18:03:16.118481"
+    },
+    {
+      "slug": "NjMy",
+      "url": "https://booking.hydreight.com/b/NjMy",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Body Quench LLC",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Body Quench LLC",
+      "content_length": 31932,
+      "load_time": 5.261731863021851,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>body quench llc</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" h",
+      "tested_at": "2025-06-26T18:03:21.482935"
+    },
+    {
+      "slug": "NjM1",
+      "url": "https://booking.hydreight.com/b/NjM1",
+      "final_url": "https://booking.hydreight.com/widget-business/ep80q",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "VITALITY Aesthetic & Wellness, Inc.",
+      "business_indicators": 9,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "service",
+        "treatment",
+        "available",
+        "select",
+        "hydreight",
+        "wellness",
+        "health",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "VITALITY Aesthetic & Wellness, Inc.",
+      "content_length": 45765,
+      "load_time": 8.216699838638306,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>vitality aesthetic &amp; wellness, inc.</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\">",
+      "tested_at": "2025-06-26T18:03:29.803238"
+    },
+    {
+      "slug": "NjM2",
+      "url": "https://booking.hydreight.com/b/NjM2",
+      "final_url": "",
+      "status": "TIMEOUT",
+      "classification": "TIMEOUT_ERROR",
+      "business_name": "",
+      "business_indicators": 0,
+      "error_indicators": 0,
+      "indicators_found": [],
+      "error_indicators_found": [
+        "timeout"
+      ],
+      "page_title": "",
+      "content_length": 0,
+      "load_time": 10,
+      "content_preview": "",
+      "error_details": "Timeout after 10s: Message: timeout: Timed out receiving message from renderer: 9.784\n  (Session info: chrome=137.0.7151.120)\nStacktrace:\n0   chromedriver                        0x0000000100765d14 cxxbridge1$str$ptr + 2735276\n1   chromedriver                        0x000000010075df88 cxxbridge1$str$ptr + 2703136\n2   chromedriver                        0x00000001002ae6f0 cxxbridge1$string$len + 90424\n3   chromedriver                        0x00000001002995e4 cxxbridge1$string$len + 4140\n4   chromedriver                        0x000000010029935c cxxbridge1$string$len + 3492\n5   chromedriver                        0x0000000100297114 chromedriver + 192788\n6   chromedriver                        0x0000000100297ca4 chromedriver + 195748\n7   chromedriver                        0x00000001002a4f9c cxxbridge1$string$len + 51684\n8   chromedriver                        0x00000001002bad14 cxxbridge1$string$len + 141148\n9   chromedriver                        0x0000000100298300 chromedriver + 197376\n10  chromedriver                        0x00000001002baaec cxxbridge1$string$len + 140596\n11  chromedriver                        0x0000000100337380 cxxbridge1$string$len + 650696\n12  chromedriver                        0x00000001002e9be8 cxxbridge1$string$len + 333360\n13  chromedriver                        0x0000000100729598 cxxbridge1$str$ptr + 2487600\n14  chromedriver                        0x000000010072c830 cxxbridge1$str$ptr + 2500552\n15  chromedriver                        0x0000000100709c14 cxxbridge1$str$ptr + 2358188\n16  chromedriver                        0x000000010072d0b8 cxxbridge1$str$ptr + 2502736\n17  chromedriver                        0x00000001006fadec cxxbridge1$str$ptr + 2297220\n18  chromedriver                        0x000000010074d420 cxxbridge1$str$ptr + 2634680\n19  chromedriver                        0x000000010074d5ac cxxbridge1$str$ptr + 2635076\n20  chromedriver                        0x000000010075dbd4 cxxbridge1$str$ptr + 2702188\n21  libsystem_pthread.dylib             0x0000000190672c0c _pthread_start + 136\n22  libsystem_pthread.dylib             0x000000019066db80 thread_start + 8\n",
+      "tested_at": "2025-06-26T18:03:39.912667"
+    },
+    {
+      "slug": "NjM4",
+      "url": "https://booking.hydreight.com/b/NjM4",
+      "final_url": "https://booking.hydreight.com/widget-business/ep80q",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "VITALITY Aesthetic & Wellness, Inc.",
+      "business_indicators": 9,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "service",
+        "treatment",
+        "available",
+        "select",
+        "hydreight",
+        "wellness",
+        "health",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "VITALITY Aesthetic & Wellness, Inc.",
+      "content_length": 45940,
+      "load_time": 6.5645880699157715,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>vitality aesthetic &amp; wellness, inc.</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\">",
+      "tested_at": "2025-06-26T18:03:46.588749"
+    },
+    {
+      "slug": "NjQ4",
+      "url": "https://booking.hydreight.com/b/NjQ4",
+      "final_url": "https://booking.hydreight.com/widget-business/ep80q",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "VITALITY Aesthetic & Wellness, Inc.",
+      "business_indicators": 9,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "service",
+        "treatment",
+        "available",
+        "select",
+        "hydreight",
+        "wellness",
+        "health",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "VITALITY Aesthetic & Wellness, Inc.",
+      "content_length": 45765,
+      "load_time": 5.854372024536133,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>vitality aesthetic &amp; wellness, inc.</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\">",
+      "tested_at": "2025-06-26T18:03:52.554327"
+    },
+    {
+      "slug": "NjUz",
+      "url": "https://booking.hydreight.com/b/NjUz",
+      "final_url": "https://booking.hydreight.com/widget-business/rw36v",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "IV NURSE MINDY",
+      "business_indicators": 4,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "service",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "IV NURSE MINDY",
+      "content_length": 36534,
+      "load_time": 7.1174468994140625,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>iv nurse mindy</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" hr",
+      "tested_at": "2025-06-26T18:03:59.783771"
+    },
+    {
+      "slug": "NjU0",
+      "url": "https://booking.hydreight.com/b/NjU0",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Live Well and Hustle Co",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Live Well and Hustle Co",
+      "content_length": 31950,
+      "load_time": 9.559406995773315,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>live well and hustle co </title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"styl",
+      "tested_at": "2025-06-26T18:04:09.454836"
+    },
+    {
+      "slug": "NjU1",
+      "url": "https://booking.hydreight.com/b/NjU1",
+      "final_url": "https://booking.hydreight.com/widget-business/uz11f",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Flora Hydration & Wellness",
+      "business_indicators": 7,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "wellness",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Flora Hydration & Wellness",
+      "content_length": 42826,
+      "load_time": 5.804651975631714,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>flora hydration &amp; wellness</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel",
+      "tested_at": "2025-06-26T18:04:15.370544"
+    },
+    {
+      "slug": "NjU2",
+      "url": "https://booking.hydreight.com/b/NjU2",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Flora Hydration & Wellness",
+      "business_indicators": 3,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight",
+        "wellness"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Flora Hydration & Wellness",
+      "content_length": 31962,
+      "load_time": 5.919741153717041,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>flora hydration &amp; wellness</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel",
+      "tested_at": "2025-06-26T18:04:21.401818"
+    },
+    {
+      "slug": "NjYz",
+      "url": "https://booking.hydreight.com/b/NjYz",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 31242,
+      "load_time": 5.855719804763794,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T18:04:27.368421"
+    },
+    {
+      "slug": "Njc0",
+      "url": "https://booking.hydreight.com/b/Njc0",
+      "final_url": "https://booking.hydreight.com/widget-business/pu80k",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Thrive Aesthetics LLC",
+      "business_indicators": 2,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Thrive Aesthetics LLC",
+      "content_length": 31120,
+      "load_time": 5.15619683265686,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>thrive aesthetics llc</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesh",
+      "tested_at": "2025-06-26T18:04:32.628519"
+    },
+    {
+      "slug": "Njc1",
+      "url": "https://booking.hydreight.com/b/Njc1",
+      "final_url": "https://booking.hydreight.com/widget-business/pu80k",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Thrive Aesthetics LLC",
+      "business_indicators": 2,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Thrive Aesthetics LLC",
+      "content_length": 31120,
+      "load_time": 5.255904912948608,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>thrive aesthetics llc</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesh",
+      "tested_at": "2025-06-26T18:04:37.996462"
+    },
+    {
+      "slug": "Njc2",
+      "url": "https://booking.hydreight.com/b/Njc2",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Life Force Hydration, LLC",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Life Force Hydration, LLC",
+      "content_length": 31952,
+      "load_time": 6.245608329772949,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>life force hydration, llc</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"sty",
+      "tested_at": "2025-06-26T18:04:44.353858"
+    },
+    {
+      "slug": "Njg0",
+      "url": "https://booking.hydreight.com/b/Njg0",
+      "final_url": "https://booking.hydreight.com/widget-business/lh04j",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Brad Srutowski",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Brad Srutowski",
+      "content_length": 36519,
+      "load_time": 5.433928966522217,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>brad srutowski</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" hr",
+      "tested_at": "2025-06-26T18:04:49.899113"
+    },
+    {
+      "slug": "Njkw",
+      "url": "https://booking.hydreight.com/b/Njkw",
+      "final_url": "https://booking.hydreight.com/widget-business/lh04j",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Brad Srutowski",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Brad Srutowski",
+      "content_length": 36519,
+      "load_time": 7.031003952026367,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>brad srutowski</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" hr",
+      "tested_at": "2025-06-26T18:04:57.041877"
+    },
+    {
+      "slug": "Njk2",
+      "url": "https://booking.hydreight.com/b/Njk2",
+      "final_url": "https://booking.hydreight.com/widget-business/si56s",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Jersey IV",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Jersey IV",
+      "content_length": 36489,
+      "load_time": 8.697501182556152,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>jersey iv</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"h",
+      "tested_at": "2025-06-26T18:05:05.844669"
+    },
+    {
+      "slug": "Njk3",
+      "url": "https://booking.hydreight.com/b/Njk3",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Day Wellness",
+      "business_indicators": 3,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight",
+        "wellness"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Day Wellness",
+      "content_length": 31926,
+      "load_time": 8.39359736442566,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>day wellness</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href",
+      "tested_at": "2025-06-26T18:05:14.349200"
+    },
+    {
+      "slug": "NzAz",
+      "url": "https://booking.hydreight.com/b/NzAz",
+      "final_url": "https://booking.hydreight.com/b/NzAz",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Regenerate Beauty Lab",
+      "business_indicators": 4,
+      "error_indicators": 1,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Regenerate Beauty Lab",
+      "content_length": 33799,
+      "load_time": 4.100338935852051,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>regenerate beauty lab</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesh",
+      "tested_at": "2025-06-26T18:05:18.555010"
+    },
+    {
+      "slug": "NzE0",
+      "url": "https://booking.hydreight.com/b/NzE0",
+      "final_url": "https://booking.hydreight.com/widget-business/lx55y",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Balance Hydration IV Therapy and Wellness",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "therapy",
+        "select",
+        "iv therapy",
+        "hydreight",
+        "wellness"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Balance Hydration IV Therapy and Wellness",
+      "content_length": 34127,
+      "load_time": 5.853454113006592,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>balance hydration iv therapy and wellness</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet",
+      "tested_at": "2025-06-26T18:05:24.511980"
+    },
+    {
+      "slug": "NzIw",
+      "url": "https://booking.hydreight.com/b/NzIw",
+      "final_url": "https://booking.hydreight.com/widget-business/lx55y",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Balance Hydration IV Therapy and Wellness",
+      "business_indicators": 5,
+      "error_indicators": 1,
+      "indicators_found": [
+        "therapy",
+        "select",
+        "iv therapy",
+        "hydreight",
+        "wellness"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "Balance Hydration IV Therapy and Wellness",
+      "content_length": 34127,
+      "load_time": 4.951581954956055,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>balance hydration iv therapy and wellness</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet",
+      "tested_at": "2025-06-26T18:05:29.575207"
+    },
+    {
+      "slug": "NzIx",
+      "url": "https://booking.hydreight.com/b/NzIx",
+      "final_url": "https://booking.hydreight.com/widget-business/wl65u",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Infinite Health & Wellness",
+      "business_indicators": 8,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "wellness",
+        "health",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Infinite Health & Wellness",
+      "content_length": 45368,
+      "load_time": 9.40720009803772,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>infinite health &amp; wellness</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel",
+      "tested_at": "2025-06-26T18:05:39.093411"
+    },
+    {
+      "slug": "NzQz",
+      "url": "https://booking.hydreight.com/b/NzQz",
+      "final_url": "",
+      "status": "TIMEOUT",
+      "classification": "TIMEOUT_ERROR",
+      "business_name": "",
+      "business_indicators": 0,
+      "error_indicators": 0,
+      "indicators_found": [],
+      "error_indicators_found": [
+        "timeout"
+      ],
+      "page_title": "",
+      "content_length": 0,
+      "load_time": 10,
+      "content_preview": "",
+      "error_details": "Timeout after 10s: Message: timeout: Timed out receiving message from renderer: 9.781\n  (Session info: chrome=137.0.7151.120)\nStacktrace:\n0   chromedriver                        0x0000000100765d14 cxxbridge1$str$ptr + 2735276\n1   chromedriver                        0x000000010075df88 cxxbridge1$str$ptr + 2703136\n2   chromedriver                        0x00000001002ae6f0 cxxbridge1$string$len + 90424\n3   chromedriver                        0x00000001002995e4 cxxbridge1$string$len + 4140\n4   chromedriver                        0x000000010029935c cxxbridge1$string$len + 3492\n5   chromedriver                        0x0000000100297114 chromedriver + 192788\n6   chromedriver                        0x0000000100297ca4 chromedriver + 195748\n7   chromedriver                        0x00000001002a4f9c cxxbridge1$string$len + 51684\n8   chromedriver                        0x00000001002bad14 cxxbridge1$string$len + 141148\n9   chromedriver                        0x0000000100298300 chromedriver + 197376\n10  chromedriver                        0x00000001002baaec cxxbridge1$string$len + 140596\n11  chromedriver                        0x0000000100337380 cxxbridge1$string$len + 650696\n12  chromedriver                        0x00000001002e9be8 cxxbridge1$string$len + 333360\n13  chromedriver                        0x0000000100729598 cxxbridge1$str$ptr + 2487600\n14  chromedriver                        0x000000010072c830 cxxbridge1$str$ptr + 2500552\n15  chromedriver                        0x0000000100709c14 cxxbridge1$str$ptr + 2358188\n16  chromedriver                        0x000000010072d0b8 cxxbridge1$str$ptr + 2502736\n17  chromedriver                        0x00000001006fadec cxxbridge1$str$ptr + 2297220\n18  chromedriver                        0x000000010074d420 cxxbridge1$str$ptr + 2634680\n19  chromedriver                        0x000000010074d5ac cxxbridge1$str$ptr + 2635076\n20  chromedriver                        0x000000010075dbd4 cxxbridge1$str$ptr + 2702188\n21  libsystem_pthread.dylib             0x0000000190672c0c _pthread_start + 136\n22  libsystem_pthread.dylib             0x000000019066db80 thread_start + 8\n",
+      "tested_at": "2025-06-26T18:05:49.217282"
+    },
+    {
+      "slug": "NzQ0",
+      "url": "https://booking.hydreight.com/b/NzQ0",
+      "final_url": "https://booking.hydreight.com/widget-business/ec28j",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Be Your Best You Health & Wellness",
+      "business_indicators": 9,
+      "error_indicators": 2,
+      "indicators_found": [
+        "book",
+        "appointment",
+        "service",
+        "select",
+        "hydreight",
+        "wellness",
+        "health",
+        "medical",
+        "care"
+      ],
+      "error_indicators_found": [
+        "401",
+        "error"
+      ],
+      "page_title": "Be Your Best You Health & Wellness",
+      "content_length": 45636,
+      "load_time": 6.251940965652466,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>be your best you health &amp; wellness</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><",
+      "tested_at": "2025-06-26T18:05:55.580948"
+    },
+    {
+      "slug": "NzUy",
+      "url": "https://booking.hydreight.com/b/NzUy",
+      "final_url": "https://booking.hydreight.com/widget-business/td52p",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 2,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "",
+      "content_length": 32033,
+      "load_time": 6.578351974487305,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T18:06:02.270907"
+    },
+    {
+      "slug": "NzUz",
+      "url": "https://booking.hydreight.com/b/NzUz",
+      "final_url": "https://booking.hydreight.com/widget",
+      "status": "ACTIVE",
+      "classification": "ACTIVE_BUSINESS",
+      "business_name": "Sigma medical spa & Moble IV infusion",
+      "business_indicators": 3,
+      "error_indicators": 2,
+      "indicators_found": [
+        "select",
+        "hydreight",
+        "medical"
+      ],
+      "error_indicators_found": [
+        "error",
+        "the link you've opened isn't working as expected"
+      ],
+      "page_title": "Sigma medical spa & Moble IV infusion",
+      "content_length": 31988,
+      "load_time": 3.252474069595337,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title>sigma  medical spa &amp; moble  iv infusion</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"styleshe",
+      "tested_at": "2025-06-26T18:06:05.626230"
+    }
+  ],
+  "stats": {
+    "total_tested": 100,
+    "active_found": 81,
+    "errors": 2,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 2
+  },
+  "checkpoint_info": {
+    "last_checkpoint": 0,
+    "checkpoint_frequency": 10,
+    "resume_from_slug": null
+  }
+}

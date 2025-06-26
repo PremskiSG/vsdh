@@ -1,0 +1,633 @@
+{
+  "session_id": "Premskis-MacBook-Air.local_FIXED_BATCH_001_999_20250626_000520",
+  "start_time": "2025-06-26T00:05:20.106392",
+  "scanner_type": "Hydreight_Level",
+  "base_url": "https://booking.hydreight.com/",
+  "instance_id": "FIXED_BATCH_001_999",
+  "hostname": "Premskis-MacBook-Air.local",
+  "results": [
+    {
+      "slug": "MQ==",
+      "url": "https://booking.hydreight.com/MQ==",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 5.5713770389556885,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:05:27.160899"
+    },
+    {
+      "slug": "Mg==",
+      "url": "https://booking.hydreight.com/Mg==",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 4.5465099811553955,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:05:31.808191"
+    },
+    {
+      "slug": "Mw==",
+      "url": "https://booking.hydreight.com/Mw==",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 4.939784049987793,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:05:36.853802"
+    },
+    {
+      "slug": "NA==",
+      "url": "https://booking.hydreight.com/NA==",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 6.574129819869995,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:05:43.533210"
+    },
+    {
+      "slug": "NQ==",
+      "url": "https://booking.hydreight.com/NQ==",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 4.0816099643707275,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:05:47.721174"
+    },
+    {
+      "slug": "Ng==",
+      "url": "https://booking.hydreight.com/Ng==",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.2613070011138916,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:05:51.085708"
+    },
+    {
+      "slug": "Nw==",
+      "url": "https://booking.hydreight.com/Nw==",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.8819808959960938,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:05:55.073657"
+    },
+    {
+      "slug": "OA==",
+      "url": "https://booking.hydreight.com/OA==",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.891646385192871,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:05:59.071093"
+    },
+    {
+      "slug": "OQ==",
+      "url": "https://booking.hydreight.com/OQ==",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.9091169834136963,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:06:03.086090"
+    },
+    {
+      "slug": "MTA=",
+      "url": "https://booking.hydreight.com/MTA=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.83762264251709,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:06:07.024621"
+    },
+    {
+      "slug": "MTE=",
+      "url": "https://booking.hydreight.com/MTE=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 4.137341260910034,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:06:11.266148"
+    },
+    {
+      "slug": "MTI=",
+      "url": "https://booking.hydreight.com/MTI=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 4.262209892272949,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:06:15.631044"
+    },
+    {
+      "slug": "MTM=",
+      "url": "https://booking.hydreight.com/MTM=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.9940378665924072,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:06:19.727727"
+    },
+    {
+      "slug": "MTQ=",
+      "url": "https://booking.hydreight.com/MTQ=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.9321200847625732,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:06:23.763589"
+    },
+    {
+      "slug": "MTU=",
+      "url": "https://booking.hydreight.com/MTU=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 4.090599060058594,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:06:27.959857"
+    },
+    {
+      "slug": "MTY=",
+      "url": "https://booking.hydreight.com/MTY=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.9869630336761475,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:06:32.052944"
+    },
+    {
+      "slug": "MTc=",
+      "url": "https://booking.hydreight.com/MTc=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.2227659225463867,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:06:35.381580"
+    },
+    {
+      "slug": "MTg=",
+      "url": "https://booking.hydreight.com/MTg=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.9878931045532227,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:06:39.475353"
+    },
+    {
+      "slug": "MTk=",
+      "url": "https://booking.hydreight.com/MTk=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 4.065116882324219,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:06:43.646372"
+    },
+    {
+      "slug": "MjA=",
+      "url": "https://booking.hydreight.com/MjA=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 4.058963060379028,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:06:47.811229"
+    },
+    {
+      "slug": "MjE=",
+      "url": "https://booking.hydreight.com/MjE=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.9367759227752686,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:06:51.852204"
+    },
+    {
+      "slug": "MjI=",
+      "url": "https://booking.hydreight.com/MjI=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 6.69060492515564,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:06:58.645833"
+    },
+    {
+      "slug": "MjM=",
+      "url": "https://booking.hydreight.com/MjM=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 6.081048965454102,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:07:04.832984"
+    },
+    {
+      "slug": "MjQ=",
+      "url": "https://booking.hydreight.com/MjQ=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 4.5666821002960205,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:07:09.503624"
+    },
+    {
+      "slug": "MjU=",
+      "url": "https://booking.hydreight.com/MjU=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.2639291286468506,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:07:12.873859"
+    },
+    {
+      "slug": "MjY=",
+      "url": "https://booking.hydreight.com/MjY=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.8826019763946533,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:07:16.858815"
+    },
+    {
+      "slug": "Mjc=",
+      "url": "https://booking.hydreight.com/Mjc=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.9604570865631104,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:07:20.925284"
+    },
+    {
+      "slug": "Mjg=",
+      "url": "https://booking.hydreight.com/Mjg=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 4.0226051807403564,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:07:25.053927"
+    },
+    {
+      "slug": "Mjk=",
+      "url": "https://booking.hydreight.com/Mjk=",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 3.9146838188171387,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:07:29.069657"
+    }
+  ],
+  "stats": {
+    "total_tested": 29,
+    "active_found": 0,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "checkpoint_info": {
+    "last_checkpoint": 0,
+    "checkpoint_frequency": 10,
+    "resume_from_slug": null
+  },
+  "end_time": "2025-06-26T00:07:34.064356"
+}

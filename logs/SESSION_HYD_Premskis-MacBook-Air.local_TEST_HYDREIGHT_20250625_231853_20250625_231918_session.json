@@ -1,0 +1,86 @@
+{
+  "session_id": "Premskis-MacBook-Air.local_TEST_HYDREIGHT_20250625_231853",
+  "start_time": "2025-06-25T23:18:53.303461",
+  "scanner_type": "Hydreight_Level",
+  "base_url": "https://booking.hydreight.com/",
+  "instance_id": "TEST_HYDREIGHT",
+  "hostname": "Premskis-MacBook-Air.local",
+  "results": [
+    {
+      "slug": "test1",
+      "url": "https://booking.hydreight.com/test1",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 5.872412204742432,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-25T23:19:04.432841"
+    },
+    {
+      "slug": "test2",
+      "url": "https://booking.hydreight.com/test2",
+      "final_url": "",
+      "status": "TIMEOUT",
+      "classification": "TIMEOUT_ERROR",
+      "business_name": "",
+      "business_indicators": 0,
+      "error_indicators": 0,
+      "indicators_found": [],
+      "error_indicators_found": [
+        "timeout"
+      ],
+      "page_title": "",
+      "content_length": 0,
+      "load_time": 10,
+      "content_preview": "",
+      "error_details": "Timeout after 10s: Message: timeout: Timed out receiving message from renderer: 9.819\n  (Session info: chrome=137.0.7151.120)\nStacktrace:\n0   chromedriver                        0x0000000104dd1d14 cxxbridge1$str$ptr + 2735276\n1   chromedriver                        0x0000000104dc9f88 cxxbridge1$str$ptr + 2703136\n2   chromedriver                        0x000000010491a6f0 cxxbridge1$string$len + 90424\n3   chromedriver                        0x00000001049055e4 cxxbridge1$string$len + 4140\n4   chromedriver                        0x000000010490535c cxxbridge1$string$len + 3492\n5   chromedriver                        0x0000000104903114 chromedriver + 192788\n6   chromedriver                        0x0000000104903ca4 chromedriver + 195748\n7   chromedriver                        0x0000000104910f9c cxxbridge1$string$len + 51684\n8   chromedriver                        0x0000000104926d14 cxxbridge1$string$len + 141148\n9   chromedriver                        0x0000000104904300 chromedriver + 197376\n10  chromedriver                        0x0000000104926aec cxxbridge1$string$len + 140596\n11  chromedriver                        0x00000001049a3380 cxxbridge1$string$len + 650696\n12  chromedriver                        0x0000000104955be8 cxxbridge1$string$len + 333360\n13  chromedriver                        0x0000000104d95598 cxxbridge1$str$ptr + 2487600\n14  chromedriver                        0x0000000104d98830 cxxbridge1$str$ptr + 2500552\n15  chromedriver                        0x0000000104d75c14 cxxbridge1$str$ptr + 2358188\n16  chromedriver                        0x0000000104d990b8 cxxbridge1$str$ptr + 2502736\n17  chromedriver                        0x0000000104d66dec cxxbridge1$str$ptr + 2297220\n18  chromedriver                        0x0000000104db9420 cxxbridge1$str$ptr + 2634680\n19  chromedriver                        0x0000000104db95ac cxxbridge1$str$ptr + 2635076\n20  chromedriver                        0x0000000104dc9bd4 cxxbridge1$str$ptr + 2702188\n21  libsystem_pthread.dylib             0x0000000190672c0c _pthread_start + 136\n22  libsystem_pthread.dylib             0x000000019066db80 thread_start + 8\n",
+      "tested_at": "2025-06-25T23:19:14.545545"
+    },
+    {
+      "slug": "test3",
+      "url": "https://booking.hydreight.com/test3",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 4.01326322555542,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-25T23:19:18.661165"
+    }
+  ],
+  "stats": {
+    "total_tested": 3,
+    "active_found": 0,
+    "errors": 1,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 1
+  },
+  "checkpoint_info": {
+    "last_checkpoint": 0,
+    "checkpoint_frequency": 10,
+    "resume_from_slug": null
+  },
+  "end_time": "2025-06-25T23:19:18.661200"
+}

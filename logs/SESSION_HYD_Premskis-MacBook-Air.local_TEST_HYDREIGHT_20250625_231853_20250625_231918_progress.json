@@ -1,0 +1,13 @@
+{
+  "session_id": "Premskis-MacBook-Air.local_TEST_HYDREIGHT_20250625_231853",
+  "timestamp": "20250625_231918",
+  "stats": {
+    "total_tested": 3,
+    "active_found": 0,
+    "errors": 1,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 1
+  },
+  "last_update": "2025-06-25T23:19:18.663862"
+}

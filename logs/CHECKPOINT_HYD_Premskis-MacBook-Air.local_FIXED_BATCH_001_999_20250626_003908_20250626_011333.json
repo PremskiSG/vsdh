@@ -1,0 +1,16 @@
+{
+  "session_id": "Premskis-MacBook-Air.local_FIXED_BATCH_001_999_20250626_003908",
+  "timestamp": "2025-06-26T01:13:33.274880",
+  "current_index": 400,
+  "total_slugs": 999,
+  "current_slug": "NDAw",
+  "stats": {
+    "total_tested": 400,
+    "active_found": 33,
+    "errors": 2,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 2
+  },
+  "completed_slugs": 400
+}

@@ -1,0 +1,16 @@
+{
+  "session_id": "Premskis-MacBook-Air.local_ACTIVE_RETEST_20250626_175036",
+  "timestamp": "2025-06-26T17:52:38.882070",
+  "current_index": 15,
+  "total_slugs": 140,
+  "current_slug": "MjQz",
+  "stats": {
+    "total_tested": 14,
+    "active_found": 8,
+    "errors": 2,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 2
+  },
+  "completed_slugs": 15
+}

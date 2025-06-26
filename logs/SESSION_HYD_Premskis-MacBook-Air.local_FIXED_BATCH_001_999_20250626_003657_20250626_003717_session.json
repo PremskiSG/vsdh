@@ -1,0 +1,87 @@
+{
+  "session_id": "Premskis-MacBook-Air.local_FIXED_BATCH_001_999_20250626_003657",
+  "start_time": "2025-06-26T00:36:57.915281",
+  "scanner_type": "Hydreight_Level",
+  "base_url": "https://booking.hydreight.com/",
+  "instance_id": "FIXED_BATCH_001_999",
+  "hostname": "Premskis-MacBook-Air.local",
+  "results": [
+    {
+      "slug": "MQ==",
+      "url": "https://booking.hydreight.com/MQ==",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 5.44661808013916,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:37:04.614857"
+    },
+    {
+      "slug": "Mg==",
+      "url": "https://booking.hydreight.com/Mg==",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 4.394583702087402,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:37:09.110264"
+    },
+    {
+      "slug": "Mw==",
+      "url": "https://booking.hydreight.com/Mw==",
+      "final_url": "https://booking.hydreight.com/error/error-v1",
+      "status": "ERROR_PAGE",
+      "classification": "EMPTY_TITLE_INVALID_URL",
+      "business_name": "",
+      "business_indicators": 1,
+      "error_indicators": 1,
+      "indicators_found": [
+        "select"
+      ],
+      "error_indicators_found": [
+        "error"
+      ],
+      "page_title": "",
+      "content_length": 25889,
+      "load_time": 4.556091070175171,
+      "content_preview": "<html lang=\"en\" style=\"--default-icon-primary: #00b4e5;\"><head><meta charset=\"utf-8\"><title></title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"\"><link href=\"https://fonts.googleapis.com/css2?family=inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap\" rel=\"stylesheet\"><link href=\"https://fonts.googleapis.com/icon?family=material+icons\" rel=\"stylesheet\"><link rel=\"stylesheet\" href=\"https://fo",
+      "tested_at": "2025-06-26T00:37:13.772170"
+    }
+  ],
+  "stats": {
+    "total_tested": 3,
+    "active_found": 0,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "checkpoint_info": {
+    "last_checkpoint": 0,
+    "checkpoint_frequency": 10,
+    "resume_from_slug": null
+  },
+  "end_time": "2025-06-26T00:37:17.319252"
+}
