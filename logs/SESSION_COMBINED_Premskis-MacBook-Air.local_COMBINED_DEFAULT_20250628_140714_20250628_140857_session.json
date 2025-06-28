@@ -1,0 +1,27 @@
+{
+  "session_id": "Premskis-MacBook-Air.local_COMBINED_DEFAULT_20250628_140714",
+  "start_time": "2025-06-28T14:07:14.315374",
+  "scanner_type": "Combined_Enterprise_Hydreight",
+  "enterprise_url": "https://vsdigital-bookingwidget-prod.azurewebsites.net/b/",
+  "hydreight_url": "https://booking.hydreight.com/b/",
+  "instance_id": "COMBINED_DEFAULT",
+  "hostname": "Premskis-MacBook-Air.local",
+  "results": [],
+  "stats": {
+    "total_tested": 0,
+    "enterprise_active": 0,
+    "hydreight_active": 0,
+    "both_active": 0,
+    "neither_active": 0,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "checkpoint_info": {
+    "last_checkpoint": 0,
+    "checkpoint_frequency": 10,
+    "resume_from_slug": null
+  },
+  "end_time": "2025-06-28T14:08:57.399334"
+}

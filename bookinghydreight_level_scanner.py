@@ -300,12 +300,8 @@ class HydrightScanner:
             }
     
     def extract_business_name(self, page_source, page_title):
-        """Extract business name from page content - PRIORITIZE PAGE TITLE"""
-        # PRIORITY 1: Use page title if available and meaningful (contains actual business name)
-        if page_title and len(page_title) > 3 and page_title.lower() not in ['', 'loading', 'error']:
-            return page_title
-        
-        # PRIORITY 2: Look for common business name patterns only if no meaningful title
+        """Extract business name from page content"""
+        # Look for common business name patterns
         if 'hydreight' in page_source:
             # Extract Hydreight location info
             if 'location' in page_source:

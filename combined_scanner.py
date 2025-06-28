@@ -247,27 +247,36 @@ class CombinedScanner:
                 business_name = ""
             else:
                 # Check if we have a meaningful business title or substantial content
-                has_business_title = page_title and len(page_title) > 3 and page_title.lower() not in ['loading', 'error']
+                # FIXED: "undefined" is NOT a meaningful business title - it's an error indicator
+                has_business_title = (page_title and len(page_title) > 3 and 
+                                    page_title.lower() not in ['loading', 'error', 'undefined'])
                 has_substantial_content = content_length > 20000  # Both platforms have large pages when active
                 
-                if business_indicators_found or has_business_title or has_substantial_content:
-                    # If we have business indicators OR a business title OR substantial content, it's likely active
-                    # Only mark as error if we have clear error indicators AND no business signs
-                    if error_indicators_found and not business_indicators_found and not has_business_title:
-                        status = "ERROR_PAGE"
-                        classification = "ERROR_INDICATORS_FOUND"
-                        business_name = ""
-                    else:
-                        status = "ACTIVE"
-                        classification = "ACTIVE_BUSINESS"
-                        business_name = self.extract_business_name(page_source, page_title, platform_name)
-                elif error_indicators_found:
+                # IMPROVED LOGIC: Require BOTH business indicators AND meaningful title for ACTIVE status
+                # Don't rely solely on content length as pages with "undefined" titles have substantial content
+                if business_indicators_found and has_business_title:
+                    # Strong evidence: both business indicators and meaningful title
+                    status = "ACTIVE"
+                    classification = "ACTIVE_BUSINESS"
+                    business_name = self.extract_business_name(page_source, page_title, platform_name)
+                elif has_business_title and not error_indicators_found:
+                    # Moderate evidence: meaningful title without error indicators
+                    status = "ACTIVE"
+                    classification = "ACTIVE_BUSINESS"
+                    business_name = self.extract_business_name(page_source, page_title, platform_name)
+                elif page_title.lower() == 'undefined' or error_indicators_found:
+                    # Clear error indicators or "undefined" title
                     status = "ERROR_PAGE"
-                    classification = "ERROR_INDICATORS_FOUND"
+                    classification = "UNDEFINED_TITLE_OR_ERROR_INDICATORS"
                     business_name = ""
+                elif business_indicators_found and has_substantial_content:
+                    # Business indicators with substantial content but no meaningful title
+                    status = "ACTIVE"
+                    classification = "ACTIVE_BUSINESS_NO_TITLE"
+                    business_name = self.extract_business_name(page_source, page_title, platform_name)
                 else:
-                    status = "INACTIVE_UNKNOWN"
-                    classification = "NO_INDICATORS"
+                    status = "ERROR_PAGE"
+                    classification = "INSUFFICIENT_BUSINESS_EVIDENCE"
                     business_name = ""
             
             print(f"   🤖 {platform_name} Result: {status} - {business_name}")
@@ -361,7 +370,7 @@ class CombinedScanner:
     def extract_business_name(self, page_source, page_title, platform_name):
         """Extract business name from page content - PRIORITIZE PAGE TITLE"""
         # PRIORITY 1: Use page title if available and meaningful (contains actual business name)
-        if page_title and len(page_title) > 3 and page_title.lower() not in ['', 'loading', 'error']:
+        if page_title and len(page_title) > 3 and page_title.lower() not in ['', 'loading', 'error', 'undefined']:
             return page_title
         
         # PRIORITY 2: Look for platform-specific business name patterns only if no meaningful title
