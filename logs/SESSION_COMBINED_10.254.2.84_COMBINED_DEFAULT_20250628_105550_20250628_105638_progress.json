@@ -1,0 +1,16 @@
+{
+  "session_id": "10.254.2.84_COMBINED_DEFAULT_20250628_105550",
+  "timestamp": "20250628_105638",
+  "stats": {
+    "total_tested": 3,
+    "enterprise_active": 3,
+    "hydreight_active": 3,
+    "both_active": 3,
+    "neither_active": 0,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "last_update": "2025-06-28T10:56:38.857505"
+}

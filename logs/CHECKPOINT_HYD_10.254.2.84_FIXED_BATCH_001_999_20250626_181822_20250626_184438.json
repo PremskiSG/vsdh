@@ -1,0 +1,16 @@
+{
+  "session_id": "10.254.2.84_FIXED_BATCH_001_999_20250626_181822",
+  "timestamp": "2025-06-26T18:44:38.031011",
+  "current_index": 300,
+  "total_slugs": 999,
+  "current_slug": "MzAw",
+  "stats": {
+    "total_tested": 300,
+    "active_found": 24,
+    "errors": 3,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 3
+  },
+  "completed_slugs": 300
+}

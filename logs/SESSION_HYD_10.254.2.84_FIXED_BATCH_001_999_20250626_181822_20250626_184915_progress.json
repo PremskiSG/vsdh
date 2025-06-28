@@ -1,0 +1,13 @@
+{
+  "session_id": "10.254.2.84_FIXED_BATCH_001_999_20250626_181822",
+  "timestamp": "20250626_184915",
+  "stats": {
+    "total_tested": 350,
+    "active_found": 28,
+    "errors": 6,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 6
+  },
+  "last_update": "2025-06-26T18:49:15.721292"
+}

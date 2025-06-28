@@ -1,9 +1,6 @@
 {
   "session_id": "10.254.2.84_FIXED_BATCH_001_999_20250626_181822",
-  "timestamp": "2025-06-26T18:58:38.237649",
-  "current_index": 452,
-  "total_slugs": 999,
-  "current_slug": "NDUy",
+  "timestamp": "20250626_185838",
   "stats": {
     "total_tested": 451,
     "active_found": 44,
@@ -12,5 +9,5 @@
     "browser_errors": 0,
     "timeouts": 6
   },
-  "completed_slugs": 452
+  "last_update": "2025-06-26T18:58:38.281196"
 }
