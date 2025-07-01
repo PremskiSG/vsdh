@@ -1,0 +1,16 @@
+{
+  "session_id": "Premskis-MacBook-Air.local_COMBINED_DEFAULT_20250628_213853",
+  "timestamp": "20250628_224022",
+  "stats": {
+    "total_tested": 275,
+    "enterprise_active": 60,
+    "hydreight_active": 46,
+    "both_active": 15,
+    "neither_active": 184,
+    "errors": 0,
+    "connection_errors": 0,
+    "browser_errors": 0,
+    "timeouts": 0
+  },
+  "last_update": "2025-06-28T22:40:22.193430"
+}
